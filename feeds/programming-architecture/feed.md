@@ -3,6 +3,36 @@
 
 ## Aggiornamento 2026-04-12
 
+### [Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)
+*2026-03-10*
+
+Tech firm fined $1.1m by California for selling high-school students’ data
+
+I agree with Brian Marick’s response
+
+
+  ...
+
+---
+### [Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)
+*2026-02-19*
+
+I try to limit my time on stage these days, but one exception this year is at DDD Europe. I’ve been involved in Domain-Driven Design, ...
+
+---
+### [Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html)
+*2026-02-18*
+
+I’ll start with some more tidbits from the Thoughtworks Future of Software Development Retreat
+
+ ❄                ❄
+
+We were tired after the event, but our marketing folks forced Rachel Laycock and I to...
+
+---
+
+## Aggiornamento 2026-04-12
+
 ### [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)
 *2026-03-24*
 

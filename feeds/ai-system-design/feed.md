@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-12
 
+### [Holotron-12B - High Throughput Computer Use Agent](https://huggingface.co/blog/Hcompany/holotron-12b)
+*Tue, 17 Ma*
+
+
+
+---
+### [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets)
+*Tue, 10 Ma*
+
+
+
+---
+### [Ulysses Sequence Parallelism: Training with Million-Token Contexts](https://huggingface.co/blog/ulysses-sp)
+*Mon, 09 Ma*
+
+
+
+---
+
+## Aggiornamento 2026-04-12
+
 ### [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1)
 *Tue, 31 Ma*
 

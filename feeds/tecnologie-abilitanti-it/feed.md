@@ -3,6 +3,30 @@
 
 ## Aggiornamento 2026-04-12
 
+### [Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know](https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/)
+*Fri, 27 Fe*
+
+As announced November 2025, Kubernetes will retire Ingress-NGINX in March 2026.
+Despite its widespread usage, Ingress-NGINX is full of surprising defaults and side effects that are probably present in your cluster to...
+
+---
+### [Spotlight on SIG Architecture: API Governance](https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/)
+*Thu, 12 Fe*
+
+This is the fifth interview of a SIG Architecture Spotlight series that covers the different
+subprojects, and we will be covering SIG Architecture: API
+Governance....
+
+---
+### [Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io](https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io/)
+*Wed, 08 Ap*
+
+We recently announced the integration between Mend.io and Docker Hardened Images (DHI) provides a seamless framework for managing container security. By automatically distinguishing between base image vulnerabilities and application-layer risks, it uses VEX statements to differentiate between exp...
+
+---
+
+## Aggiornamento 2026-04-12
+
 ### [Securing Production Debugging in Kubernetes](https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/)
 *Wed, 18 Ma*
 
