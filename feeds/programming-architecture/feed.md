@@ -3,6 +3,37 @@
 
 ## Aggiornamento 2026-04-12
 
+### [Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)
+*2026-03-24*
+
+An Architecture Decision Record (ADR) is a short document that captures and
+  explains a single decision relevant to a product or ecosystem. Documents
+  should be short, just a couple of pages, and contain the decision, the context
+  for making it, and significant ramifications. They should no...
+
+---
+### [Fragments: March 19](https://martinfowler.com/fragments/2026-03-19.html)
+*2026-03-19*
+
+David Poll points out the flawed premise of the argument that code review is a bottleneck
+
+
+  To be fair, finding defects has always been listed as a goal of code review – Wikipedia will ...
+
+---
+### [Fragments: March 16](https://martinfowler.com/fragments/2026-03-16.html)
+*2026-03-16*
+
+Annie Vella did some research into how 158 professional software engineers used
+AI, her first question was:
+
+
+  Are AI tools shifting where engineers actually spend their time and effort? Because if they are, they’r...
+
+---
+
+## Aggiornamento 2026-04-12
+
 ### [Fragments: April  9](https://martinfowler.com/fragments/2026-04-09.html)
 *2026-04-09*
 

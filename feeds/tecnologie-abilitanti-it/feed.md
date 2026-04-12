@@ -3,6 +3,30 @@
 
 ## Aggiornamento 2026-04-12
 
+### [Securing Production Debugging in Kubernetes](https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/)
+*Wed, 18 Ma*
+
+During production debugging, the fastest route is often broad access such as cluster-admin (a ClusterRole that grants administrator-level access), shared bastions/jump boxes, or long-lived SSH keys. It works in the moment, but it comes with two common problems: auditing becomes di...
+
+---
+### [The Invisible Rewrite: Modernizing the Kubernetes Image Promoter](https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite/)
+*Tue, 17 Ma*
+
+Every container image you pull from registry.k8s.io got there through
+kpromo, the Kubernetes image
+promoter. It copies images from staging registries to
+production, signs them with <a href="https://sigstore....
+
+---
+### [Announcing the AI Gateway Working Group](https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg/)
+*Mon, 09 Ma*
+
+The community around Kubernetes includes a number of Special Interest Groups (SIGs) and Working Groups (WGs) facilitating discussions on important topics between interested contributors. Today, we're excited to announce the formation of the <a href="https://github.com/kubernetes-sigs/wg-ai-gat...
+
+---
+
+## Aggiornamento 2026-04-12
+
 ### [Kubernetes v1.36 Sneak Peek](https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek/)
 *Mon, 30 Ma*
 

@@ -2,21 +2,33 @@
   "security-hacking": [
     "c20f567c1b07",
     "855592831b44",
-    "74c320466a63"
+    "74c320466a63",
+    "1710610b3acc",
+    "83458f31c0ba",
+    "6252229705ad"
   ],
   "programming-architecture": [
     "3f9e47644df7",
     "2bf9f3b6b305",
-    "d5f5a0bb58fc"
+    "d5f5a0bb58fc",
+    "7092060a9423",
+    "c2b86d087a1a",
+    "791fd23e409d"
   ],
   "tecnologie-abilitanti-it": [
     "1b8770de9749",
     "97b787537779",
-    "b5d30fdef31e"
+    "b5d30fdef31e",
+    "a496286794de",
+    "48ef61af25d7",
+    "1c88aff84997"
   ],
   "ai-system-design": [
     "aeed5283fa22",
     "33b06a637567",
-    "3076bb1bb107"
+    "3076bb1bb107",
+    "77b9cd00420d",
+    "1648b1c1b9bb",
+    "c0503e72d70b"
   ]
 }

@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-12
 
+### [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1)
+*Tue, 31 Ma*
+
+
+
+---
+### [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva)
+*Tue, 24 Ma*
+
+
+
+---
+### [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)
+*Fri, 20 Ma*
+
+
+
+---
+
+## Aggiornamento 2026-04-12
+
 ### [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers)
 *Thu, 09 Ap*
 
