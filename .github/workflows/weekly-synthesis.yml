@@ -1,0 +1,39 @@
+name: NLM Socratic Synthesis
+
+on:
+  schedule:
+    - cron: '0 18 * * 0'   # Domenica 20:00 Italy (CEST/UTC+2)
+  workflow_dispatch:        # trigger manuale da GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  socratic-synthesis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Socratic synthesis
+        run: python scripts/socratic_synthesis.py
+
+      - name: Commit and push synthesis
+        run: |
+          git config user.name  "NLM Feed Bot"
+          git config user.email "nlm-bot@noreply.github.com"
+          git add synthesis/
+          git diff --staged --quiet && echo "Nessuna evoluzione questa settimana." || (
+            git commit -m "🧠 Sintesi Socratica $(date -u +'%Y-%m-%d')" &&
+            git push
+          )
