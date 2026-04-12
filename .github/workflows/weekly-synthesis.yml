@@ -2,7 +2,7 @@ name: NLM Socratic Synthesis
 
 on:
   schedule:
-    - cron: '0 18 * * 0'   # Domenica 20:00 Italy (CEST/UTC+2)
+    - cron: '0 19 * * *'   # Ogni giorno 21:00 Italy (CEST/UTC+2) — dopo i feed delle 14:30
   workflow_dispatch:        # trigger manuale da GitHub UI
 
 permissions:
