@@ -1,6 +1,22 @@
 {
-  "security-hacking": [],
-  "programming-architecture": [],
-  "tecnologie-abilitanti-it": [],
-  "ai-system-design": []
+  "security-hacking": [
+    "c20f567c1b07",
+    "855592831b44",
+    "74c320466a63"
+  ],
+  "programming-architecture": [
+    "3f9e47644df7",
+    "2bf9f3b6b305",
+    "d5f5a0bb58fc"
+  ],
+  "tecnologie-abilitanti-it": [
+    "1b8770de9749",
+    "97b787537779",
+    "b5d30fdef31e"
+  ],
+  "ai-system-design": [
+    "aeed5283fa22",
+    "33b06a637567",
+    "3076bb1bb107"
+  ]
 }

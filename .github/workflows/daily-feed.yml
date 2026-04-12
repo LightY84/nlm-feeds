@@ -2,7 +2,8 @@ name: NLM Daily Feed Update
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # 09:00 Italy (CEST/UTC+2) — cloud, no macchina locale
+    - cron: '30 9 * * *'   # 11:30 Italy (CEST/UTC+2)
+    - cron: '30 12 * * *'  # 14:30 Italy (CEST/UTC+2)
   workflow_dispatch:        # trigger manuale da GitHub UI
 
 permissions:
