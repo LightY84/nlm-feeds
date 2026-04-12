@@ -1,0 +1,40 @@
+name: NLM Daily Feed Update
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 09:00 Italy (CEST/UTC+2) — cloud, no macchina locale
+  workflow_dispatch:        # trigger manuale da GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Run feed updater
+        run: python scripts/update_feeds.py
+
+      - name: Commit and push (solo se ci sono modifiche)
+        run: |
+          git config user.name  "NLM Feed Bot"
+          git config user.email "nlm-bot@noreply.github.com"
+          git add feeds/ registry.json
+          git diff --staged --quiet && echo "Nessuna novità oggi." || (
+            git commit -m "📚 Feed update $(date -u +'%Y-%m-%d')" &&
+            git push
+          )
