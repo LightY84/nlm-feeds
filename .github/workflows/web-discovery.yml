@@ -1,0 +1,39 @@
+name: NLM Web Discovery
+
+on:
+  schedule:
+    - cron: '0 7 * * *'    # Ogni giorno 09:00 Italy (CEST/UTC+2) — prima dei feed RSS
+  workflow_dispatch:        # trigger manuale da GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  web-discovery:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run web discovery
+        run: python scripts/web_discovery.py
+
+      - name: Commit and push (solo se ci sono novità)
+        run: |
+          git config user.name  "NLM Feed Bot"
+          git config user.email "nlm-bot@noreply.github.com"
+          git add feeds/ registry.json
+          git diff --staged --quiet && echo "Nessuna novità dal web oggi." || (
+            git commit -m "🔍 Web Discovery $(date -u +'%Y-%m-%d')" &&
+            git push
+          )
