@@ -1,6 +1,21 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-13
+
+### [Scaling Uber with Thuan Pham (Uber’s first CTO)](https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers)
+*Wed, 01 Ap*
+
+Thuan Pham (Uber's first CTO) on scaling Uber from constant outages to global infrastructure, the shift to microservices and platform teams, and how AI is reshaping engineering.
+
+---
+### [From IDEs to AI Agents with Steve Yegge](https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve)
+*Wed, 11 Ma*
+
+Steve Yegge on how AI is reshaping software engineering, the rise of &#8220;vibe coding,&#8221; and why developers must adapt to a rapidly changing craft.
+
+---
+
 ## Aggiornamento 2026-04-12
 
 ### [Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)

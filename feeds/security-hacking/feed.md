@@ -1,6 +1,29 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-13
+
+### [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
+*Thu, 09 Ap*
+
+Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the session—blocking phishing relays and MFA bypass. [...]
+
+---
+### [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
+*Thu, 09 Ap*
+
+Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join our upcoming webinar with Flare Systems to learn how to turn those early warning signs into proactive defensive action before an intrusion begins. [...]
+
+---
+### [AI Chatbots and Trust](https://securityboulevard.com/2026/04/ai-chatbots-and-trust/)
+*Mon, 13 Ap*
+
+All the leading AI chatbots are sycophantic, and that’s a problem:
+
+Participants rated sycophantic AI responses as more trustworthy than balanced ones...
+
+---
+
 ## Aggiornamento 2026-04-12
 
 ### [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)

@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-13
+
+### [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/)
+*Thu, 02 Ap*
+
+Docker Hub is quickly becoming the home for AI models, serving millions of developers and bringing together a curated lineup that spans lightweight edge models to high-performance LLMs, all packaged as OCI artifacts. Today, we’re excited to welcome Gemma 4, the latest generation of lightweight, s...
+
+---
+### [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/)
+*Thu, 02 Ap*
+
+Docker Desktop is one of the most widely used developer tools in the world, yet for millions of enterprise developers, running it simply hasn’t been an option. The environments they rely on, such as virtual desktop infrastructure (VDI) platforms and managed desktops, often lack the resources or c...
+
+---
+### [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/)
+*Tue, 31 Ma*
+
+Back in October, we showed how Docker Model Runner on the NVIDIA DGX Spark makes it remarkably easy to run large AI models locally with the same familiar Docker experience developers already trust. That post struck a chord: hundreds of developers discovered that a compact desktop system paired wi...
+
+---
+
 ## Aggiornamento 2026-04-12
 
 ### [Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know](https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/)

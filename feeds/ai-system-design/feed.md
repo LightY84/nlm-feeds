@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-13
+
+### [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms)
+*Thu, 05 Ma*
+
+
+
+---
+### [PRX Part 3 — Training a Text-to-Image Model in 24h!](https://huggingface.co/blog/Photoroom/prx-part3)
+*Tue, 03 Ma*
+
+
+
+---
+### [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers)
+*Thu, 26 Fe*
+
+
+
+---
+
 ## Aggiornamento 2026-04-12
 
 ### [Holotron-12B - High Throughput Computer Use Agent](https://huggingface.co/blog/Hcompany/holotron-12b)
