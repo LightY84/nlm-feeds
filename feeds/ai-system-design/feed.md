@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-13
 
+### [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf)
+*Fri, 20 Fe*
+
+
+
+---
+### [Train AI models with Unsloth and Hugging Face Jobs for FREE](https://huggingface.co/blog/unsloth-jobs)
+*Fri, 20 Fe*
+
+
+
+---
+### [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast)
+*Wed, 18 Fe*
+
+
+
+---
+
+## Aggiornamento 2026-04-13
+
 ### [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms)
 *Thu, 05 Ma*
 

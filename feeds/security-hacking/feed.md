@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-13
 
+### [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
+*Mon, 13 Ap*
+
+New "Storm" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]
+
+---
+### [Anthropic Just Gave Defenders a Firehose. They’re Already Drowning.](https://securityboulevard.com/2026/04/anthropic-just-gave-defenders-a-firehose-theyre-already-drowning/)
+*Mon, 13 Ap*
+
+Anthropic announced Project Glasswing last week with the kind ...
+
+---
+### [CEOs: You Don’t Add AI. You Rebuild for It.](https://securityboulevard.com/2026/04/ceos-you-dont-add-ai-you-rebuild-for-it/)
+*Mon, 13 Ap*
+
+Why Most AI Strategies Fail Before They Scale Artificial intelligence has moved from experimentation to expectation. Nearly every enterprise has deployed AI in some form....Rea...
+
+---
+
+## Aggiornamento 2026-04-13
+
 ### [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
 *Thu, 09 Ap*
 

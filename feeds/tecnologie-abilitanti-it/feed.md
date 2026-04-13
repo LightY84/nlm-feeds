@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-13
 
+### [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
+*Tue, 31 Ma*
+
+Agents have crossed a threshold. Over a quarter of all production code is now AI-authored, and developers who use agents are merging roughly 60% more pull requests. But these gains only come when you let agents run autonomously. And to unlock that, you have to get out of the way. That means letti...
+
+---
+### [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/)
+*Fri, 27 Ma*
+
+Hello, I’m Philippe, and I am a Principal Solutions Architect helping customers with their usage of Docker. I wanted a lightweight way to automate my IT news roundups without burning through AI credits. So I built a Docker Agent skill that uses the Brave Search API to fetch recent articles on a t...
+
+---
+### [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/)
+*Mon, 23 Ma*
+
+We wanted to provide you information about a security incident that we became aware of that affects customers who use the Aqua Security Vulnerability scanner (Trivy) across multiple distribution channels including Docker Hub, GitHub, and npm. Between 18:24 UTC on March 19, 2026 and 01:36 UTC on M...
+
+---
+
+## Aggiornamento 2026-04-13
+
 ### [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/)
 *Thu, 02 Ap*
 
