@@ -1,40 +1,45 @@
-# Programming & Architecture — Sintesi Socratica #3
-**Data:** 2026-04-13 | **Session:** 519db091
+# Programming & Architecture — Sintesi Socratica #2
+**Data:** 2026-04-12 | **Ciclo:** 2 | **Articoli analizzati:** 6
 
-## Punti di forza attuali
+## Stato attuale della conoscenza
+
+**Punti di forza consolidati:**
 - Design pattern GoF
 - TypeScript avanzato
 - CQRS ed Event Sourcing
 - Twelve-Factor App, Docker multi-stage
 - Ottimizzazione DB relazionale
-- **Nuovo:** Pattern concreti per SPA Vanilla JS su larga scala (Observer, Mediator, CQRS frontend)
 
-## Gap identificati
-- **Architettura Frontend moderna senza framework** — come strutturare 28+ moduli JS con stato centralizzato (parzialmente coperto)
-- **Database distribuiti / NoSQL** — nessuna copertura
-- **Sicurezza applicativa (AppSec)** — gap persistente
-- **Osservabilità frontend** — error tracking, performance monitoring per SPA senza framework
-- **Testing frontend Vanilla JS** — strategie di test per moduli JS senza framework di test standard
+## Evoluzione dei gap
 
-## Insight chiave
-**Tre principi emergenti software architecture 2025-2026:**
-1. **Standard Codificati in "Golden Paths"** — l'architettura non è documento statico ma viene incorporata nelle pipeline e nei tool (Component Factory, Event Delegation centralizzata come unica via di sviluppo)
-2. **Architettura come "Contesto" per l'Autonomia Agentica** — il ruolo dell'architetto è fornire contesto leggibile dalle macchine (policy, vincoli, telemetria) per agenti AI che operano in sicurezza
-3. **Riduzione Debito Cognitivo tramite Modularità e Reattività** — prevedibilità > creatività: pattern consistenti (withLang(), Store centralizzato, lazy loading) permettono di agire con fiducia senza decodificare complessità
+- **Infrastructure as Code** — 📈 2 articoli rilevanti trovati nei feed
+- **Architettura Frontend moderna** — ⚠️ Nessuna copertura dai feed attuali
+- **Database distribuiti / NoSQL** — ⚠️ Nessuna copertura dai feed attuali
+- **Sicurezza applicativa (AppSec)** — ⚠️ Nessuna copertura dai feed attuali
+- **Osservabilità** — ⚠️ Nessuna copertura dai feed attuali
+- **Sviluppo mobile/desktop** — ⚠️ Nessuna copertura dai feed attuali
 
-**Pattern concreti per Pokefinance SPA:**
-- **Proxy Reattivo (ADR-003)**: trasformare oggetto globale S in Proxy con subscription per-key
-- **Event Delegation centralizzata**: singolo listener globale con dispatch via `data-action`
-- **Lazy Loading**: import() dinamico per moduli pesanti (catalog-charts.js) solo on-demand
-- **CQRS Frontend-Backend**: Commands (POST/PUT/DELETE) via Mediator → Queries via Unified Data Agent su vista materializzata
+## Articoli recenti dai feed
+
+- **Bliki: Architecture Decision Record** (2026-03-24)
+  > An Architecture Decision Record (ADR) is a short document that captures and explains a single decision relevant to a product or ecosystem. Documents s
+- **Fragments: March 19** (2026-03-19)
+  > David Poll points out the flawed premise of the argument that code review is a bottleneck To be fair, finding defects has always been listed as a goal
+- **Fragments: March 16** (2026-03-16)
+  > Annie Vella did some research into how 158 professional software engineers used AI, her first question was: Are AI tools shifting where engineers actu
+- **Fragments: April  9** (2026-04-09)
+  > I mostly link to written material here, but I’ve recently listened to two excellent podcasts that I can recommend. Anyone who regularly reads these fr
+- **Fragments: April  2** (2026-04-02)
+  > As we see LLMs churn out scads of code, folks have increasingly turned to Cognitive Debt as a metaphor for capturing how a team can lose understanding
+- **Encoding Team Standards** (2026-03-31)
+  > AI coding assistants respond to whoever is prompting, and the quality of what they produce depends on how well the prompter articulates team standards
 
 ## Connessioni con Pokefinance
-- Il pattern Observer+Mediator risolve la comunicazione caotica tra i 28 moduli JS attuali
-- Gli ADR nel progetto (già presenti in `/docs/adr/`) documentano il "perché" delle decisioni — sorgente di verità anche per Claude
-- La soglia di migrazione PostgreSQL (>20 utenti concorrenti, p95 >100ms) è una decisione guidata dai dati, non da preferenze
-- Il backlog P1/P2 quasi azzerato permette di concentrarsi su refactoring strutturale
+
+Pattern architetturali applicabili a SPA Vanilla JS come Pokefinance
 
 ## Domande per il prossimo ciclo
-1. Come si implementa concretamente un **Proxy Reattivo con subscription tipizzata** in Vanilla JS che scala a 30+ moduli senza degradazione performance — quali pattern di garbage collection/memory leak prevention servono?
-2. Quali sono i **pattern di testing per SPA Vanilla JS** senza framework di test React/Vue — come si testano moduli basati su Observer/Mediator con Playwright o Vitest?
-3. Come si integra l'**osservabilità frontend** (error tracking, performance vitals, user journey) in una SPA senza framework su HF Spaces — quali tool leggeri esistono nel 2026?
+
+1. Come colmare il gap su **Architettura Frontend moderna** con risorse open-source?
+2. Come colmare il gap su **Database distribuiti / NoSQL** con risorse open-source?
+3. Come colmare il gap su **Sicurezza applicativa (AppSec)** con risorse open-source?
