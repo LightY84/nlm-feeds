@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-14
+
+### [Fragments: April 14](https://martinfowler.com/fragments/2026-04-14.html)
+*2026-04-14*
+
+I attended the first Pragmatic Summit early this year, and while there host
+Gergely Orosz interviewed Kent Beck and myself on stage. The video runs for about half-an-hour.
+
+<i...
+
+---
+
 ## Aggiornamento 2026-04-13
 
 ### [Scaling Uber with Thuan Pham (Uber’s first CTO)](https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers)

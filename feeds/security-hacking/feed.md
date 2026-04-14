@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-14
 
+### [5 Ways Zero Trust Maximizes Identity Security](https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/)
+*Tue, 14 Ap*
+
+Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]
+
+---
+### [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
+*Mon, 13 Ap*
+
+OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]
+
+---
+### [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
+*Mon, 13 Ap*
+
+Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]
+
+---
+
+## Aggiornamento 2026-04-14
+
 ### [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
 *Mon, 13 Ap*
 

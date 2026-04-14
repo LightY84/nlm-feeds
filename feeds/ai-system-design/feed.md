@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-14
 
+### [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/)
+*Tue, 03 Ma*
+
+Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.
+
+---
+### [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/)
+*Thu, 19 Fe*
+
+3.1 Pro is designed for tasks where a simple answer isn’t enough.
+
+---
+### [A new way to express yourself: Gemini can now create music](https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/)
+*Wed, 18 Fe*
+
+The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.
+
+---
+
+## Aggiornamento 2026-04-14
+
 ### [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/)
 *Thu, 02 Ap*
 

@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-14
 
+### [5 ways GitLab pipeline logic solves real engineering problems](https://about.gitlab.com/blog/5-ways-gitlab-pipeline-logic-solves-real-engineering-problems/)
+*2026-04-09*
+
+Most CI/CD tools can run a build and ship a deployment. Where they diverge is what happens when your delivery needs get real: a monorepo with a dozen services, microservices spread across multiple repositories, deployments to dozens of environments, or a platform team trying to enforce standar...
+
+---
+### [Streamline test management with the SmartBear QMetry GitLab component](https://about.gitlab.com/blog/streamline-test-management-with-the-smartbear-qmetry-gitlab-component/)
+*2026-04-07*
+
+In modern software development, test management and continuous integration are two sides of the same coin. DevSecOps teams need seamless integration between their CI/CD pipelines and test management platforms to maintain visibility, traceability, and compliance across the software development ...
+
+---
+### [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/)
+*2026-04-07*
+
+Note: The GitLab product did not use any of the compromised package versions mentioned in this post.In the span of 12 days, four separate supply chain attacks revealed that continuous integration and continuous delivery (CI/CD) pipelines have become a high-valu...
+
+---
+
+## Aggiornamento 2026-04-14
+
 ### [How to Analyze Hugging Face for Arm64 Readiness](https://www.docker.com/blog/how-to-analyze-hugging-face-for-arm64-readiness/)
 *Mon, 13 Ap*
 
