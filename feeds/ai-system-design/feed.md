@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-14
+
+### [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/)
+*Thu, 02 Ap*
+
+Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.
+
+---
+### [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/)
+*Thu, 26 Ma*
+
+Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.
+
+---
+### [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/)
+*Wed, 25 Ma*
+
+Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.
+
+---
+
 ## Aggiornamento 2026-04-13
 
 ### [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf)

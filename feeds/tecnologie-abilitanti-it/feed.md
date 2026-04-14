@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-14
+
+### [How to Analyze Hugging Face for Arm64 Readiness](https://www.docker.com/blog/how-to-analyze-hugging-face-for-arm64-readiness/)
+*Mon, 13 Ap*
+
+This post is a collaboration between Docker and Arm, demonstrating how Docker MCP Toolkit and the Arm MCP Server work together to scan Hugging Face Spaces for Arm64 Readiness. In our previous post, we walked through migrating a legacy C++ application with AVX2 intrinsics to Arm64 using Docker MCP...
+
+---
+### [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/)
+*Wed, 18 Ma*
+
+Docker Captains are leaders from the developer community that are both experts in their field and are passionate about sharing their Docker knowledge with others. “From the Captain’s Chair” is a blog series where we get a closer look at one Captain to learn more about them and their experiences. ...
+
+---
+### [GitLab named a 2026 Omdia Universe Leader](https://about.gitlab.com/blog/gitlab-named-a-2026-omdia-universe-leader/)
+*2026-04-13*
+
+GitLab is named a Leader in the 2026 Omdia Universe for AI-assisted Software Development, IDE-based Tools. Of the nineteen vendors evaluated by the independent analyst firm, GitLab earned best-in-class scores in three categories: Solution Breadth (100%), Strategy and Innovation (88%), and Core...
+
+---
+
 ## Aggiornamento 2026-04-13
 
 ### [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
