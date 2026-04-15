@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-15
+
+### [Why We Chose the Harder Path: Docker Hardened Images, One Year Later](https://www.docker.com/blog/why-we-chose-the-harder-path-docker-hardened-images-one-year-later/)
+*Tue, 14 Ap*
+
+We're coming up on a year since launching Docker Hardened Images (DHI) this May, and crossing a milestone earlier this month made me stop and reflect on what we've actually been building. Earlier this month, we crossed over 500k daily pulls of DHIs, and over 25k continuously patched OS level arti...
+
+---
+### [GitLab and Vertex AI on Google Cloud: Advancing agentic software development](https://about.gitlab.com/blog/gitlab-and-vertex-ai-on-google-cloud/)
+*2026-04-14*
+
+GitLab Duo Agent Platform is helping redefine how organizations build, secure, and deliver software. Since its general availability in January 2026, the platform is bringing agentic AI to every phase of the software development lifecycle. Duo Agent Platform is an intelligent orchestration laye...
+
+---
+### [GitLab Duo CLI: Agentic AI for the development lifecycle, now in the terminal](https://about.gitlab.com/blog/gitlab-duo-cli/)
+*2026-04-07*
+
+Debugging a broken pipeline at the end of a sprint, or wiring AI into a CI/CD workflow that runs without anyone watching, is exactly where today's AI assistants fall short given their focus on coding – which is only a portion of the software lifecycle. They're built for interactive coding sess...
+
+---
+
 ## Aggiornamento 2026-04-14
 
 ### [5 ways GitLab pipeline logic solves real engineering problems](https://about.gitlab.com/blog/5-ways-gitlab-pipeline-logic-solves-real-engineering-problems/)
