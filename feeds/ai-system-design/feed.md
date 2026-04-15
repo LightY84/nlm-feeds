@@ -3,6 +3,17 @@
 
 ## Aggiornamento 2026-04-15
 
+### [Identifying Interactions at Scale for LLMs](http://bair.berkeley.edu/blog/2026/03/13/spex/)
+*Fri, 13 Ma*
+
+-->
+
+<i style="font-...
+
+---
+
+## Aggiornamento 2026-04-15
+
 ### [Meet HoloTab by HCompany. Your AI browser companion.](https://huggingface.co/blog/Hcompany/holotab)
 *Wed, 15 Ap*
 

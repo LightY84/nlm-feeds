@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-15
 
+### [A guide to the breaking changes in GitLab 19.0](https://about.gitlab.com/blog/a-guide-to-the-breaking-changes-in-gitlab-19-0/)
+*2026-04-15*
+
+GitLab 17.0 shipped with 80 breaking changes. GitLab 18.0 had 27. The upcoming GitLab 19.0 release is projected to include 15.We know that managing breaking changes across a major upgrade is time-consuming: It requires investigation and coordination across your organization. In response...
+
+---
+### [Changes to packages.gitlab.com: What you need to know](https://about.gitlab.com/blog/changes-to-packages-gitlab-com-what-you-need-to-know/)
+*2026-03-31*
+
+Over the past few months, we have been gradually migrating the infrastructure behind packages.gitlab.com to a new package hosting system.The base domain packages.gitlab.com remains the same, but URL formats, GPG key locations, network requirements, and the pack...
+
+---
+### [Getting started with GitLab feature flags in Python](https://about.gitlab.com/blog/getting-started-with-gitlab-feature-flags-in-python/)
+*2026-03-26*
+
+You've spent weeks building a new feature. It passes every test, the code review is done, and it's ready to ship. So you deploy it and within an hour your inbox is full of bug reports. The feature works fine for most users, but something about production traffic you didn't anticipate is causin...
+
+---
+
+## Aggiornamento 2026-04-15
+
 ### [Why We Chose the Harder Path: Docker Hardened Images, One Year Later](https://www.docker.com/blog/why-we-chose-the-harder-path-docker-hardened-images-one-year-later/)
 *Tue, 14 Ap*
 
