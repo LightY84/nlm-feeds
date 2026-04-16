@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-04-16
 
+### [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers)
+*Thu, 16 Ap*
+
+
+
+---
+
+## Aggiornamento 2026-04-16
+
 ### [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis)
 *Wed, 15 Ap*
 

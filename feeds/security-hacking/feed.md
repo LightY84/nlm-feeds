@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-16
 
+### [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
+*Thu, 16 Ap*
+
+A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]
+
+---
+### [Cisco says critical Webex Services flaw requires customer action](https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/)
+*Thu, 16 Ap*
+
+Cisco has released security updates to patch four critical vulnerabilities, including a fixed improper certificate validation flaw in the company's cloud-based Webex Services platform that requires further customer action. [...]
+
+---
+### [New AgingFly malware used in attacks on Ukraine govt, hospitals](https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/)
+*Wed, 15 Ap*
+
+A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]
+
+---
+
+## Aggiornamento 2026-04-16
+
 ### [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
 *Thu, 16 Ap*
 

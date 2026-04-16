@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-16
 
+### [GitLab 18.10: Agentic AI now open to even more teams on GitLab](https://about.gitlab.com/blog/gitlab-18-10-agentic-ai-now-open-to-even-more-teams-on-gitlab/)
+*2026-03-19*
+
+Agentic AI is changing how software gets built. But for many teams, especially small and midsize ones, the path to adopting it has felt like an all-or-nothing decision: commit to a full platform subscription, or don't use AI at all.That changes with GitLab 18.10. Starting today, Free Gi...
+
+---
+### [Agentic code reviews for $0.25 each](https://about.gitlab.com/blog/agentic-code-reviews-with-flat-rate-pricing/)
+*2026-03-19*
+
+Code review has become the bottleneck nobody budgeted for. Developers are shipping faster than ever with AI assistance, but the review queue hasn't kept up. Code review times have jumped 91% on teams ...
+
+---
+### [How to use GitLab Container Virtual Registry with Docker Hardened Images](https://about.gitlab.com/blog/using-gitlab-container-virtual-registry-with-docker-hardened-images/)
+*2026-03-12*
+
+If you're a platform engineer, you've probably had this conversation:&quot;Security says we need to use hardened base images.&quot;&quot;Great, where do I configure credentials for yet another registry?&quot;&quot;Also, how do we make sure everyone ac...
+
+---
+
+## Aggiornamento 2026-04-16
+
 ### [Manage vulnerability noise at scale with auto-dismiss policies](https://about.gitlab.com/blog/auto-dismiss-vulnerability-management-policy/)
 *2026-03-25*
 
