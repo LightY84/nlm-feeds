@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-16
+
+### [Manage vulnerability noise at scale with auto-dismiss policies](https://about.gitlab.com/blog/auto-dismiss-vulnerability-management-policy/)
+*2026-03-25*
+
+Security scanners are essential, but not every finding requires action. Test code, vendored dependencies, generated files, and known false positives create noise that buries the vulnerabilities that actually matter. Security teams waste hours manually dismissing the same irrelevant findings ac...
+
+---
+### [Agile planning gets a boost from new features in GitLab 18.10](https://about.gitlab.com/blog/agile-planning-gets-a-boost-from-new-features-in-gitlab-18-10/)
+*2026-03-23*
+
+GitLab's Agile planning experience is getting a significant upgrade. Starting in GitLab 18.10, the new work items list and saved views bring together two long-requested capabilities: one list that displays all work item types together, and saved views that let you store and return to customize...
+
+---
+### [GitLab 18.10 brings AI-native triage and remediation](https://about.gitlab.com/blog/gitlab-18-10-brings-ai-native-triage-and-remediation/)
+*2026-03-19*
+
+GitLab 18.10 introduces new AI-powered security capabilities focused on improving the quality and speed of vulnerability management. Together, these features can help reduce the time developers spend investigating false positives and bring automated remediation directly into their workflow, so...
+
+---
+
 ## Aggiornamento 2026-04-15
 
 ### [A guide to the breaking changes in GitLab 19.0](https://about.gitlab.com/blog/a-guide-to-the-breaking-changes-in-gitlab-19-0/)

@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-16
+
+### [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis)
+*Wed, 15 Ap*
+
+
+
+---
+### [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/)
+*Wed, 15 Ap*
+
+Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.
+
+---
+
 ## Aggiornamento 2026-04-15
 
 ### [Identifying Interactions at Scale for LLMs](http://bair.berkeley.edu/blog/2026/03/13/spex/)
