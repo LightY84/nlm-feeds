@@ -1,6 +1,28 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-17
+
+### [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/)
+*Thu, 16 Ap*
+
+Last week, we launched Docker Sandboxes with a bold goal: to deliver the strongest agent isolation in the market. This post unpacks that claim, how microVMs enable it, and some of the architectural choices we made in this approach. The Problem With Every Other Approach Every sandboxing model asks...
+
+---
+### [How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/)
+*Thu, 16 Ap*
+
+Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. 
+The post How GitHub uses eBPF to improve deployment safety appeared first on...
+
+---
+### [GitLab 18.11: Budget guardrails for GitLab Credits](https://about.gitlab.com/blog/gitlab-18-11-budget-guardrails-for-gitlab-credits/)
+*2026-04-16*
+
+Teams using GitLab Duo Agent Platform with on-demand GitLab Credits are shipping faster, catching bugs earlier, and automating tasks that used to take entire sprints. But as adoption grows, so does oversight from finance, procurement, and platform teams to prove that AI spending is bounded, pr...
+
+---
+
 ## Aggiornamento 2026-04-16
 
 ### [GitLab 18.10: Agentic AI now open to even more teams on GitLab](https://about.gitlab.com/blog/gitlab-18-10-agentic-ai-now-open-to-even-more-teams-on-gitlab/)

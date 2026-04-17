@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-17
+
+### [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
+*Fri, 17 Ap*
+
+CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]
+
+---
+### [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
+*Fri, 17 Ap*
+
+Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]
+
+---
+### [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
+*Fri, 17 Ap*
+
+Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]
+
+---
+
 ## Aggiornamento 2026-04-16
 
 ### [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
