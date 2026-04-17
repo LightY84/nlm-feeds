@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-17
 
+### [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
+*Fri, 17 Ap*
+
+Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and recovery strategies to reduce risk and maintain business continuity. [...]
+
+---
+### [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
+*Thu, 16 Ap*
+
+A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]
+
+---
+### [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
+*Thu, 16 Ap*
+
+A researcher known as "Chaotic Eclipse" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed "RedSun," in the past two weeks, protesting how the company works with cybersecurity researchers. [...]
+
+---
+
+## Aggiornamento 2026-04-17
+
 ### [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
 *Fri, 17 Ap*
 

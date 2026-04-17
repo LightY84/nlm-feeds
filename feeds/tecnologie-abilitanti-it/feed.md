@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-17
 
+### [Claude Opus 4.7 is now available in GitLab Duo Agent Platform](https://about.gitlab.com/blog/claude-opus-4-7-is-now-available-in-gitlab-duo-agent-platform/)
+*2026-04-16*
+
+The GitLab Duo Agent Platform now supports Claude Opus 4.7, Anthropic's latest model, available today via model selection in <a href="https://docs.gitlab.co...
+
+---
+### [GitLab 18.11: CI Expert and Data Analyst AI agents target development gaps](https://about.gitlab.com/blog/ci-expert-and-data-analyst-ai-agents-target-development-gaps/)
+*2026-04-16*
+
+AI-generated code moves faster than the systems around it can keep up with. More code means more merge requests queued, more pipelines to configure, more questions about delivery that nobody has time to answer — and most of the tooling teams rely on wasn't built for this pace.In GitLab ...
+
+---
+### [GitLab 18.11: Automate remediation with ready-to-merge AI code fixes](https://about.gitlab.com/blog/automate-remediation-with-ready-to-merge-ai-code-fixes/)
+*2026-04-16*
+
+AI is writing code faster than any security team can review it. What used to be a manageable backlog of static application security testing (SAST) vulnerabilities is now an overwhelming list  that has become difficult to parse. Expecting developers to manually research and fix each one isn't a...
+
+---
+
+## Aggiornamento 2026-04-17
+
 ### [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/)
 *Thu, 16 Ap*
 
