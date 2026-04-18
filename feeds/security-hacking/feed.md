@@ -3,6 +3,30 @@
 
 ## Aggiornamento 2026-04-18
 
+### [Belgium’s NIS2 Audit Window Opens April 18, 2026. The Rest of the EU Is Right Behind.](https://securityboulevard.com/2026/04/belgiums-nis2-audit-window-opens-april-18-2026-the-rest-of-the-eu-is-right-behind/)
+*Fri, 17 Ap*
+
+Belgium's NIS2 conformity assessment deadline hits April 18, 2026, and other EU member states are ramping enforcement close behind. See what auditors will demand from your SOC: incident reporting timelines, Article 20 management liability, and automatic documentation.
+The post <a href="...
+
+---
+### [We Need a Shared Responsibility Model for AI](https://securityboulevard.com/2026/04/we-need-a-shared-responsibility-model-for-ai/)
+*Fri, 17 Ap*
+
+Over the past 6-8 months, researchers at my company discovere...
+
+---
+### [[un]prompted 2026 – Kinetic Risk: Securing And Governing Physical Al In The Wild](https://securityboulevard.com/2026/04/unprompted-2026-kinetic-risk-securing-and-governing-physical-al-in-the-wild/)
+*Fri, 17 Ap*
+
+Author, Creator &#38; Presenter: Padma Apparao, Architecting Al Solutions, Govt Agencies
+
+Our thanks to [un]prompted for publishing their Creators, Authors and Presenter’s outstanding [un]prompted 2026 AI Security Practitioner content on th...
+
+---
+
+## Aggiornamento 2026-04-18
+
 ### [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
 *Fri, 17 Ap*
 

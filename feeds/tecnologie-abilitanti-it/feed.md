@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-18
 
+### [ingress-nginx to Envoy Gateway migration on CNCF internal services cluster](https://www.cncf.io/blog/2026/04/13/ingress-nginx-to-envoy-gateway-migration-on-cncf-internal-services-cluster/)
+*Mon, 13 Ap*
+
+CNCF hosts a Kubernetes cluster to run some services for internal purposes (namely; codimd, GUAC, kcp). The Kubernetes Project announced the ingress-nginx retirement (not to be confused with NGINX or NGINX Ingress Controller), which also affects the above mentioned Cluster. So...
+
+---
+### [What I Learned at My First KubeCon + CloudNativeCon as a High School Speaker](https://www.cncf.io/blog/2026/04/11/what-i-learned-at-my-first-kubecon-cloudnativecon-as-a-high-school-speaker/)
+*Sat, 11 Ap*
+
+KubeCon + CloudNativeCon Europe 2026 is one of the biggest open-source conferences in the world, organized by the Cloud Native Computing Foundation (part of the Linux Foundation, which manages major projects like Linux). It brings together...
+
+---
+### [Rethinking platform engineering through diverse perspectives at KubeCon + CloudNativeCon EU Amsterdam](https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam/)
+*Fri, 10 Ap*
+
+KubeCon + CloudNativeCon Europe 2026 in Amsterdam highlighted the evolution of cloud native practices, particularly in platform engineering, and the growing focus on inclusion and accessibility within the community. This year’s conference emphasized that technical success...
+
+---
+
+## Aggiornamento 2026-04-18
+
 ### [Automating detection gap analysis with GitLab Duo Agent Platform](https://about.gitlab.com/blog/automating-detection-gap-analysis-with-gitlab-duo-agent-platform/)
 *2026-03-10*
 
