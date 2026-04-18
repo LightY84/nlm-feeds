@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-18
+
+### [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
+*Fri, 17 Ap*
+
+The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]
+
+---
+### [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
+*Thu, 16 Ap*
+
+Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]
+
+---
+### [Ignoring DPDP Compliance? Here’s the Risk to Your Organization](https://securityboulevard.com/2026/04/ignoring-dpdp-compliance-heres-the-risk-to-your-organization/)
+*Sat, 18 Ap*
+
+In boardroom discussions, data breaches are typically evaluated through the lens of financial impact, regulatory exposure, and operational disruption. While these factors are critical, they often overshadow a more fundamental concern: the consumer. Every piece of personal data collected by an ...
+
+---
+
 ## Aggiornamento 2026-04-17
 
 ### [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)

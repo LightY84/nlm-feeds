@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-18
+
+### [Automating detection gap analysis with GitLab Duo Agent Platform](https://about.gitlab.com/blog/automating-detection-gap-analysis-with-gitlab-duo-agent-platform/)
+*2026-03-10*
+
+After an incident wraps up, every incident response or security operations center faces the same uncomfortable question: What did we miss, and why? Answering that question well takes real work — someone has to read through the incident timeline, map the attacker's actions to detection opportun...
+
+---
+### [K3s on On-Prem Infrastructures the GitOps Way: Writing a Custom k0rdent Template from Scratch](https://www.cncf.io/blog/2026/04/17/k3s-on-on-prem-infrastructures-the-gitops-way-writing-a-custom-k0rdent-template-from-scratch/)
+*Fri, 17 Ap*
+
+Kubernetes turns 12 this year. In that time, it&#8217;s gone from a Google side project to the operating system of modern infrastructure&#160; running everywhere from mainframes to GPUs, across multi-cloud, hybrid, on-prem, and edge environments. The...
+
+---
+### [How To Measure the ROI of Developer Tools](https://www.cncf.io/blog/2026/04/15/how-to-measure-the-roi-of-developer-tools/)
+*Thu, 16 Ap*
+
+There’s been a growing emphasis in the cloud native community on investing in tools that improve developer experience. Platform engineering, accompanied with the rise of projects like Backstage, is all about making developers more productive by...
+
+---
+
 ## Aggiornamento 2026-04-17
 
 ### [Claude Opus 4.7 is now available in GitLab Duo Agent Platform](https://about.gitlab.com/blog/claude-opus-4-7-is-now-available-in-gitlab-duo-agent-platform/)
