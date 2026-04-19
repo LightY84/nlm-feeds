@@ -3,6 +3,30 @@
 
 ## Aggiornamento 2026-04-19
 
+### [A History of Global Hacking — and Where It’s Going Next](https://securityboulevard.com/2026/04/a-history-of-global-hacking-and-where-its-going-next/)
+*Sun, 19 Ap*
+
+In her new book, Code War: How Nations Hack, Spy, and Shape the Digital Battlefield, Allie Mellen provides true stories of the current cyber war and, importantly, what might be ahead.
+The post <a href="https://securityboulevard.com/2026/04/a-history-of-global-hacking-and-where-it...
+
+---
+### [[un]prompted 2026 – Trajectory-Aware Post-Training Security Agents](https://securityboulevard.com/2026/04/unprompted-2026-trajectory-aware-post-training-security-agents/)
+*Sat, 18 Ap*
+
+Author, Creator &#38; Presenter: Aaron Brown, Agentic AI Builder, AWS
+
+Our thanks to [un]prompted for publishing their Creators, Authors and Presenter’s outstanding [un]prompted 2026 AI Security Practitioner content on the <a href="https://...
+
+---
+### [In Praise of CISA](https://securityboulevard.com/2026/04/in-praise-of-cisa/)
+*Fri, 17 Ap*
+
+Lately, the Cybersecurity and Infrastructure Security Agency (CISA) has been buried under troubling headlines. Steep workforce reductions. $700 million 2027 budget cut. Leadership uncertainty. Impacts from the months-long partial government shutdown. Canceled 2026 CyberCorps: Scholarship for S...
+
+---
+
+## Aggiornamento 2026-04-19
+
 ### [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
 *Sat, 18 Ap*
 
