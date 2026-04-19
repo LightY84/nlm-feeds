@@ -1,6 +1,28 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-19
+
+### [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
+*Sat, 18 Ap*
+
+Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]
+
+---
+### [Malicious Browser Extensions: An Overlooked Security Threat](https://securityboulevard.com/2026/04/malicious-browser-extensions-an-overlooked-security-threat/)
+*Sun, 19 Ap*
+
+Malicious browser extensions are an overlooked security threat with access to all your SaaS data. Learn how to detect and stop them before damage is done.
+The post Malicious Brows...
+
+---
+### [Responsible AI Governance for UK SMEs: A Practical Starting Point](https://securityboulevard.com/2026/04/responsible-ai-governance-for-uk-smes-a-practical-starting-point/)
+*Sat, 18 Ap*
+
+Responsible AI Governance for UK SMEs: A Practical Starting Point Artificial intelligence is moving quickly into everyday business use. For many UK SMEs, that means AI is no longer a future topic. It is already helping with drafting content, summarising documents, handling customer queries, an...
+
+---
+
 ## Aggiornamento 2026-04-18
 
 ### [Belgium’s NIS2 Audit Window Opens April 18, 2026. The Rest of the EU Is Right Behind.](https://securityboulevard.com/2026/04/belgiums-nis2-audit-window-opens-april-18-2026-the-rest-of-the-eu-is-right-behind/)

@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-19
+
+### [CNCF and PyTorch communities come together at KubeCon + CloudNativeCon China 2026: CFP now open](https://www.cncf.io/blog/2026/04/09/cncf-and-pytorch-communities-come-together-at-kubecon-china-2026-cfp-now-open/)
+*Thu, 09 Ap*
+
+The cloud native, open infrastructure, and AI communities are coming together this year at one of Asia’s flagship open source events. KubeCon + CloudNativeCon + OpenInfra Summit Asia + PyTorch Conference China 2026 will take place from...
+
+---
+### [Peer-to-Peer acceleration for AI model distribution with Dragonfly](https://www.cncf.io/blog/2026/04/06/peer-to-peer-acceleration-for-ai-model-distribution-with-dragonfly/)
+*Mon, 06 Ap*
+
+The problem: AI model distribution is broken at scale Large-scale AI model distribution presents challenges in performance, efficiency, and cost. Consider a typical scenario: an ML platform team manages a Kubernetes cluster with 200 GPU nodes....
+
+---
+### [GitOps policy-as-code: Securing Kubernetes with Argo CD and Kyverno](https://www.cncf.io/blog/2026/04/02/gitops-policy-as-code-securing-kubernetes-with-argo-cd-and-kyverno/)
+*Thu, 02 Ap*
+
+A hands-on guide to deploying Kyverno with Argo CD and enforcing custom policies As Kubernetes environments develop, GitOps with Argo CD has become the standard for declarative, self-healing infrastructure. Yet without guardrails for your deployments, misconfigured,...
+
+---
+
 ## Aggiornamento 2026-04-18
 
 ### [ingress-nginx to Envoy Gateway migration on CNCF internal services cluster](https://www.cncf.io/blog/2026/04/13/ingress-nginx-to-envoy-gateway-migration-on-cncf-internal-services-cluster/)
