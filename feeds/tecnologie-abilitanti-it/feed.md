@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-20
+
+### [From public static void main to Golden Kubestronaut: The Art of unlearning](https://www.cncf.io/blog/2026/04/20/from-public-static-void-main-to-golden-kubestronaut-the-art-of-unlearning/)
+*Mon, 20 Ap*
+
+Ten years ago, my entire world fit inside a public static void main. I was a Java developer. Infrastructure? That was someone else&#8217;s problem a black box where my JAR files went to live, or quietly...
+
+---
+
 ## Aggiornamento 2026-04-19
 
 ### [CNCF and PyTorch communities come together at KubeCon + CloudNativeCon China 2026: CFP now open](https://www.cncf.io/blog/2026/04/09/cncf-and-pytorch-communities-come-together-at-kubecon-china-2026-cfp-now-open/)

@@ -1,6 +1,28 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-20
+
+### [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
+*Mon, 20 Ap*
+
+Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]
+
+---
+### [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+*Sun, 19 Ap*
+
+Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]
+
+---
+### [Vercel April 2026 Incident: Non-Sensitive Environment Variables Need Investigation Too](https://securityboulevard.com/2026/04/vercel-april-2026-incident-non-sensitive-environment-variables-need-investigation-too/)
+*Mon, 20 Ap*
+
+Vercel's Context.ai breach exposed environment variables that weren't marked sensitive. Learn how to pull and scan your secrets with GitGuardian.
+The post <a href="https://securityboulevard.com/2026/04/vercel-april-2026-incident-non-sensitive-environment-variables-need-investigation-too...
+
+---
+
 ## Aggiornamento 2026-04-19
 
 ### [A History of Global Hacking — and Where It’s Going Next](https://securityboulevard.com/2026/04/a-history-of-global-hacking-and-where-its-going-next/)
