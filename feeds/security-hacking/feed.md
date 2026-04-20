@@ -3,6 +3,28 @@
 
 ## Aggiornamento 2026-04-20
 
+### [Vercel Data Breach Linked to Earlier Context.ai Compromise](https://securityboulevard.com/2026/04/vercel-data-breach-linked-to-earlier-context-ai-compromise/)
+*Mon, 20 Ap*
+
+Hackers breached systems of Vercel, a p...
+
+---
+### [Mythos: An AI tool too powerful for public release](https://securityboulevard.com/2026/04/mythos-an-ai-tool-too-powerful-for-public-release/)
+*Mon, 20 Ap*
+
+Anthropic is keeping Mythos out of public hands, with limited access for select organizations over fears it could be misused.
+The post Mythos: An AI tool too powerful for public release</a...
+
+---
+### [Simplifying CMMC Compliance and Breaking Down Its Controls](https://securityboulevard.com/2026/04/simplifying-cmmc-compliance-and-breaking-down-its-controls/)
+*Mon, 20 Ap*
+
+Those seeking contracts with government agencies must meet many requirements and guidelines regarding cybersecurity. Each entity has its own, including the Department of Defense (DoD). Introduced in 2024 and being implemented in phases, Cybersecurity Maturity Model Certification 2.0 (CMMC) set...
+
+---
+
+## Aggiornamento 2026-04-20
+
 ### [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
 *Mon, 20 Ap*
 
