@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-21
 
+### [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
+*Tue, 21 Ap*
+
+​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]
+
+---
+### [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
+*Tue, 21 Ap*
+
+Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]
+
+---
+### [Seiko USA website defaced as hacker claims customer data theft](https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/)
+*Mon, 20 Ap*
+
+The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]
+
+---
+
+## Aggiornamento 2026-04-21
+
 ### [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
 *Tue, 21 Ap*
 
