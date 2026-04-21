@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-21
+
+### [What’s new in Git 2.54.0?](https://about.gitlab.com/blog/whats-new-in-git-2-54-0/)
+*2026-04-20*
+
+The Git project recently released Git 2.54.0. Let's look at a few notable highlights from this release, which includes contributions from the Git team at GitLab.Pluggable Ob...
+
+---
+### [Prepare your pipeline for AI-discovered zero-days](https://about.gitlab.com/blog/prepare-your-pipeline-for-ai-discovered-zero-days/)
+*2026-04-20*
+
+Anthropic's Mythos Preview model recently identified thousands of zero-day vulnerabilities across every major operating system and web browser, including an OpenBSD bug that went undetected for 27 years. In testing, Mythos aut...
+
+---
+### [GitHub Copilot's new policy for AI training is a governance wake-up call](https://about.gitlab.com/blog/github-copilots-new-policy-for-ai-training-is-a-governance-wake-up-call/)
+*2026-04-20*
+
+GitHub recently announced a significant change to how it handles data from Copilot users. Starting April 24, 2026, interaction data from Copilot Free, Pro, and Pro+ user...
+
+---
+
 ## Aggiornamento 2026-04-20
 
 ### [From public static void main to Golden Kubestronaut: The Art of unlearning](https://www.cncf.io/blog/2026/04/20/from-public-static-void-main-to-golden-kubestronaut-the-art-of-unlearning/)
