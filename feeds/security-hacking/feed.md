@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-22
 
+### [New npm supply-chain attack self-spreads to steal auth tokens](https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/)
+*Wed, 22 Ap*
+
+A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]
+
+---
+### [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
+*Tue, 21 Ap*
+
+France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]
+
+---
+### [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
+*Tue, 21 Ap*
+
+A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]
+
+---
+
+## Aggiornamento 2026-04-22
+
 ### [New GoGra malware for Linux uses Microsoft Graph API for comms](https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/)
 *Wed, 22 Ap*
 

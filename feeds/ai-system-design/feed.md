@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-04-22
 
+### [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/)
+*Tue, 21 Ap*
+
+Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.
+
+---
+
+## Aggiornamento 2026-04-22
+
 ### [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness)
 *Tue, 21 Ap*
 

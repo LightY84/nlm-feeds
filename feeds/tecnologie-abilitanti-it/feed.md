@@ -3,6 +3,16 @@
 
 ## Aggiornamento 2026-04-22
 
+### [Gateway API v1.5: Moving features to Stable](https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5/)
+*Tue, 21 Ap*
+
+The Kubernetes SIG Network community presents the release of Gateway API (v1.5)!
+Released on March 14, 2026, version 1.5 is our biggest release yet, and concentrates on movin...
+
+---
+
+## Aggiornamento 2026-04-22
+
 ### [GitLab + Amazon: Platform orchestration on a trusted AI foundation](https://about.gitlab.com/blog/gitlab-amazon-platform-orchestration-on-a-trusted-ai-foundation/)
 *2026-04-21*
 
