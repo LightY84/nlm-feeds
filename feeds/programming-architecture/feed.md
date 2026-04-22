@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-22
+
+### [Fragments: April 21](https://martinfowler.com/fragments/2026-04-21.html)
+*2026-04-21*
+
+Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught ou...
+
+---
+
 ## Aggiornamento 2026-04-14
 
 ### [Fragments: April 14](https://martinfowler.com/fragments/2026-04-14.html)

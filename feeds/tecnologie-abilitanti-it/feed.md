@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-22
+
+### [GitLab + Amazon: Platform orchestration on a trusted AI foundation](https://about.gitlab.com/blog/gitlab-amazon-platform-orchestration-on-a-trusted-ai-foundation/)
+*2026-04-21*
+
+If your team runs GitLab and has a strong AWS practice, a new combination of Duo Agent Platform and Amazon Bedrock is just for you. The model is simple: GitLab acts as your orchestration layer to help accelerate your entire software lifecycle with agentic AI, and Bedrock is designed to provide...
+
+---
+### [Auto-diagnosing Kubernetes alerts with HolmesGPT and CNCF tools](https://www.cncf.io/blog/2026/04/21/auto-diagnosing-kubernetes-alerts-with-holmesgpt-and-cncf-tools/)
+*Tue, 21 Ap*
+
+What a two-person SRE team learned building an AI investigation pipeline. Spoiler: the runbooks mattered more than the model. Why we built this At STCLab, our SRE team supports multiple Amazon EKS clusters running high-traffic production...
+
+---
+
 ## Aggiornamento 2026-04-21
 
 ### [What’s new in Git 2.54.0?](https://about.gitlab.com/blog/whats-new-in-git-2-54-0/)
