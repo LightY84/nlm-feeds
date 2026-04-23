@@ -1,6 +1,32 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-23
+
+### [SELinux Volume Label Changes goes GA (and likely implications in v1.37)](https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/)
+*Wed, 22 Ap*
+
+If you run Kubernetes on Linux with SELinux in enforcing mode, plan ahead: a future release (anticipated to be v1.37) is
+expected to turn the SELinuxMount feature gate on by default. Thi...
+
+---
+### [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/)
+*Wed, 22 Ap*
+
+Editors: Chad M. Crowell, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Utkarsh Umre
+Similar to previous releases, the release of Kubernetes v1.36 introduces new stable, beta, and alpha features. The consistent delivery of high-quality releases underscores the strength of ...
+
+---
+### [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/02/26/ccm-new-metric-route-sync-total/)
+*Thu, 26 Fe*
+
+Kubernetes v1.36 introduces a new alpha counter metric route_controller_route_sync_total
+to the Cloud Controller Manager (CCM) route controller implementation at
+k8s.io/cloud-provider. This metric
+increments e...
+
+---
+
 ## Aggiornamento 2026-04-22
 
 ### [Gateway API v1.5: Moving features to Stable](https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5/)
