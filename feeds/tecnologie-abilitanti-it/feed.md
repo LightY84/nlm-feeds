@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-04-23
 
+### [GitLab AI Hackathon 2026: Meet the winners](https://about.gitlab.com/blog/gitlab-ai-hackathon-2026-meet-the-winners/)
+*2026-04-22*
+
+AI writes code. That is expected now. But planning, security, compliance, and deployments? Those gaps remain. I have run contributor programs for years. I have never seen a community respond to technology like this.That is why we opened <a href="https://about.gitlab.com/gitlab-duo-agent...
+
+---
+### [From Ingress NGINX to Higress: migrating 60+ resources in 30 minutes with AI](https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai/)
+*Thu, 23 Ap*
+
+With the official retirement of Ingress NGINX that took place in March 2026, enterprise platform teams are facing an urgent security and compliance mandate. Remaining on a retired controller leaves critical infrastructure vulnerable to unpatched security...
+
+---
+
+## Aggiornamento 2026-04-23
+
 ### [SELinux Volume Label Changes goes GA (and likely implications in v1.37)](https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/)
 *Wed, 22 Ap*
 
