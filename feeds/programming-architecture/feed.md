@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-24
+
+### [The Pulse: AI token spending out of control – what’s next?](https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of)
+*Thu, 23 Ap*
+
+Details from 15 tech companies on the rapid growth of token spend, and their responses to it. Also: AI vendors can&#8217;t keep up with demand, plummeting morale at Meta, and more.
+
+---
+
 ## Aggiornamento 2026-04-22
 
 ### [Fragments: April 21](https://martinfowler.com/fragments/2026-04-21.html)
