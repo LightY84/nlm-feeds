@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-04-24
 
+### [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4)
+*Fri, 24 Ap*
+
+
+
+---
+
+## Aggiornamento 2026-04-24
+
 ### [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension)
 *Thu, 23 Ap*
 

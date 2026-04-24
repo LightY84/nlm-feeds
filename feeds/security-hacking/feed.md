@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-24
 
+### [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
+*Fri, 24 Ap*
+
+Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]
+
+---
+### [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
+*Thu, 23 Ap*
+
+Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]
+
+---
+### [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
+*Thu, 23 Ap*
+
+Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]
+
+---
+
+## Aggiornamento 2026-04-24
+
 ### [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
 *Thu, 23 Ap*
 
