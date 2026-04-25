@@ -1,6 +1,29 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-25
+
+### [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/)
+*Fri, 24 Ap*
+
+On behalf of Kubernetes SIG Auth and SIG Node, we are pleased to announce the
+graduation of fine-grained kubelet API authorization to General Availability
+(GA) in Kubernetes v1.36!
+The KubeletFineGrainedAuthz feature gate was introduced as an opt-in alpha
+featu...
+
+---
+### [Kubernetes v1.36: User Namespaces in Kubernetes are finally GA](https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/)
+*Thu, 23 Ap*
+
+After several years of development, User Namespaces support in
+Kubernetes reached General Availability (GA) with the v1.36 release.
+This is a Linux-only feature.
+For those of us working on low level container runtimes and rootless
+technologies, this has been a long awaited milestone. We...
+
+---
+
 ## Aggiornamento 2026-04-24
 
 ### [Trivy, KICS, and the shape of supply chain attacks so far in 2026](https://www.docker.com/blog/trivy-kics-and-the-shape-of-supply-chain-attacks-so-far-in-2026/)
