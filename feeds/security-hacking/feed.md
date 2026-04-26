@@ -1,6 +1,28 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-26
+
+### [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
+*Sat, 25 Ap*
+
+A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]
+
+---
+### [The Great Stay: Why Tech Talent Is Choosing Stability Over Salary](https://securityboulevard.com/2026/04/the-great-stay-why-tech-talent-is-choosing-stability-over-salary/)
+*Sun, 26 Ap*
+
+How mass layoffs and economic anxiety have upended the talent war, turning “job hugging” into the public sector’s greatest opportunity to fill open tech positions.
+The post ...
+
+---
+### [Introducing Proactive Hardening and Attack Surface Reduction (PHASR) for Linux and macOS](https://securityboulevard.com/2026/04/introducing-proactive-hardening-and-attack-surface-reduction-phasr-for-linux-and-macos/)
+*Sat, 25 Ap*
+
+<img alt="Introducing Proactive Hardening and Attack Surface Reduction (PHASR) for Linux and macOS" class="...
+
+---
+
 ## Aggiornamento 2026-04-25
 
 ### [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
