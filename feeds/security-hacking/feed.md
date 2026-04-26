@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-04-26
 
+### [[un]prompted 2026 – Securing Workspace GenAl At Google Speed](https://securityboulevard.com/2026/04/unprompted-2026-securing-workspace-genal-at-google-speed/)
+*Sat, 25 Ap*
+
+Author, Creator &#38; Presenter: Nicolas Lidzborski, Principal Engineer At Google Workspace Security
+
+Our thanks to [un]prompted for publishing their Creators, Authors and Presenter’s outstanding [un]prompted 2026 AI Security Practitioner c...
+
+---
+### [Supplier assurance for UK SMEs: a practical guide to checking third parties without overcomplicating it](https://securityboulevard.com/2026/04/supplier-assurance-for-uk-smes-a-practical-guide-to-checking-third-parties-without-overcomplicating-it/)
+*Sat, 25 Ap*
+
+Supplier assurance for UK SMEs: a practical guide to checking third parties without overcomplicating it Most UK SMEs rely on suppliers in some way. That might be payroll software, a managed IT provider, a marketing agency, a logistics partner, or a cloud service that holds customer data. The m...
+
+---
+### [Supplier assurance for UK SMEs: a practical guide to checking third parties without overcomplicating it](https://securityboulevard.com/2026/04/supplier-assurance-for-uk-smes-a-practical-guide-to-checking-third-parties-without-overcomplicating-it/)
+*Sat, 25 Ap*
+
+Supplier assurance for UK SMEs: a practical guide to checking third parties without overcomplicating it Most UK SMEs rely on suppliers in some way. That might be payroll software, a managed IT provider, a marketing agency, a logistics partner, or a cloud service that holds customer data. The m...
+
+---
+
+## Aggiornamento 2026-04-26
+
 ### [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
 *Sat, 25 Ap*
 
