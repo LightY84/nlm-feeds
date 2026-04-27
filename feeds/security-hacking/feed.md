@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-27
 
+### [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
+*Mon, 27 Ap*
+
+On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]
+
+---
+### [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
+*Mon, 27 Ap*
+
+Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in "certain corporate IT systems." [...]
+
+---
+### [Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know](https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/)
+*Mon, 27 Ap*
+
+Three seconds of audio is all it takes to clone a voice for fraud. Adaptive Security shows how deepfake calls trick employees into sending real money—and why most defenses don't catch them. [...]
+
+---
+
+## Aggiornamento 2026-04-27
+
 ### [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
 *Sun, 26 Ap*
 

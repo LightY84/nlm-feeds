@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-04-27
 
+### [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps)
+*Mon, 27 Ap*
+
+
+
+---
+
+## Aggiornamento 2026-04-27
+
 ### [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/)
 *Mon, 27 Ap*
 
