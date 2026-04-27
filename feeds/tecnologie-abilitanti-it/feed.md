@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-27
+
+### [Kubernetes for platform teams: Leveraging k0s and k0rdent](https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent/)
+*Mon, 27 Ap*
+
+In our previous blog, we explored a GitOps use case for on-premises infrastructure, managing multiple clusters hosted on the k3s Kubernetes distribution using k0rdent.&#160; But the platform engineering ecosystem is vast, and one blog barely scratches...
+
+---
+
 ## Aggiornamento 2026-04-25
 
 ### [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/)

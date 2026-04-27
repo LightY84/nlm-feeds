@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-27
+
+### [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/)
+*Mon, 27 Ap*
+
+Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models
+
+---
+
 ## Aggiornamento 2026-04-24
 
 ### [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4)

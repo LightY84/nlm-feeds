@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-27
+
+### [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
+*Sun, 26 Ap*
+
+Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]
+
+---
+### [AI Security Questionnaires: Why Most Startups Fail (And the Trust Stack That Fixes It)](https://securityboulevard.com/2026/04/ai-security-questionnaires-why-most-startups-fail-and-the-trust-stack-that-fixes-it/)
+*Mon, 27 Ap*
+
+AI Security Questionnaires: Why Most Startups Fail (And the Trust Stack That Fixes It) It’s Monday. Your enterprise prospect just sent a 312-question security questionnaire. Forty of those questions are about AI — model bias, training data lineage, ISO 42001, NIST AI RMF. Your Series B closes ...
+
+---
+### [FBI, Indonesian Authorities Team to Take Down Site Ripping Off Users for Millions](https://securityboulevard.com/2026/04/fbi-indonesian-authorities-team-to-take-down-site-ripping-off-users-for-millions/)
+*Mon, 27 Ap*
+
+Phishing still hooks users around the world and coaxes them to hand ...
+
+---
+
 ## Aggiornamento 2026-04-26
 
 ### [[un]prompted 2026 – Securing Workspace GenAl At Google Speed](https://securityboulevard.com/2026/04/unprompted-2026-securing-workspace-genal-at-google-speed/)
