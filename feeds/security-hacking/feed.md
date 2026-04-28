@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-28
+
+### [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
+*Tue, 28 Ap*
+
+Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]
+
+---
+### [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
+*Mon, 27 Ap*
+
+Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]
+
+---
+### [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
+*Mon, 27 Ap*
+
+A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 "sleeper" extensions that turn malicious after an update. [...]
+
+---
+
 ## Aggiornamento 2026-04-27
 
 ### [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)

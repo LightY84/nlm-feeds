@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-28
+
+### [Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI](https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging)
+*Tue, 28 Ap*
+
+
+
+---
+
 ## Aggiornamento 2026-04-27
 
 ### [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps)

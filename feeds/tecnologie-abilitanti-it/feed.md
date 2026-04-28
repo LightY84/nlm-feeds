@@ -1,6 +1,24 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-28
+
+### [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/)
+*Mon, 27 Ap*
+
+Kubernetes v1.36 promotes the ability to modify container resource requests and limits
+in the pod template of a suspended Job to beta. First introduced as alpha in v1.35, this
+feature allows queue controllers and cluster administrators to adjust CPU, memory, GPU,
+and extended resource specific...
+
+---
+### [Give your AI agent direct, structured GitLab access with glab CLI](https://about.gitlab.com/blog/give-your-ai-agent-direct-structured-gitlab-access-with-glab-cli/)
+*2026-04-27*
+
+When teams use GitLab Duo, Claude, Cursor, and other AI assistants, more of the development workflow runs through an AI agent acting on your behalf — reading issues, reviewing merge requests, running pipelines, and helping you ship faster. Most developers are already using the GitLab CLI (<cod...
+
+---
+
 ## Aggiornamento 2026-04-27
 
 ### [Kubernetes for platform teams: Leveraging k0s and k0rdent](https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent/)
