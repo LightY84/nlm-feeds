@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-04-29
 
+### [Fragments: April 29](https://martinfowler.com/fragments/2026-04-29.html)
+*2026-04-29*
+
+Chris Parsons has updated his guide on using AI to code. This is his third update, what I like about it is that he gives a lot of concrete information about how he uses AI, with sufficient detail that we can learn from him. His advice also...
+
+---
+
+## Aggiornamento 2026-04-29
+
 ### [Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)
 *2026-04-28*
 

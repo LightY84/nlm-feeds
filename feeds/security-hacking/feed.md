@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-29
 
+### [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
+*Wed, 29 Ap*
+
+A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]
+
+---
+### [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
+*Wed, 29 Ap*
+
+In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]
+
+---
+### [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
+*Tue, 28 Ap*
+
+A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]
+
+---
+
+## Aggiornamento 2026-04-29
+
 ### [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
 *Wed, 29 Ap*
 

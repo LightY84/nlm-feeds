@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-04-29
 
+### [GitLab and Anthropic: Governed AI for enterprise development](https://about.gitlab.com/blog/gitlab-and-anthropic-governed-ai-for-enterprise-development/)
+*2026-04-28*
+
+For enterprise and public sector leaders, the tension is familiar: Software teams need to move faster with AI, while security, compliance, and regulatory expectations only get more stringent. GitLab deepens its Anthropic Claude integration so organizations get access to newly released Claude m...
+
+---
+
+## Aggiornamento 2026-04-29
+
 ### [Kubernetes v1.36: Staleness Mitigation and Observability for Controllers](https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/)
 *Tue, 28 Ap*
 
