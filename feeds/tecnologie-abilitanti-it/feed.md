@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-29
+
+### [Kubernetes v1.36: Staleness Mitigation and Observability for Controllers](https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/)
+*Tue, 28 Ap*
+
+Staleness in Kubernetes controllers is a problem that affects many controllers, and is something may affect controller behavior
+in subtle ways. It is usually not until it is too late, when a controller in production has already taken incorrect action, that
+staleness is found to be an issue due...
+
+---
+### [Securing the git push pipeline: Responding to a critical remote code execution vulnerability](https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/)
+*Tue, 28 Ap*
+
+How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.
+The post Securing the git push pipeli...
+
+---
+### [How to build CI/CD observability at scale](https://about.gitlab.com/blog/how-to-build-ci-cd-observability-at-scale/)
+*2026-04-28*
+
+CI/CD optimization starts with visibility. Building a successful DevOps platform at enterprise scale should include understanding pipeline performance, job execution patterns, and quantifiable operational insights — especially for organizations running GitLab self-managed inst...
+
+---
+
 ## Aggiornamento 2026-04-28
 
 ### [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/)

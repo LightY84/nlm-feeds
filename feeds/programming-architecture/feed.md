@@ -1,6 +1,16 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-29
+
+### [Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)
+*2026-04-28*
+
+LLM programming assistants have demonstrated considerable value, but
+      mostly with individ...
+
+---
+
 ## Aggiornamento 2026-04-24
 
 ### [The Pulse: AI token spending out of control – what’s next?](https://newsletter.pragmaticengineer.com/p/the-pulse-ai-token-spending-out-of)
