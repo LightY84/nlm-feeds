@@ -1,6 +1,24 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-30
+
+### [Kubernetes v1.36: Tiered Memory Protection with Memory QoS](https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/)
+*Wed, 29 Ap*
+
+On behalf of SIG Node, we are pleased to announce updates to the Memory QoS
+feature (alpha) in Kubernetes v1.36. Memory QoS uses the cgroup v2 memory
+controller to give the kernel better guidance on how to treat container memory.
+It was first introduced in v1.22 and updated in v1.27. In Kubern...
+
+---
+### [Teaching software development the easy way using GitLab](https://about.gitlab.com/blog/teaching-software-development-the-easy-way-using-gitlab/)
+*2026-04-29*
+
+For instructors teaching software development, one of the biggest logistical challenges is assignment distribution and feedback at scale. How do you give large groups of students access to course materials, keep solution code private, and still deliver meaningful, contextual feedback without l...
+
+---
+
 ## Aggiornamento 2026-04-29
 
 ### [GitLab and Anthropic: Governed AI for enterprise development](https://about.gitlab.com/blog/gitlab-and-anthropic-governed-ai-for-enterprise-development/)

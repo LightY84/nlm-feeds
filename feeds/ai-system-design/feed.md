@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-30
+
+### [AI evals are becoming the new compute bottleneck](https://huggingface.co/blog/evaleval/eval-costs-bottleneck)
+*Wed, 29 Ap*
+
+
+
+---
+### [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1)
+*Wed, 29 Ap*
+
+
+
+---
+### [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra)
+*Wed, 29 Ap*
+
+
+
+---
+
 ## Aggiornamento 2026-04-29
 
 ### [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)

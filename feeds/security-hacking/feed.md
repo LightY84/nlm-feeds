@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-04-30
+
+### [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
+*Wed, 29 Ap*
+
+Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]
+
+---
+### [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
+*Wed, 29 Ap*
+
+Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]
+
+---
+### [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
+*Wed, 29 Ap*
+
+A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]
+
+---
+
 ## Aggiornamento 2026-04-29
 
 ### [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
