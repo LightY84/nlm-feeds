@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-04-30
 
+### [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
+*Thu, 30 Ap*
+
+When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]
+
+---
+### [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
+*Thu, 30 Ap*
+
+An exploit has been published for a local privilege escalation vulnerability dubbed "Copy Fail" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]
+
+---
+### [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
+*Thu, 30 Ap*
+
+The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]
+
+---
+
+## Aggiornamento 2026-04-30
+
 ### [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
 *Wed, 29 Ap*
 
