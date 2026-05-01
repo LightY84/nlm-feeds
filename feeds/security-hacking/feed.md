@@ -3,6 +3,28 @@
 
 ## Aggiornamento 2026-05-01
 
+### [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
+*Fri, 01 Ma*
+
+Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]
+
+---
+### [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
+*Thu, 30 Ap*
+
+The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]
+
+---
+### [Autonomous SOC: The Evolution of Self-Driving Security Operations](https://securityboulevard.com/2026/05/autonomous-soc-the-evolution-of-self-driving-security-operations/)
+*Fri, 01 Ma*
+
+The post Autonomous SOC: The Evolution of Self-Driving Security Operations appeared first on AI Security Automation.
+The post <a href="https://securityboulevard.com/2026/05/autonomous-soc-the-evo...
+
+---
+
+## Aggiornamento 2026-05-01
+
 ### [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
 *Fri, 01 Ma*
 

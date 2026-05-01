@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-05-01
 
+### [A Virtual Agent team at Docker: How the Coding Agent Sandboxes team uses a fleet of agents to ship faster](https://www.docker.com/blog/a-virtual-agent-team-at-docker-how-the-coding-agent-sandboxes-team-uses-a-fleet-of-agents-to-ship-faster/)
+*Fri, 01 Ma*
+
+I work on Coding Agent Sandboxes, aka “sbx” at Docker. The project provides secure, microVM-based isolation for running AI coding agents like Claude Code, Gemini, Codex, Docker Agent and Kiro. Agents get full autonomy inside a sandbox (their own Docker daemon, network, filesystem) without touchin...
+
+---
+### [AI sandboxing is having its Kubernetes moment](https://www.cncf.io/blog/2026/04/30/ai-sandboxing-is-having-its-kubernetes-moment/)
+*Thu, 30 Ap*
+
+Recently, Anthropic announced that its new model, Mythos, had autonomously found and exploited zero-day vulnerabilities in every major operating system and web browser – including a 27-year-old bug that had survived decades of human review and...
+
+---
+
+## Aggiornamento 2026-05-01
+
 ### [Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta](https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/)
 *Thu, 30 Ap*
 
