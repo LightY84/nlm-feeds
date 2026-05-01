@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-01
+
+### [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/)
+*Thu, 30 Ap*
+
+Researching the path to AI-augmented care and development of an AI co-clinician.
+
+---
+
 ## Aggiornamento 2026-04-30
 
 ### [AI evals are becoming the new compute bottleneck](https://huggingface.co/blog/evaleval/eval-costs-bottleneck)
