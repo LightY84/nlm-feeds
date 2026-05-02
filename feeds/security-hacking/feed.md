@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-02
 
+### [Web application testing with Burp Suite: a practical guide for UK SMEs](https://securityboulevard.com/2026/05/web-application-testing-with-burp-suite-a-practical-guide-for-uk-smes/)
+*Sat, 02 Ma*
+
+Web application testing with Burp Suite: a practical guide for UK SMEs For many UK SMEs, web applications are now part of day-to-day business. They handle customer logins, staff portals, booking systems, supplier access, and internal admin tasks. That makes them valuable, but it also means the...
+
+---
+### [RBI Cybersecurity Compliance Checklist for Fintech Organizations](https://securityboulevard.com/2026/05/rbi-cybersecurity-compliance-checklist-for-fintech-organizations/)
+*Sat, 02 Ma*
+
+The financial services ecosystem in India is undergoing rapid digital transformation, and fintech organizations sit at the center of this evolution. With increasing cyber threats targeting digital payments, lending platforms, and financial data, regulatory oversight has intensified. The Reserv...
+
+---
+### [North Korea’s Enormous Crypto Hacks Redefine Scale and Strategy](https://securityboulevard.com/2026/05/north-koreas-enormous-crypto-hacks-redefine-scale-and-strategy/)
+*Fri, 01 Ma*
+
+A pair of tightly executed cyberattacks have become milestones in...
+
+---
+
+## Aggiornamento 2026-05-02
+
 ### [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
 *Fri, 01 Ma*
 

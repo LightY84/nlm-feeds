@@ -1,6 +1,18 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-02
+
+### [Kubernetes v1.36: Pod-Level Resource Managers (Alpha)](https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/)
+*Fri, 01 Ma*
+
+Kubernetes v1.36 introduces
+Pod-Level Resource Managers
+as an alpha feature, bringing a more flexible and powerful resource management
+model to performance-sensitive workloads. This enhan...
+
+---
+
 ## Aggiornamento 2026-05-01
 
 ### [A Virtual Agent team at Docker: How the Coding Agent Sandboxes team uses a fleet of agents to ship faster](https://www.docker.com/blog/a-virtual-agent-team-at-docker-how-the-coding-agent-sandboxes-team-uses-a-fleet-of-agents-to-ship-faster/)
