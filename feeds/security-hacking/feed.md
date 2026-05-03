@@ -3,6 +3,30 @@
 
 ## Aggiornamento 2026-05-03
 
+### [PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers](https://securityboulevard.com/2026/05/phantomraven-wave-5-new-undocumented-npm-supply-chain-campaign-targets-defi-cloud-and-ai-developers/)
+*Sun, 03 Ma*
+
+PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers
+The post PhantomRaven Wave 5: New U...
+
+---
+### [3 easy-to-miss cybersecurity risks for small businesses](https://securityboulevard.com/2026/05/3-easy-to-miss-cybersecurity-risks-for-small-businesses/)
+*Sun, 03 Ma*
+
+Small business owners should be sure to fix these three non-technical risks that  require little cybersecurity expertise.
+The post 3 easy-to-miss cybersecurity risks for small busine...
+
+---
+### [A Tale of Two States: The 2026 Cybersecurity Paradox](https://securityboulevard.com/2026/05/a-tale-of-two-states-the-2026-cybersecurity-paradox/)
+*Sun, 03 Ma*
+
+The cyber threat outlooks from CIOs and CISOs at the NASCIO Midyear Conference in Philadelphia ranged from the good to the bad to the ugly — with AI front and center.
+The post A Tale of ...
+
+---
+
+## Aggiornamento 2026-05-03
+
 ### [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
 *Sat, 02 Ma*
 
