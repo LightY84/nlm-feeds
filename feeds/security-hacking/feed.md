@@ -1,6 +1,28 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-03
+
+### [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
+*Sat, 02 Ma*
+
+A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in "Sorry" ransomware attacks. [...]
+
+---
+### [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
+*Sat, 02 Ma*
+
+A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]
+
+---
+### [I Mapped Every Major Startup Credit Program for 2026. Most Founders Are Leaving $500K+ on the Table](https://securityboulevard.com/2026/05/i-mapped-every-major-startup-credit-program-for-2026-most-founders-are-leaving-500k-on-the-table/)
+*Sat, 02 Ma*
+
+Founders raise venture money to extend runway. Then they leave six figures of free credits sitting in a portal they never logged into. After watching this happen for a decade, I built a public directory of every major program. Here's what I learned mapping the landscape.
+The post <a hre...
+
+---
+
 ## Aggiornamento 2026-05-02
 
 ### [Web application testing with Burp Suite: a practical guide for UK SMEs](https://securityboulevard.com/2026/05/web-application-testing-with-burp-suite-a-practical-guide-for-uk-smes/)
