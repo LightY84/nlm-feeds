@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-04
+
+### [Microsoft confirms April Windows updates cause backup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/)
+*Mon, 04 Ma*
+
+Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]
+
+---
+### [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
+*Sun, 03 Ma*
+
+Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]
+
+---
+### [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
+*Sun, 03 Ma*
+
+Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]
+
+---
+
 ## Aggiornamento 2026-05-03
 
 ### [PhantomRaven Wave 5: New Undocumented NPM Supply Chain Campaign Targets DeFi, Cloud, and AI Developers](https://securityboulevard.com/2026/05/phantomraven-wave-5-new-undocumented-npm-supply-chain-campaign-targets-defi-cloud-and-ai-developers/)
