@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-05-05
 
+### [Generate Images Locally with Docker Model Runner and Open WebUI](https://www.docker.com/blog/blog-generate-images-locally-dmr-open-webui/)
+*Tue, 05 Ma*
+
+We've all been there: you need to generate a few images for a project, you fire up an AI image service, and suddenly you're wondering what happens to your prompts, how many credits you have left, or why that "safe content" filter rejected your perfectly reasonable request for a dragon wearing a b...
+
+---
+### [Announcing Kyverno release 1.18!](https://www.cncf.io/blog/2026/05/05/announcing-kyverno-release-1-18/)
+*Tue, 05 Ma*
+
+We’re excited to announce the release of Kyverno 1.18, our first release since graduating within the Cloud Native Computing Foundation. This release builds on Kyverno’s growing role as a Kubernetes-native policy engine, with major investments in...
+
+---
+
+## Aggiornamento 2026-05-05
+
 ### [Precision Container Security with Docker and Black Duck](https://www.docker.com/blog/precision-container-security-with-docker-and-black-duck/)
 *Tue, 05 Ma*
 
