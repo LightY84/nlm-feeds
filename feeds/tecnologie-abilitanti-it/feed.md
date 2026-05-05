@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-05
+
+### [Precision Container Security with Docker and Black Duck](https://www.docker.com/blog/precision-container-security-with-docker-and-black-duck/)
+*Tue, 05 Ma*
+
+The complexity of modern containerized applications often leaves developers drowning in a sea of "noise"—vulnerabilities that exist in the file system but pose zero actual risk to the application. The integration between Black Duck and Docker Hardened Images (DHI) provides a definitive answer to ...
+
+---
+### [Atlassian will train on your data: Opt out with GitLab](https://about.gitlab.com/blog/atlassian-will-train-on-your-data-opt-out-with-gitlab/)
+*2026-05-04*
+
+Starting August 17, 2026, Atlassian will begin collecting customer metadata and in-app content from Jira, Confluence, and other cloud products to train its AI offerings, including Rovo and Rovo Dev. This announcement comes after <a href="https://about.gitlab.com/blog/github-copilots-new-policy...
+
+---
+
 ## Aggiornamento 2026-05-02
 
 ### [Kubernetes v1.36: Pod-Level Resource Managers (Alpha)](https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/)
