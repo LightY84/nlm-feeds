@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-06
+
+### [Fragments: May  5](https://martinfowler.com/fragments/2026-05-05.html)
+*2026-05-05*
+
+Over the last couple of months Rahul Garg published a series of posts here on how to reduce the friction in AI-assisted programming. To make it easier to put these ideas into practice he’s now built an <a href="https://martinf...
+
+---
+
 ## Aggiornamento 2026-04-29
 
 ### [Fragments: April 29](https://martinfowler.com/fragments/2026-04-29.html)

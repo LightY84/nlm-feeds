@@ -1,6 +1,32 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-06
+
+### [Kubernetes v1.36: Declarative Validation Graduates to GA](https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/)
+*Tue, 05 Ma*
+
+In Kubernetes v1.36, Declarative Validation for Kubernetes native types has reached General Availability (GA).
+For users, this means more reliable, predictable, and better-documented APIs. By moving to a declarative model, the project also unlocks the future ability to ...
+
+---
+### [Kubernetes v1.36: Admission Policies That Can't Be Deleted](https://kubernetes.io/blog/2026/05/04/kubernetes-v1-36-manifest-based-admission-control/)
+*Mon, 04 Ma*
+
+If you've ever tried to enforce a security policy across a fleet of
+Kubernetes clusters, you've probably run into a frustrating chicken-and-egg
+problem. Your admission policies are API objects, which means they don't
+exist until someone creates them, and they can be deleted by anyone with
+the ...
+
+---
+### [8 Agentic AI patterns reshaping team collaboration](https://about.gitlab.com/blog/8-agentic-ai-patterns-reshaping-team-collaboration/)
+*2026-05-05*
+
+As AI agents become more capable and can help individuals work faster, the next milestone is surfacing: How do you design AI for optimal team collaboration?As a user experience researcher, I decided to go looking for answers in the competitive landscape. Most tools I examined are doing ...
+
+---
+
 ## Aggiornamento 2026-05-05
 
 ### [Generate Images Locally with Docker Model Runner and Open WebUI](https://www.docker.com/blog/blog-generate-images-locally-dmr-open-webui/)
