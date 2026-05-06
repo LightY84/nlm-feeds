@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-05-06
 
+### [The tools are ready. So why are most cloud native teams still running three observability stacks?](https://www.cncf.io/blog/2026/05/06/the-tools-are-ready-so-why-are-most-cloud-native-teams-still-running-three-observability-stacks/)
+*Wed, 06 Ma*
+
+I’ve spent enough time in and around cloud native infrastructure to know that we’re reasonably good at standardizing the theory. OpenTelemetry for instrumentation, Prometheus for metrics, Jaeger and Tempo for distributed tracing, Fluentd or Loki for...
+
+---
+
+## Aggiornamento 2026-05-06
+
 ### [Kubernetes v1.36: Declarative Validation Graduates to GA](https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/)
 *Tue, 05 Ma*
 
