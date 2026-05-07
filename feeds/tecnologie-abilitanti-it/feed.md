@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-05-07
 
+### [Claude Code and GitLab: Three workflows that ship](https://about.gitlab.com/blog/claude-code-and-gitlab/)
+*2026-05-06*
+
+Developers love Claude Code because it feels like pairing with a senior engineer right in the terminal or IDE: it helps you understand unfamiliar code, propose fixes, and scaffold new features quickly.But here is a pattern worth watching. The better agentic coding tools get at writing c...
+
+---
+
+## Aggiornamento 2026-05-07
+
 ### [Kubernetes v1.36: Server-Side Sharded List and Watch](https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/)
 *Wed, 06 Ma*
 

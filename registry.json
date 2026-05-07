@@ -151,7 +151,10 @@
     "f4e0f1ca1a76",
     "4391c4445d25",
     "dfcac713c254",
-    "b97dfbd84fb2"
+    "b97dfbd84fb2",
+    "ab7265dcfd9e",
+    "73840e50f866",
+    "72105c13d1b2"
   ],
   "programming-architecture": [
     "3f9e47644df7",
@@ -259,7 +262,8 @@
     "230d007e4697",
     "8bf45ceeca58",
     "803d1addc686",
-    "5c82a8555e78"
+    "5c82a8555e78",
+    "d106ce920f2a"
   ],
   "ai-system-design": [
     "aeed5283fa22",
@@ -307,6 +311,7 @@
     "59ef3aa9e68b",
     "f6674537e2b8",
     "b59858efc780",
-    "11e756df6b84"
+    "11e756df6b84",
+    "c122dcde12a0"
   ]
 }

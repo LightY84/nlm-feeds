@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-07
 
+### [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
+*Thu, 07 Ma*
+
+Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]
+
+---
+### [Webinar: Why modern attacks require both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/)
+*Thu, 07 Ma*
+
+Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]
+
+---
+### [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
+*Wed, 06 Ma*
+
+Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]
+
+---
+
+## Aggiornamento 2026-05-07
+
 ### [Palo Alto Networks firewall zero-day exploited for nearly a month](https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/)
 *Thu, 07 Ma*
 

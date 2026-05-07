@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-05-07
 
+### [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
+*Wed, 06 Ma*
+
+Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.
+
+---
+
+## Aggiornamento 2026-05-07
+
 ### [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections)
 *Wed, 06 Ma*
 
