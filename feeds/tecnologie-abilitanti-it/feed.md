@@ -1,6 +1,18 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-07
+
+### [Kubernetes v1.36: Server-Side Sharded List and Watch](https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/)
+*Wed, 06 Ma*
+
+As Kubernetes clusters grow to tens of thousands of nodes, controllers that watch
+high-cardinality resources like Pods face a scaling wall. Every replica of a
+horizontally scaled controller receives the full stream of events from the API
+server, paying the CPU, memory, and network cost to dese...
+
+---
+
 ## Aggiornamento 2026-05-06
 
 ### [The tools are ready. So why are most cloud native teams still running three observability stacks?](https://www.cncf.io/blog/2026/05/06/the-tools-are-ready-so-why-are-most-cloud-native-teams-still-running-three-observability-stacks/)

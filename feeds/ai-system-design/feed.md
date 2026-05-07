@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-07
+
+### [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections)
+*Wed, 06 Ma*
+
+
+
+---
+
 ## Aggiornamento 2026-05-01
 
 ### [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/)
