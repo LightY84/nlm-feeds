@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-08
+
+### [MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa)
+*Fri, 08 Ma*
+
+
+
+---
+
 ## Aggiornamento 2026-05-07
 
 ### [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)

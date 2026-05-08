@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-08
+
+### [Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA](https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/)
+*Thu, 07 Ma*
+
+Dynamic Resource Allocation (DRA) has fundamentally changed how platform administrators handle hardware
+accelerators and specialized resources in Kubernetes. In the v1.36 release, DRA
+continues to mature, bringing a wave of feature graduations, critical usability
+improvements, and new capabili...
+
+---
+### [Consolidate your GitLab stack with Gitaly on Kubernetes](https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/)
+*2026-05-07*
+
+With GitLab 18.11 came good news for teams running GitLab on Kubernetes: Gitaly on Kubernetes is now generally available. Teams hosting GitLab on Kubernetes previously faced the challenge of maintaining a hybrid setup — running most GitL...
+
+---
+### [Limit credential exposure with fine-grained personal access tokens](https://about.gitlab.com/blog/fine-grained-pats/)
+*2026-05-07*
+
+Personal access tokens (PATs) authenticate most of the automation that runs in GitLab. When a token is issued with a broad scope like api or read_api, it extends permissions across many projects and groups. Fine-grained permissions for PATs, now in beta, let you scope...
+
+---
+
 ## Aggiornamento 2026-05-07
 
 ### [Claude Code and GitLab: Three workflows that ship](https://about.gitlab.com/blog/claude-code-and-gitlab/)
