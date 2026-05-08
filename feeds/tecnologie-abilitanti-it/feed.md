@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-05-08
 
+### [Automate deployment processes using a custom agent in GitLab Duo Agent Platform](https://about.gitlab.com/blog/automate-deployment-with-duo-agent-platform/)
+*2026-05-07*
+
+Every engineering organization has those tasks: complex, repetitive, and time-consuming, but absolutely critical to get right. Onboarding a new microservice into an established GitOps deployment workflow is a perfect example. It involves generating bespoke manifests, updating delivery pipeline...
+
+---
+### [Benchmarking AI agent retrieval strategies on Kubernetes bug fixes](https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes/)
+*Fri, 08 Ma*
+
+I&#8217;ve been using AI coding agents as part of my daily engineering workflow and wanted to understand how well they actually perform on real-world bugs. To test this, I ran a series of structured experiments using...
+
+---
+
+## Aggiornamento 2026-05-08
+
 ### [Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA](https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/)
 *Thu, 07 Ma*
 

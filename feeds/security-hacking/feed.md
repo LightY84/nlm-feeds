@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-08
 
+### [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
+*Fri, 08 Ma*
+
+Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]
+
+---
+### [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
+*Fri, 08 Ma*
+
+The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]
+
+---
+### [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
+*Fri, 08 Ma*
+
+CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]
+
+---
+
+## Aggiornamento 2026-05-08
+
 ### [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
 *Fri, 08 Ma*
 
