@@ -1,6 +1,24 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-09
+
+### [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo)
+*Fri, 08 Ma*
+
+
+
+---
+### [Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling](http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/)
+*Fri, 08 Ma*
+
+Overview of adaptive parallel reasoning.
+
+
+What if a reason...
+
+---
+
 ## Aggiornamento 2026-05-08
 
 ### [MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa)

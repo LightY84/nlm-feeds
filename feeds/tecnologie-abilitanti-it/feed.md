@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-09
+
+### [Kubernetes v1.36: Moving Volume Group Snapshots to GA](https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga/)
+*Fri, 08 Ma*
+
+Volume group snapshots were introduced as an Alpha feature with the Kubernetes v1.27 release, moved to Be...
+
+---
+
 ## Aggiornamento 2026-05-08
 
 ### [Automate deployment processes using a custom agent in GitLab Duo Agent Platform](https://about.gitlab.com/blog/automate-deployment-with-duo-agent-platform/)
