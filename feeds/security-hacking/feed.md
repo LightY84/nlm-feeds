@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-05-10
 
+### [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
+*Sun, 10 Ma*
+
+Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.
+The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CV...
+
+---
+### [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
+*Fri, 08 Ma*
+
+Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss.
+The 28 apps hav...
+
+---
+### [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+*Fri, 08 Ma*
+
+The hardest part of cybersecurity isn't the technology, it’s the people.
+Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one "Patient Zero" infection.
+In 2026, hackers are using AI to make these "first clicks" nearly impossible to spot....
+
+---
+
+## Aggiornamento 2026-05-10
+
 ### [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
 *Sat, 09 Ma*
 
