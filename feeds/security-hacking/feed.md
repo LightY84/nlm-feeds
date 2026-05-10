@@ -1,6 +1,28 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-10
+
+### [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
+*Sat, 09 Ma*
+
+The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]
+
+---
+### [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
+*Sat, 09 Ma*
+
+A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's "Privacy Filter" project to deliver information-stealing malware to Windows users. [...]
+
+---
+### [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
+*Fri, 08 Ma*
+
+Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms.
+The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a m...
+
+---
+
 ## Aggiornamento 2026-05-09
 
 ### [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
