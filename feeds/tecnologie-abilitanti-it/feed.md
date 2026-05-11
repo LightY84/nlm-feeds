@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-11
+
+### [How to get engineering time back from Kubernetes upgrades](https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades/)
+*Mon, 11 Ma*
+
+Kubernetes powers your products, but with that power and flexibility comes organizational challenges around managing complexity and maintenance. It can be tough for an organization to keep up with the speed of open source, especially at...
+
+---
+
 ## Aggiornamento 2026-05-09
 
 ### [Kubernetes v1.36: Moving Volume Group Snapshots to GA](https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga/)
