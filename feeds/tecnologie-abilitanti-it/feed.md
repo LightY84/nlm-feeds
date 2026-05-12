@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-12
+
+### [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/)
+*2026-05-11*
+
+We've been working through some significant changes inside GitLab over the past few days, and I want to share them with you directly. The email I sent the team is included below for full context.The agentic era affords GitLab the largest opportunity in our history as a company, and we'r...
+
+---
+### [A decade of governance: Cloud Custodian at 10 and its role in the agentic AI era](https://www.cncf.io/blog/2026/05/12/a-decade-of-governance-cloud-custodian-at-10-and-its-role-in-the-agentic-ai-era/)
+*Tue, 12 Ma*
+
+What is Cloud Custodian? It is an open source, stateless policy engine used to manage public cloud environments, Kubernetes and infrastructure as code through a unified DSL. As an incubating project within CNCF, it allows organizations...
+
+---
+
 ## Aggiornamento 2026-05-11
 
 ### [How to get engineering time back from Kubernetes upgrades](https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades/)
