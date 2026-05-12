@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-12
+
+### [What is Code](https://martinfowler.com/articles/what-is-code.html)
+*2026-05-12*
+
+Increasingly humans delegate writing code to agents. Will there even be
+      source code in the future? To wrestle with this question, we have to
+      understand what code is. Unmesh Joshi sees code as having
+      two distinct but intertwined purposes: instructions ...
+
+---
+
 ## Aggiornamento 2026-05-06
 
 ### [Fragments: May  5](https://martinfowler.com/fragments/2026-05-05.html)
