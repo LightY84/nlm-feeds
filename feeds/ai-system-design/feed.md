@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-13
+
+### [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
+*Sun, 29 Ma*
+
+Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.
+
+---
+
 ## Aggiornamento 2026-05-12
 
 ### [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks)

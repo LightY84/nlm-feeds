@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-13
+
+### [NIST Narrows the NVD: What Container Security Programs Should Reassess](https://www.docker.com/blog/nist-narrows-the-nvd-what-container-security-programs-should-reassess/)
+*Wed, 13 Ma*
+
+On April 15, NIST announced a prioritized enrichment model for the National Vulnerability Database. Most CVEs will still be published, but fewer will receive the CVSS scores, CPE mappings, and CWE classifications that container scanners and compliance programs have historically relied on. The cha...
+
+---
+### [Docker AI Governance: Unlock Agent Autonomy, Safely](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/)
+*Tue, 12 Ma*
+
+Introducing Docker AI Governance: centralized control over how agents execute, what they can reach on the network, which credentials they can use, and which MCP tools they can call, so every developer in your company can run AI agents safely, wherever they work. Your laptop is the new prod Agents...
+
+---
+### [Building a cloud native platform from the ground up with Kairos, k0rdent, and bindy](https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy/)
+*Wed, 13 Ma*
+
+As we shared in our&#160;earlier post on FluxCD, RBC Capital Markets has been on a deliberate journey to modernize our Kubernetes platform. GitOps with FluxCD gave us a solid deployment foundation. But as our platform grew,...
+
+---
+
 ## Aggiornamento 2026-05-12
 
 ### [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/)
