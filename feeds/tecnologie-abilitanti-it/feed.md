@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-14
 
+### [Harden your pipeline perimeter for the era of AI-assisted coding](https://about.gitlab.com/blog/harden-pipeline-perimeter-for-ai-assisted-coding/)
+*2026-05-13*
+
+AI-assisted development is moving faster than the security models built to govern it — agents write code, open merge requests, and ship changes at a pace where vulnerabilities go unnoticed. The problem isn't a shortage of scanning tools; it's that security lives outside the workflow where deci...
+
+---
+### [When AI agents become contributors: How KubeStellar reached 81% PR acceptance](https://www.cncf.io/blog/2026/05/14/when-ai-agents-become-contributors-how-kubestellar-reached-81-pr-acceptance/)
+*Thu, 14 Ma*
+
+In mid-December, I started building&#160;KubeStellar Console&#160;from scratch. It’s a multi-cluster management dashboard for Kubernetes, and it sits inside the KubeStellar project in the Cloud Native Computing Foundation (CNCF) Sandbox. The stack is Go on the back...
+
+---
+### [CNCF Debuts KubeCon + CloudNativeCon Japan 2026 Schedule](https://www.cncf.io/announcements/2026/05/13/cncf-debuts-kubecon-cloudnativecon-japan-2026-schedule/)
+*Wed, 13 Ma*
+
+Second annual Japanese event to spotlight AI, observability, platform engineering and more Key Highlights: YOKOHAMA, Japan, May 13, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced...
+
+---
+
+## Aggiornamento 2026-05-14
+
 ### [Kubernetes v1.36: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/)
 *Wed, 13 Ma*
 
