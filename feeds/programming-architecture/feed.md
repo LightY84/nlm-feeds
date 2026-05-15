@@ -1,6 +1,24 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-15
+
+### [Fragments: May 14](https://martinfowler.com/fragments/2026-05-14.html)
+*2026-05-14*
+
+Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Ru...
+
+---
+### [Bliki: Interrogatory LLM](https://martinfowler.com/bliki/InterrogatoryLLM.html)
+*2026-05-14*
+
+When we need an LLM to perform a complex task, we often need to feed it a
+  lot of context. Coming up with a design for a new feature requires
+  descriptions of how we want the feature to appear to the user, guidelines on
+  how it should be implemented, information on external systems to consu...
+
+---
+
 ## Aggiornamento 2026-05-12
 
 ### [What is Code](https://martinfowler.com/articles/what-is-code.html)

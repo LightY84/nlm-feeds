@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-15
+
+### [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2)
+*Thu, 14 Ma*
+
+
+
+---
+
 ## Aggiornamento 2026-05-13
 
 ### [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)

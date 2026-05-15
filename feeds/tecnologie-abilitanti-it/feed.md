@@ -1,6 +1,17 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-15
+
+### [Kubernetes v1.36: Deprecation and removal of Service ExternalIPs](https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/)
+*Thu, 14 Ma*
+
+The .spec.externalIPs field for Service was an early attempt to provide
+cloud-load-balancer-like functionality for non-cloud clusters.
+Unfortunately, the API assumes that every user in the cluster is fu...
+
+---
+
 ## Aggiornamento 2026-05-14
 
 ### [Harden your pipeline perimeter for the era of AI-assisted coding](https://about.gitlab.com/blog/harden-pipeline-perimeter-for-ai-assisted-coding/)
