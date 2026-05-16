@@ -1,6 +1,24 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-16
+
+### [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/)
+*Fri, 15 Ma*
+
+This article was originally published with the wrong date. It was later republished, dated the 15th of
+May 2026.
+Kubernetes v1.36 introduces a new alpha counter metric route_controller_route_sync_total
+to the Cloud Controller Manager (CCM) route controller implemen...
+
+---
+### [Kubernetes v1.36: Mixed Version Proxy Graduates to Beta](https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/)
+*Fri, 15 Ma*
+
+Back in Kubernetes 1.28, we introduced the Mixed Version Proxy (MVP) as an Alpha feature (under the feature gate UnknownVersionInteroperabilityProxy) in a previous blog ...
+
+---
+
 ## Aggiornamento 2026-05-15
 
 ### [Kubernetes v1.36: Deprecation and removal of Service ExternalIPs](https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/)
