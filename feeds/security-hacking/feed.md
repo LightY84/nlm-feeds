@@ -1,6 +1,40 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-17
+
+### [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
+*Sat, 16 Ma*
+
+A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that "no product changes were made," despite the researcher docume...
+
+---
+### [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
+*Sun, 17 Ma*
+
+Grafana has disclosed that an "unauthorized party" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.
+
+
+  "Our investigation has determined that no customer data or personal information was accessed during this incident, and we hav...
+
+---
+### [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
+*Sat, 16 Ma*
+
+A critical security vulnerability impacting the
+  Funnel Builder
+  plugin for WordPress has come under active exploitation in the wild to
+  inject malicious JavaScript code
+  into WooCommerce checkout pages with the goal of stealing payment data.
+
+
+
+  Details of the activity were
+  published
+  by...
+
+---
+
 ## Aggiornamento 2026-05-16
 
 ### [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
