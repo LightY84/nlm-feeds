@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-18
 
+### [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
+*Mon, 18 Ma*
+
+Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]
+
+---
+### [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
+*Sun, 17 Ma*
+
+A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed "MiniPlasma" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]
+
+---
+### [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
+*Sun, 17 Ma*
+
+The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]
+
+---
+
+## Aggiornamento 2026-05-18
+
 ### [Microsoft confirms Windows 11 security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/)
 *Mon, 18 Ma*
 

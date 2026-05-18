@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-18
+
+### [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers)
+*Mon, 18 Ma*
+
+
+
+---
+### [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard)
+*Mon, 18 Ma*
+
+
+
+---
+
 ## Aggiornamento 2026-05-15
 
 ### [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2)
