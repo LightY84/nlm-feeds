@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-18
+
+### [What kubectl debug doesn’t tell you: The silent evidence gap](https://www.cncf.io/blog/2026/05/18/what-kubectl-debug-doesnt-tell-you-the-silent-evidence-gap/)
+*Mon, 18 Ma*
+
+The session that left no record A kubectl debug session can contain the only direct observation of a failing system state. However, once the session ends, Kubernetes does not retain the termination context of that session...
+
+---
+
 ## Aggiornamento 2026-05-16
 
 ### [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/)
