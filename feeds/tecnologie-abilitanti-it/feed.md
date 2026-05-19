@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-05-19
 
+### [Automating Confidential Containers (CoCo) infrastructure with Kyverno](https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno/)
+*Tue, 19 Ma*
+
+Confidential Containers (CoCo) adds a critical security layer for containerized workloads, especially in environments where parts of the platform are not inherently trusted. However, deploying CoCo-enabled workloads often requires application teams to manage infrastructure-heavy details that...
+
+---
+### [CNCF Welcomes CVS Health as a Platinum Member To Expand Cloud Native Collaboration](https://www.cncf.io/announcements/2026/05/18/cncf-welcomes-cvs-health-as-a-platinum-member-to-expand-cloud-native-collaboration/)
+*Mon, 18 Ma*
+
+CVS Health strengthens commitment to secure healthcare and modernization efforts further reducing engineering complexity&#160; SAN FRANCISCO, California – May 18, 2026 &#160;– The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software,...
+
+---
+
+## Aggiornamento 2026-05-19
+
 ### [GitLab Dedicated for Government now GovRAMP-authorized](https://about.gitlab.com/blog/govramp-gitlab-dedicated-for-government/)
 *2026-05-18*
 

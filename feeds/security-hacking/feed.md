@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-19
 
+### [New Shai-Hulud malware wave compromises 600 npm packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/)
+*Tue, 19 Ma*
+
+Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]
+
+---
+### [7-Eleven confirms data breach claimed by the ShinyHunters gang](https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/)
+*Tue, 19 Ma*
+
+Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]
+
+---
+### [Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation](https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/)
+*Tue, 19 Ma*
+
+Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]
+
+---
+
+## Aggiornamento 2026-05-19
+
 ### [Microsoft confirms patching issues in restricted Windows networks](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/)
 *Tue, 19 Ma*
 
