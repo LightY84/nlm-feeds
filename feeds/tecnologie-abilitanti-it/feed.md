@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-19
+
+### [GitLab Dedicated for Government now GovRAMP-authorized](https://about.gitlab.com/blog/govramp-gitlab-dedicated-for-government/)
+*2026-05-18*
+
+State and local agencies now have a faster path to adopting secure, compliant DevSecOps. GitLab Dedicated for Government has achieved GovRAMP Authorization, removing a critical procurement barrier for agencies ready to modernize their soft...
+
+---
+### [Beyond BYOK: Why governance matters for AI agents](https://about.gitlab.com/blog/gitlab-duo-cli-governance/)
+*2026-05-18*
+
+GitHub recently announced that Copilot CLI now supports bring-your-own-key (BYOK) and locally running models. Developers can route CLI requests through their own model provider or run ...
+
+---
+### [Codex and GitLab: From code fix to production](https://about.gitlab.com/blog/fix-bugs-with-codex-and-gitlab/)
+*2026-05-18*
+
+Codex, a coding agent, is a lot of fun when you are deep in the terminal. Point it at a repository, give it a focused task, and it gets to work fast. It reads the code, proposes a fix, runs commands, and helps you move from idea to code without leaving the flow. That developer experience is a ...
+
+---
+
 ## Aggiornamento 2026-05-18
 
 ### [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks/)
