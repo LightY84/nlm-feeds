@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-20
+
+### [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/)
+*Sun, 17 Ma*
+
+We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.
+
+---
+### [Introducing Gemini Omni](https://deepmind.google/blog/introducing-gemini-omni/)
+*Sun, 17 Ma*
+
+
+
+---
+### [Gemini for Science: AI experiments and tools for a new era of discovery](https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/)
+*Sun, 17 Ma*
+
+A collection of science tools and experiments to expand the scale and precision of scientific exploration.
+
+---
+
 ## Aggiornamento 2026-05-19
 
 ### [Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation)

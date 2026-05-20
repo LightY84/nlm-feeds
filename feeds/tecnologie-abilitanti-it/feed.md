@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-20
+
+### [Meet Gordon: Docker’s AI Agent For Your Entire Container Workflow](https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/)
+*Tue, 19 Ma*
+
+Gordon understands your environment, proposes fixes, and takes action across your entire Docker workflow. Now generally available. Image 1: Gordon in Docker Desktop Why Gordon Exists&#160; Developers are more productive than ever. AI coding assistants are writing code, merging PRs and cutting rev...
+
+---
+
 ## Aggiornamento 2026-05-19
 
 ### [Automating Confidential Containers (CoCo) infrastructure with Kyverno](https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno/)
