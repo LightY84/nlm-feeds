@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-20
+
+### [Three more static code analysis sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)
+*2026-05-20*
+
+Birgitta B&#xf6;ckeler adds discu...
+
+---
+
 ## Aggiornamento 2026-05-15
 
 ### [Fragments: May 14](https://martinfowler.com/fragments/2026-05-14.html)

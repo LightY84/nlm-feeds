@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-20
 
+### [Strengthening Singapore’s AI Future: A New National Partnership](https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/)
+*Sat, 16 Ma*
+
+Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.
+
+---
+### [Accelerating discovery of liver disease mechanisms](https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/)
+*Sat, 16 Ma*
+
+Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.
+
+---
+### [How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica](https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/)
+*Sat, 16 Ma*
+
+Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.
+
+---
+
+## Aggiornamento 2026-05-20
+
 ### [Simulate real-world places with Project Genie and Street View](https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/)
 *Sun, 17 Ma*
 

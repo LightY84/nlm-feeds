@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-20
 
+### [Grafana breach caused by missed token rotation after TanStack attack](https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/)
+*Wed, 20 Ma*
+
+The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]
+
+---
+### [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
+*Wed, 20 Ma*
+
+Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]
+
+---
+### [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
+*Wed, 20 Ma*
+
+Drupal has announced a "core security release" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]
+
+---
+
+## Aggiornamento 2026-05-20
+
 ### [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
 *Wed, 20 Ma*
 
