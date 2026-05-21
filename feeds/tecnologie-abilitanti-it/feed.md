@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-05-21
 
+### [Aamchi Mumbai: A KubeCon + CloudNativeCon field guide](https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide/)
+*Thu, 21 Ma*
+
+Welcome to Mumbai KubeCon + CloudNativeCon India lands in Mumbai on 18-19 June 2026, at the Jio World Convention Centre in BKC. Thousands of cloud native engineers are flying in, many of you for the first...
+
+---
+### [Cloud Native Computing Foundation Announces OpenTelemetry’s Graduation, Solidifying Status as the De Facto Observability Standard](https://www.cncf.io/announcements/2026/05/21/cloud-native-computing-foundation-announces-opentelemetrys-graduation-solidifying-status-as-the-de-facto-observability-standard/)
+*Thu, 21 Ma*
+
+The milestone for OpenTelemetry reflects widespread production adoption and a stable, vendor-neutral observability standard&#160;&#160; Key Highlights: MINNEAPOLIS – OBSERVABILITY SUMMIT – May 21, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...
+
+---
+
+## Aggiornamento 2026-05-21
+
 ### [Announcing etcd 3.7.0-beta.0](https://kubernetes.io/blog/2026/05/20/etcd-370-beta/)
 *Wed, 20 Ma*
 
