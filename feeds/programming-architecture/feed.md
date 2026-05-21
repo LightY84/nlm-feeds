@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-21
+
+### [Bliki: Vibe Coding](https://martinfowler.com/bliki/VibeCoding.html)
+*2026-05-21*
+
+Vibe coding is building a software application by prompting an LLM, telling it
+  what to build, trying it out, prompting for changes - but without looking at
+  any of the code that the LLM generates. This technique can be used by people
+  without any knowledge of programming. However the resul...
+
+---
+
 ## Aggiornamento 2026-05-20
 
 ### [Three more static code analysis sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)

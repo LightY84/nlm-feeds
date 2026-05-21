@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-21
+
+### [Gemini 3.5: frontier intelligence with action](https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/)
+*Fri, 15 Ma*
+
+Gemini 3.5 is built to help you execute complex, agentic workflows.
+
+---
+### [Co-Scientist: A multi-agent AI partner to accelerate research](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/)
+*Tue, 12 Ma*
+
+Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.
+
+---
+
 ## Aggiornamento 2026-05-20
 
 ### [Strengthening Singapore’s AI Future: A New National Partnership](https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/)
