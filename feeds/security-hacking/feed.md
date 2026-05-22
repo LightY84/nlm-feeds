@@ -1,6 +1,29 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-22
+
+### [Ubiquiti patches three max severity UniFi OS vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/)
+*Fri, 22 Ma*
+
+Ubiquiti has released security updates to patch three maximum severity vulnerabilities in Unify OS that can be exploited by remote attackers without privileges. [...]
+
+---
+### [Hackers bypass SonicWall VPN MFA due to incomplete patching](https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/)
+*Wed, 20 Ma*
+
+Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]
+
+---
+### [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
+*Fri, 22 Ma*
+
+The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.
+
+In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the dev...
+
+---
+
 ## Aggiornamento 2026-05-21
 
 ### [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)

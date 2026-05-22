@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-22
+
+### [Transform MRs from manual tasks to an automated workflow](https://about.gitlab.com/blog/transform-mrs-to-automated-workflow/)
+*2026-05-21*
+
+AI made writing code dramatically faster, but the work between opening a merge request and merging it has stayed almost entirely manual. Assigning reviewers, addressing feedback round after round, untangling conflicts, rebasing before merge — each step still requires a developer's attention. T...
+
+---
+### [Track CI component usage across your organization](https://about.gitlab.com/blog/track-ci-component-usage/)
+*2026-05-21*
+
+If your platform team publishes standardized pipeline components, you've probably encountered this: once they're out in the wild, you lose visibility. You can't see if anyone’s actually using it, who's on which version, or which projects are still running outdated versions that open your organ...
+
+---
+### [Manage CI/CD credentials with GitLab Secrets Manager](https://about.gitlab.com/blog/secrets-manager-in-public-beta/)
+*2026-05-21*
+
+Many credential leaks start with a developer who needs a credential, doesn’t have a good place to put it, and improvises. It lands in an over-scoped CI/CD variable, a config file, or a .env committed “just for a moment.”GitLab Secrets Manager, <a href="https://docs.gitlab.c...
+
+---
+
 ## Aggiornamento 2026-05-21
 
 ### [Aamchi Mumbai: A KubeCon + CloudNativeCon field guide](https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide/)
