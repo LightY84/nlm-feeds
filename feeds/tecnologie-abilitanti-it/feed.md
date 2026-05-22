@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-05-22
 
+### [More AI models for GitLab Duo Agent Platform Self-Hosted](https://about.gitlab.com/blog/more-ai-models-for-duo-agent-platform-self-hosted/)
+*2026-05-21*
+
+Customers running GitLab Duo Agent Platform Self-Hosted operate under constraints many software teams don't face: data residency mandates, air-gapped networks, and compliance ...
+
+---
+### [Designing end-to-end ingress request tracing for multi-tenant SaaS platforms](https://www.cncf.io/blog/2026/05/22/designing-end-to-end-ingress-request-tracing-for-multi-tenant-saas-platforms/)
+*Fri, 22 Ma*
+
+Modern SaaS platforms built on cloud‑native architectures frequently consist of dozens of independently deployed microservices. A single customer request entering the platform at the ingress layer may traverse authentication services, orchestration engines, data services, and downstream...
+
+---
+
+## Aggiornamento 2026-05-22
+
 ### [Transform MRs from manual tasks to an automated workflow](https://about.gitlab.com/blog/transform-mrs-to-automated-workflow/)
 *2026-05-21*
 
