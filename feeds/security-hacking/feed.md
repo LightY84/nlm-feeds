@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-05-23
 
+### [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
+*Sat, 23 Ma*
+
+Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most "systemically" important software across the world since the cybersecurity initiative went live last month.
+
+Project Glasswing is an effort l...
+
+---
+### [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
+*Sat, 23 Ma*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+
+The vulnerability in question is CVE-2026-9082 (CVSS score: 6...
+
+---
+### [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
+*Fri, 22 Ma*
+
+Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.
+
+Codenamed Operation Saffron, the  disruption  of F...
+
+---
+
+## Aggiornamento 2026-05-23
+
 ### [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
 *Fri, 22 Ma*
 
