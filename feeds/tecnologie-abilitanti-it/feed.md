@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-25
+
+### [Why Kubernetes policy enforcement happens too late—and what to do about it](https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it/)
+*Mon, 25 Ma*
+
+Kubernetes has become the backbone of modern cloud-native infrastructure. Its flexibility lets teams move fast, compose complex systems from modular components, and deploy across environments with relative ease. But that flexibility comes with a well-known cost:...
+
+---
+### [Zero-Downtime migration from ingress NGINX to Envoy Gateway](https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway/)
+*Mon, 25 Ma*
+
+Teams running Ingress NGINX in production are increasingly evaluating migration paths as Kubernetes networking evolves toward Gateway API. For many organizations, the challenge is not just selecting a Gateway API implementation, but designing a migration strategy...
+
+---
+
 ## Aggiornamento 2026-05-22
 
 ### [More AI models for GitLab Duo Agent Platform Self-Hosted](https://about.gitlab.com/blog/more-ai-models-for-duo-agent-platform-self-hosted/)
