@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-26
+
+### [The Untrusted Autonomous Workload: How AI Coding Agents Reshape What Isolation Has to Do](https://www.docker.com/blog/untrusted-autonomous-workload-ai-sandboxes/)
+*Tue, 26 Ma*
+
+Earlier this year I mass-migrated my blog to Astro using Claude Code. 146 posts. 6,024 images. Canonical URLs, JSON-LD markup, sitemap generation, the whole stack. I'd spent hours writing a skills file to teach the agent about my blog's architecture, how deployment worked, what not to touch. And ...
+
+---
+### [Full security scanner coverage of your codebase in minutes](https://about.gitlab.com/blog/security-configuration-profiles/)
+*2026-05-26*
+
+Across the industry, every CI/CD platform faces the same challenge: As organizations grow, manually configuring scanners to run across every pipeline definition file isn't scalable. AI is accelerating how fast teams ship code, and with this comes more projects, more pipelines, and more surface...
+
+---
+### [Reduce supply chain risk with SBOM-based dependency scanning](https://about.gitlab.com/blog/sbom-based-dependency-scanning/)
+*2026-05-26*
+
+Third-party code dominates most codebases, and four recent supply chain incidents show how a single compromised package can ripple into every project that depends on it. AI is compou...
+
+---
+
 ## Aggiornamento 2026-05-25
 
 ### [Why Kubernetes policy enforcement happens too late—and what to do about it](https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it/)
