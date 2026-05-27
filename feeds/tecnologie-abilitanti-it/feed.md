@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-27
+
+### [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/)
+*Tue, 26 Ma*
+
+The Kubernetes project relies on transparency to empower cluster administrators and security
+researchers. One important way we do that is by publishing CVE records into the Common
+Vulnerabilities and Exposures database. As part of our ongoing effort to mature the official
+<a href="https://kube...
+
+---
+### [GPU autoscaling on Kubernetes with KEDA: Building an external scaler](https://www.cncf.io/blog/2026/05/27/gpu-autoscaling-on-kubernetes-with-keda-building-an-external-scaler/)
+*Wed, 27 Ma*
+
+If you run GPU workloads on Kubernetes — vLLM, Triton, training jobs, or the newer agentic inference stacks — you&#8217;ve probably hit a familiar problem: the default autoscaling path still reasons about CPU and memory, while...
+
+---
+### [How Jaeger is evolving to trace AI agents with OpenTelemetry](https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry/)
+*Tue, 26 Ma*
+
+As software architectures evolve, observability tools must adapt. When the industry moved to microservices, distributed tracing became a necessity. Jaeger emerged as a core tool for engineers to understand those fragmented systems. Now, as organizations integrate...
+
+---
+
 ## Aggiornamento 2026-05-26
 
 ### [The Untrusted Autonomous Workload: How AI Coding Agents Reshape What Isolation Has to Do](https://www.docker.com/blog/untrusted-autonomous-workload-ai-sandboxes/)
