@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-05-27
 
+### [Mitigating CVE-2026-31431 (“Copy Fail”) in Docker Engine](https://www.docker.com/blog/mitigating-cve-2026-31431-copy-fail-in-docker-engine/)
+*Wed, 27 Ma*
+
+CVE-2026-31431 is a Linux kernel vulnerability that was recently disclosed. This CVE does not compromise Docker infrastructure. That said, Docker Engine's default profiles prior to v29.4.3 allowed containers to create AF_ALG sockets, which is the syscall surface the exploit uses. You are not expo...
+
+---
+
+## Aggiornamento 2026-05-27
+
 ### [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/)
 *Tue, 26 Ma*
 
