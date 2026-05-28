@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-28
+
+### [Fragments: May 27](https://martinfowler.com/fragments/2026-05-27.html)
+*2026-05-27*
+
+At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park ben...
+
+---
+
 ## Aggiornamento 2026-05-21
 
 ### [Bliki: Vibe Coding](https://martinfowler.com/bliki/VibeCoding.html)

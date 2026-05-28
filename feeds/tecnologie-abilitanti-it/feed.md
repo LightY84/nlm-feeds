@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-28
+
+### [The Kubernetes integration tax: Prometheus, Cilium and production reality](https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality/)
+*Thu, 28 Ma*
+
+I still remember the first time we lost sleep over something that wasn’t a bug. It was a Tuesday. Grafana dashboards showed blank panels for Cilium network metrics. Hubble was working fine — DNS visibility, TCP...
+
+---
+
 ## Aggiornamento 2026-05-27
 
 ### [Mitigating CVE-2026-31431 (“Copy Fail”) in Docker Engine](https://www.docker.com/blog/mitigating-cve-2026-31431-copy-fail-in-docker-engine/)
