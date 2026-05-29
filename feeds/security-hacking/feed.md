@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-05-29
 
+### [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
+*Fri, 29 Ma*
+
+DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]
+
+---
+### [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
+*Fri, 29 Ma*
+
+Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]
+
+---
+### [Anthropic confirms Claude Mythos-class models will roll out to the public](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/)
+*Thu, 28 Ma*
+
+Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]
+
+---
+
+## Aggiornamento 2026-05-29
+
 ### [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
 *Fri, 29 Ma*
 
