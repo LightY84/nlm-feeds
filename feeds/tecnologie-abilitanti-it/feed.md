@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-29
+
+### [Agentic coding is only as good as its context](https://about.gitlab.com/blog/agentic-coding-only-as-good-as-context/)
+*2026-05-28*
+
+Every week, another coding agent demo shows a prompt turning into a pull request in under five minutes. These demos often highlight a narrow use case not yet in production, and they skip everything that happens after the commit.The pull request doesn’t include a link to the iss...
+
+---
+### [Building a cloud native internal developer platform with Kubernetes, GitOps, and supply chain security](https://www.cncf.io/blog/2026/05/29/building-a-cloud-native-internal-developer-platform-with-kubernetes-gitops-and-supply-chain-security/)
+*Fri, 29 Ma*
+
+Modern software delivery is no longer constrained by application code — it is constrained by the platform that runs it. This article presents the design of a cloud-native Internal Developer Platform (IDP) built on Kubernetes and...
+
+---
+
 ## Aggiornamento 2026-05-28
 
 ### [The Kubernetes integration tax: Prometheus, Cilium and production reality](https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality/)
