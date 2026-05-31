@@ -1,6 +1,29 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-05-31
+
+### [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
+*Sat, 30 Ma*
+
+Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]
+
+---
+### [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
+*Sat, 30 Ma*
+
+A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]
+
+---
+### [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
+*Fri, 29 Ma*
+
+Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.
+
+The technique has been codenamed ChatG...
+
+---
+
 ## Aggiornamento 2026-05-30
 
 ### [BTMOB Android malware service generates custom phishing payloads](https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/)
