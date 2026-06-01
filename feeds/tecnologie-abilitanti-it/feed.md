@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-01
+
+### [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/)
+*Mon, 01 Ju*
+
+This is Part 2 of our AI Coding Agent Horror Stories series, an in-depth look at real-world security incidents exposing the vulnerabilities in AI coding agents, and how Docker Sandboxes deliver workspace-scoped isolation that contains the worst failures at the execution layer. In part 1 of this s...
+
+---
+### [Dynamic configuration for cloud native Swift services](https://www.cncf.io/blog/2026/06/01/dynamic-configuration-for-cloud-native-swift-services/)
+*Mon, 01 Ju*
+
+Modern Swift services increasingly run alongside the same cloud native infrastructure stacks that power much of today’s Kubernetes ecosystem — including ConfigMaps, containerized workloads, declarative deployments, and service lifecycle management. Projects such as Prometheus and OpenTelemetry...
+
+---
+
 ## Aggiornamento 2026-05-29
 
 ### [Agentic coding is only as good as its context](https://about.gitlab.com/blog/agentic-coding-only-as-good-as-context/)
