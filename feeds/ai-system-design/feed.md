@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-01
 
+### [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](https://huggingface.co/blog/JetBrains/mellum2-launch)
+*Mon, 01 Ju*
+
+
+
+---
+
+## Aggiornamento 2026-06-01
+
 ### [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption)
 *Mon, 01 Ju*
 
