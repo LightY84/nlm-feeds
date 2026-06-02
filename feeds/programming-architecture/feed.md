@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-02
+
+### [Fragments: June  2](https://martinfowler.com/fragments/2026-06-02.html)
+*2026-06-02*
+
+Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.
+
+
+  Would you measure lines of code generated, or tickets closed? Or would you send out...
+
+---
+
 ## Aggiornamento 2026-05-28
 
 ### [Fragments: May 27](https://martinfowler.com/fragments/2026-05-27.html)

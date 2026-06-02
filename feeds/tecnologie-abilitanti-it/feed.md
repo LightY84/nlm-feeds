@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-02
+
+### [From Kubernetes Dashboard to Headlamp: Understanding the Transition](https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/)
+*Mon, 01 Ju*
+
+For many people, Kubernetes Dashboard was their first window into Kubernetes. It offered a simple visual way to see what was running in a cluster, inspect resources, and build confidence without relying on the command line. For years, it helped developers, students, and operators make sense of...
+
+---
+### [Cloud native is now AI-native: Engineering production-ready AI](https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai/)
+*Tue, 02 Ju*
+
+At KubeCon + CloudNativeCon Europe in Amsterdam from March 23-26, CNCF brought together a roundtable with experts in the cloud native ecosystem, including Ellis Tarn of AWS, Allan Naim of Google Cloud, Jorge Palma of Microsoft,...
+
+---
+### [Mumbai Maha Mahotsav – KubeCon + CloudNativeCon India edition](https://www.cncf.io/blog/2026/06/02/mumbai-maha-mahotsav-kubecon-cloudnativecon-india-edition/)
+*Tue, 02 Ju*
+
+Welcome to Mumbai &#8211; the City of Dreams, where ambition is the only dress code &#8211; and the host city for KubeCon + CloudNativeCon India 2026. As a co-chair of this year&#8217;s program, I&#8217;ve spent months...
+
+---
+
 ## Aggiornamento 2026-06-01
 
 ### [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/)
