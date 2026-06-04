@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-04
+
+### [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/coding-agent-horror-stories-the-security-crisis-threatening-developer-infrastructure/)
+*Mon, 18 Ma*
+
+This is issue 1 of a new series called Coding Agent Horror Stories where we examine critical security failures in the AI coding agent ecosystem and how Docker Sandboxes provide enterprise-grade protection against these threats. AI coding agents are everywhere. According to Anthropic's 2026 Agenti...
+
+---
+### [Securing CI/CD for an open source project: Controlling who runs what](https://www.cncf.io/blog/2026/06/04/securing-ci-cd-for-an-open-source-project-controlling-who-runs-what/)
+*Thu, 04 Ju*
+
+Part one The last twelve months have been rough on the open source supply chain. Axios was compromised on npm and shipped a remote access trojan inside otherwise normal-looking releases. LiteLLM&#8217;s PyPI package was hijacked to...
+
+---
+### [Inspektor Gadget: Results from the first security audit](https://www.cncf.io/blog/2026/06/03/inspektor-gadget-results-from-the-first-security-audit/)
+*Wed, 03 Ju*
+
+Inspektor Gadget, the open source eBPF-based toolkit for Kubernetes observability and Linux host inspection, has completed its first independent security audit. The audit was coordinated by the Open Source Technology Improvement Fund (OSTIF), funded by the...
+
+---
+
 ## Aggiornamento 2026-06-02
 
 ### [From Kubernetes Dashboard to Headlamp: Understanding the Transition](https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/)

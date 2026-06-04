@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-04
+
+### [Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining](https://huggingface.co/blog/nvidia/task-seeded-sdg)
+*Thu, 04 Ju*
+
+
+
+---
+
 ## Aggiornamento 2026-06-02
 
 ### [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31)
