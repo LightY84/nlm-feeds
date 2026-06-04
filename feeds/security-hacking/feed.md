@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-06-04
 
+### [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
+*Thu, 04 Ju*
+
+A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]
+
+---
+### [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
+*Thu, 04 Ju*
+
+Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]
+
+---
+### [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
+*Wed, 03 Ju*
+
+A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]
+
+---
+
+## Aggiornamento 2026-06-04
+
 ### [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
 *Thu, 04 Ju*
 
