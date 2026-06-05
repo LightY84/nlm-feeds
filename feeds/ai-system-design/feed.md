@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-05
+
+### [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety)
+*Thu, 04 Ju*
+
+
+
+---
+### [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data)
+*Thu, 04 Ju*
+
+
+
+---
+### [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents)
+*Thu, 04 Ju*
+
+
+
+---
+
 ## Aggiornamento 2026-06-04
 
 ### [Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining](https://huggingface.co/blog/nvidia/task-seeded-sdg)
