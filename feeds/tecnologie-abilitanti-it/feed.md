@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-05
+
+### [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/)
+*Thu, 04 Ju*
+
+When security teams scan their container environments for the first time, they often discover hundreds of known vulnerabilities, and almost none of them trace back to application code. The overwhelming majority come from packages that shipped with the base image: shells, compilers, debug utilitie...
+
+---
+### [Identity and Access Management Whitepaper](https://www.cncf.io/blog/2026/06/04/identity-and-access-management-whitepaper/)
+*Thu, 04 Ju*
+
+As cloud native architectures become more distributed, dynamic, and automated, identity increasingly becomes the new security perimeter. Traditional approaches to authentication and authorization struggle to keep pace with short-lived workloads, service-to-service communication, and zero-trust re...
+
+---
+
 ## Aggiornamento 2026-06-04
 
 ### [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/coding-agent-horror-stories-the-security-crisis-threatening-developer-infrastructure/)

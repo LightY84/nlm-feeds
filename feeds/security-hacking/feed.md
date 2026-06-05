@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-05
+
+### [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
+*Fri, 05 Ju*
+
+On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]
+
+---
+### [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
+*Thu, 04 Ju*
+
+The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]
+
+---
+### [DentaQuest data breach  exposed info of 2.6 million accounts](https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/)
+*Thu, 04 Ju*
+
+A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts.  [...]
+
+---
+
 ## Aggiornamento 2026-06-04
 
 ### [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
