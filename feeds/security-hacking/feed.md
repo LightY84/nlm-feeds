@@ -3,6 +3,37 @@
 
 ## Aggiornamento 2026-06-06
 
+### [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
+*Sat, 06 Ju*
+
+Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent.
+
+The same week, Google shipped Chrome 149 with patches fo...
+
+---
+### [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
+*Sat, 06 Ju*
+
+Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.
+
+The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per Op...
+
+---
+### [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
+*Sat, 06 Ju*
+
+Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.
+
+The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types -
+
+
+  On-Prem Deployment
+  Cisco...
+
+---
+
+## Aggiornamento 2026-06-06
+
 ### [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
 *Fri, 05 Ju*
 
