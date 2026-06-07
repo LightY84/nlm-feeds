@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-07
+
+### [Her · हेर — a detective for your Claude Code sessions](https://huggingface.co/blog/build-small-hackathon/her-blog)
+*Sun, 07 Ju*
+
+
+
+---
+
 ## Aggiornamento 2026-06-06
 
 ### [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
