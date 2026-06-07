@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-07
 
+### [Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange](https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers)
+*Sun, 07 Ju*
+
+
+
+---
+
+## Aggiornamento 2026-06-07
+
 ### [Her · हेर — a detective for your Claude Code sessions](https://huggingface.co/blog/build-small-hackathon/her-blog)
 *Sun, 07 Ju*
 

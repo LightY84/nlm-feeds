@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-06-07
 
+### [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
+*Sun, 07 Ju*
+
+A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]
+
+---
+### [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
+*Sun, 07 Ju*
+
+The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]
+
+---
+### [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
+*Fri, 05 Ju*
+
+Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.
+
+The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mim...
+
+---
+
+## Aggiornamento 2026-06-07
+
 ### [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
 *Sat, 06 Ju*
 
