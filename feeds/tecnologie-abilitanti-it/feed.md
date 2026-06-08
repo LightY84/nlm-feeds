@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-08
+
+### [Breaking free of a single datacenter: Practical geo-distributed AI operations with the k0smos platforms](https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms/)
+*Mon, 08 Ju*
+
+Breaking the single datacenter assumption Modern AI architectures are built on the assumption of centralized, homogeneous data centers. In reality, infrastructure is messy. For most organizations, compute resources are fragmented across private clouds, research environments, and...
+
+---
+### [Benchmarking KubeVirt performance with virtbench](https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench/)
+*Mon, 08 Ju*
+
+Organizations migrating VM estates from traditional hypervisors to KubeVirt often discover that many Kubernetes observability tools were originally designed around container workloads rather than VM-centric operational metrics. While KubeVirt schedules VMs as pods, the performance variables...
+
+---
+
 ## Aggiornamento 2026-06-05
 
 ### [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/)
