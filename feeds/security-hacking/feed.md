@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-06-08
 
+### [Gogs patches critical zero-day enabling remote code execution](https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/)
+*Mon, 08 Ju*
+
+Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]
+
+---
+### [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
+*Mon, 08 Ju*
+
+Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]
+
+---
+### [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
+*Mon, 08 Ju*
+
+Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments. This article explores how Wazuh Cloud helps simplify SIEM/XDR operations through managed infrastructure, automated scaling, and AI-driven security analysis. [...]
+
+---
+
+## Aggiornamento 2026-06-08
+
 ### [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
 *Mon, 08 Ju*
 
