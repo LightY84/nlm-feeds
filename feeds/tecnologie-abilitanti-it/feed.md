@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-09
+
+### [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/)
+*Mon, 08 Ju*
+
+Understanding software supply chain security is one thing. Putting it into practice across a real pipeline, with real deadlines and real constraints, is another. Most organizations recognize that their software supply chain is a growing attack surface, but translating that awareness into concrete...
+
+---
+### [Solving secret sprawl in multi-account Kubernetes with External Secrets Operator](https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator/)
+*Tue, 09 Ju*
+
+Infrastructure provisioning in Kubernetes has become increasingly automated, but secret management often remains a challenge as environments grow. Organizations commonly separate development, staging, and production workloads across clusters, namespaces, or cloud accounts to improve security and...
+
+---
+
 ## Aggiornamento 2026-06-08
 
 ### [Breaking free of a single datacenter: Practical geo-distributed AI operations with the k0smos platforms](https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms/)
