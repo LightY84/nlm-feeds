@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-06-10
 
+### [GitLab on Google Cloud: Fully managed, compliant, and AI-ready](https://about.gitlab.com/blog/gitlab-expands-google-model-support/)
+*2026-06-10*
+
+You can now run GitLab as a fully managed platform on Google Cloud, delivered by GitLab-certified managed service providers (MSPs) — with the latest Google AI models built in. Through MSP partners, including Beyond and <a href="https://digital-future....
+
+---
+### [Shai-Hulud copycat campaign targets Python developers through PyPI typosquatting](https://about.gitlab.com/blog/shai-hulud-copycat-campaign-targets-python-developers/)
+*2026-06-09*
+
+GitLab's Vulnerability Research team has identified a coordinated supply chain attack on PyPI deploying a copy of the Shai-Hulud malware. We found five malicious packages: four typosquats im...
+
+---
+### [Mythos-class Claude Fable 5 arrives on GitLab Duo Agent Platform](https://about.gitlab.com/blog/mythos-class-claude-fable-5-on-gitlab/)
+*2026-06-09*
+
+Claude Fable 5, a Mythos-class model with robust safeguards from Anthropic, is now available on GitLab Duo Agent Platform. For developers, platform engineers, and engineering leaders, this is not an incremental model update. Claude Fable 5 completes multi-step, goal-directed work that previous...
+
+---
+
+## Aggiornamento 2026-06-10
+
 ### [Introducing GitLab Orbit: Full code and lifecycle context, in one query](https://about.gitlab.com/blog/introducing-gitlab-orbit/)
 *2026-06-10*
 
