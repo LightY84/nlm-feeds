@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-10
+
+### [Introducing GitLab Orbit: Full code and lifecycle context, in one query](https://about.gitlab.com/blog/introducing-gitlab-orbit/)
+*2026-06-10*
+
+Agents are good at writing code. They're far worse at navigating the system around it: the related code, the pipelines that run it, the deployments that ship it, the work items that asked for it, and the teams that own it. That gap is where AI-assisted engineering breaks down today.In a...
+
+---
+### [GitLab Flex: Commit once, reshape your seats and AI spend](https://about.gitlab.com/blog/introducing-gitlab-flex/)
+*2026-06-10*
+
+The agentic era made your needs harder to predict, and the way you buy software hasn't caught up. Six months out, you don't know how many seats you'll need, how much AI your teams will consume, or which new capabilities you'll want to turn on. Yet the contract you sign today fixes all three up...
+
+---
+### [GitLab: Built for the agentic engineering era](https://about.gitlab.com/blog/gitlab-transcend-announcements/)
+*2026-06-10*
+
+GitLab Transcend, our customer event showcasing our roadmap, success stories, and industry research just wrapped. Here's what we announced and demonstrated:Next-generation source code management, a Git engine rebuilt for agent-scale concurrency, now in <a href="htt...
+
+---
+
 ## Aggiornamento 2026-06-09
 
 ### [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/)
