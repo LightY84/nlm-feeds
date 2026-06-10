@@ -9,16 +9,23 @@
 | File | Contenuto |
 |------|-----------|
 | indice.md | Questo file — mappa del notebook |
+| checklist-progetto.md | Roadmap completa in 6 fasi: obiettivi → terreno → progetto → finanziamento → cantiere → chiusura |
+| normativa-edilizia-fvg.md | Quadro normativo FVG/Carnia: LR 19/2009, sismica, vincoli, contributi regionali |
+| budget-template.md | Template costi compilabile: terreno, pratiche, costruzione, coperture finanziarie |
 
 ---
 
-## Come aggiungere questo file come sorgente in NotebookLM
+## Come aggiungere i file come sorgenti in NotebookLM
 
-1. Apri il notebook
-2. "+ Aggiungi fonte" → "GitHub"
-3. Incolla l'URL raw:
-   `https://raw.githubusercontent.com/lighty84/nlm-feeds/main/notebooks/piano-nuova-casa-carnia/indice.md`
+Apri il notebook → "+ Aggiungi fonte" → "Sito web" (o GitHub) → incolla gli URL raw:
+
+- `https://raw.githubusercontent.com/LightY84/nlm-feeds/main/notebooks/piano-nuova-casa-carnia/indice.md`
+- `https://raw.githubusercontent.com/LightY84/nlm-feeds/main/notebooks/piano-nuova-casa-carnia/checklist-progetto.md`
+- `https://raw.githubusercontent.com/LightY84/nlm-feeds/main/notebooks/piano-nuova-casa-carnia/normativa-edilizia-fvg.md`
+- `https://raw.githubusercontent.com/LightY84/nlm-feeds/main/notebooks/piano-nuova-casa-carnia/budget-template.md`
+
+Gli URL puntano a `main`: i contenuti diventano visibili lì dopo il merge del branch di lavoro.
 
 ---
 
-*Aggiornato: 2026-05-21*
+*Aggiornato: 2026-06-10*
