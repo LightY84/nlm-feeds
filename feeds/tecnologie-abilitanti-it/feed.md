@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-11
 
+### [Introducing Verifiable Execution in Dapr 1.18](https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18/)
+*Thu, 11 Ju*
+
+Bringing attestation, provenance, and tamper-evident execution history to workflows and AI agents For years, the cloud native ecosystem has focused on making distributed systems resilient. Applications recover from failures. Services retry requests. Workflows survive crashes and...
+
+---
+
+## Aggiornamento 2026-06-11
+
 ### [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/)
 *Thu, 11 Ju*
 
