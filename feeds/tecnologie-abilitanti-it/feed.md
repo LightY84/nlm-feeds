@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-11
+
+### [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/)
+*Thu, 11 Ju*
+
+Aikido now scans Docker Hardened Images (DHI) with built-in VEX support. Vulnerabilities that Docker has verified as non-exploitable drop out of the queue automatically, so developers spend their time on findings that actually matter. This post walks through what changed, why it matters, and how ...
+
+---
+
 ## Aggiornamento 2026-06-10
 
 ### [GitLab on Google Cloud: Fully managed, compliant, and AI-ready](https://about.gitlab.com/blog/gitlab-expands-google-model-support/)

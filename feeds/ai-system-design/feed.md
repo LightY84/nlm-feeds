@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-11
+
+### [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/)
+*Wed, 10 Ju*
+
+Google DeepMind and partners announce a $10M funding call for multi-agent safety research.
+
+---
+
 ## Aggiornamento 2026-06-10
 
 ### [Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech](https://huggingface.co/blog/ServiceNow-AI/code-switching)
