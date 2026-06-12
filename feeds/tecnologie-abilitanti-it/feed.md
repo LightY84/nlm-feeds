@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-12
+
+### [Securing CI/CD for an open source project: Locking down dependencies](https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies/)
+*Fri, 12 Ju*
+
+Part two This is the second post in a three-part series on how Cilium hardens its CI/CD pipeline. Part 1 covered access control: who can trigger builds and what code CI is allowed to execute. This...
+
+---
+
 ## Aggiornamento 2026-06-11
 
 ### [Introducing Verifiable Execution in Dapr 1.18](https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18/)

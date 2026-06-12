@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-12
+
+### [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
+*Fri, 12 Ju*
+
+Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]
+
+---
+### [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
+*Fri, 12 Ju*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]
+
+---
+### [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
+*Fri, 12 Ju*
+
+The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]
+
+---
+
 ## Aggiornamento 2026-06-11
 
 ### [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
