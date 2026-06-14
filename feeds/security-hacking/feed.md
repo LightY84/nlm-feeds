@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-06-14
 
+### [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+*Fri, 12 Ju*
+
+Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.
+
+Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted ...
+
+---
+### [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
+*Fri, 12 Ju*
+
+For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now.
+
+The threat landscape h...
+
+---
+### [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+*Fri, 12 Ju*
+
+Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.
+
+LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent ar...
+
+---
+
+## Aggiornamento 2026-06-14
+
 ### [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
 *Sat, 13 Ju*
 
