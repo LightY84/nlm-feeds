@@ -1,6 +1,24 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-15
+
+### [Spotlight on SIG Storage](https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/)
+*Mon, 15 Ju*
+
+In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project
+moving forward. This time, we catch up with SIG
+Storage, the group responsible
+for persistent data...
+
+---
+### [Improving Arm64 support in CNCF projects with OCI credits](https://www.cncf.io/blog/2026/06/15/improving-arm64-support-in-cncf-projects-with-oci-credits/)
+*Mon, 15 Ju*
+
+In recent years, Arm64 has been taking the cloud service provider world by storm. Recent reports indicate that, as of the end of 2025, over 50% of new instances on AWS and over 33% on Azure...
+
+---
+
 ## Aggiornamento 2026-06-12
 
 ### [Securing CI/CD for an open source project: Locking down dependencies](https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies/)
