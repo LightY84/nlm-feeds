@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-15
 
+### [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/)
+*Mon, 15 Ju*
+
+The obvious takeaway from 2026's biggest incidents is that attackers are increasingly using AI to move fast. Docker's CISO, Mark Lechner, wrote about this shift and what every engineering team should do now. What worries us is that the bar is about to drop further. For most of the last decade, fi...
+
+---
+
+## Aggiornamento 2026-06-15
+
 ### [Spotlight on SIG Storage](https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/)
 *Mon, 15 Ju*
 
