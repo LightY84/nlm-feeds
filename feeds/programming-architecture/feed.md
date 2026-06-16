@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-16
+
+### [Fragments: June 16](https://martinfowler.com/fragments/2026-06-16.html)
+*2026-06-16*
+
+“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young.
+
+
+  Programming was how I could express myself. I wasn’t an artist. When I si...
+
+---
+
 ## Aggiornamento 2026-06-02
 
 ### [Fragments: June  2](https://martinfowler.com/fragments/2026-06-02.html)

@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-16
+
+### [From data residency to digital sovereignty: Architectural patterns for  cloud native platforms](https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms/)
+*Tue, 16 Ju*
+
+Over the past two years, digital sovereignty has evolved from a policy discussion into a practical platform engineering concern. The EU Data Act has been fully applicable since January 11, 2025. NIS-2 and DORA already shape...
+
+---
+
 ## Aggiornamento 2026-06-15
 
 ### [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/)
