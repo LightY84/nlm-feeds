@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-17
 
+### [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch)
+*Wed, 17 Ju*
+
+
+
+---
+
+## Aggiornamento 2026-06-17
+
 ### [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)
 *Wed, 17 Ju*
 

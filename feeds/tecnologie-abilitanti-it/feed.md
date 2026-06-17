@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-17
 
+### [Why cloud native belongs at the heart of agentic AI: Lessons from building a multi-agent security platform on Kubernetes](https://www.cncf.io/blog/2026/06/17/why-cloud-native-belongs-at-the-heart-of-agentic-ai-lessons-from-building-a-multi-agent-security-platform-on-kubernetes/)
+*Wed, 17 Ju*
+
+In March, I gave a talk at KubeCon + CloudNativeCon Europe 2026 in Amsterdam. After the session, the same questions kept coming up on the CNCF Slack and in person: why build agentic AI on cloud...
+
+---
+
+## Aggiornamento 2026-06-17
+
 ### [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/)
 *Tue, 16 Ju*
 
