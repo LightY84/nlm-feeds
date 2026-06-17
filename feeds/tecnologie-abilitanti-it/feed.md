@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-17
+
+### [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/)
+*Tue, 16 Ju*
+
+TLDR: Docker Content Trust (DCT) and the Notary v1 service at notary.docker.io are being fully retired (first announced in July of 2025). This blog explains what is changing, who is affected, and how to move to modern alternatives.  Ten years ago, Docker Content Trust (DCT) gave the container eco...
+
+---
+### [GitLab and Capgemini accelerate DevSecOps transformation](https://about.gitlab.com/blog/gitlab-and-capgemini-global-alliance-partnership/)
+*2026-06-17*
+
+We're excited to share that GitLab and Capgemini have signed a global alliance partnership agreement. As a GitLab Select Partner, Capgemini will leverage the GitLab portfolio for clients globally, including GitLab Duo Agent Platform, which orchestrates AI across the entire software development...
+
+---
+### [Introducing the 2026 EMEA GitLab Partner Award winners](https://about.gitlab.com/blog/2026-emea-gitlab-partner-awards/)
+*2026-06-17*
+
+The GitLab Partner Program continues to cultivate a thriving ecosystem of DevSecOps professionals committed to helping customers modernize their software development, from foundational DevSecOps practices to the latest AI-powered capabili...
+
+---
+
 ## Aggiornamento 2026-06-16
 
 ### [From data residency to digital sovereignty: Architectural patterns for  cloud native platforms](https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms/)

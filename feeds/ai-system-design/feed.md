@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-17
+
+### [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)
+*Wed, 17 Ju*
+
+
+
+---
+### [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)
+*Tue, 16 Ju*
+
+UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.
+
+---
+
 ## Aggiornamento 2026-06-11
 
 ### [Investing in multi-agent AI safety research](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/)
