@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-18
+
+### [GitLab named a Leader in the 2026 Gartner® Magic Quadrant™ for DevSecOps Platforms](https://about.gitlab.com/blog/gitlab-leader-2026-gartner-mq-devsecops-platforms/)
+*2026-06-17*
+
+For the fourth year running, Gartner has named GitLab a Leader in the 2026 Gartner® Magic Quadrant™ for DevSecOps Platforms. We believe this recognition reflects what our customers already see: The work of building software has moved past the editor, and the platform underneat...
+
+---
+### [Flipkart Wins CNCF End User Case Study Contest for Kubernetes and Chaos Engineering Scale](https://www.cncf.io/announcements/2026/06/17/flipkart-wins-cncf-end-user-case-study-contest-for-kubernetes-and-chaos-engineering-scale/)
+*Thu, 18 Ju*
+
+Integration of LitmusChaos with Kubernetes-native architecture drives production-grade reliability for India&#8217;s largest e-commerce platform Key Highlights KUBECON + CLOUDNATIVECON INDIA, MUMBAI, India — June 18, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable...
+
+---
+### [Expanding CARE: Passing CKS can now extend your CKA certification](https://www.cncf.io/blog/2026/06/17/expanding-care-passing-cks-can-now-extend-your-cka-certification/)
+*Thu, 18 Ju*
+
+A few months ago, CNCF introduced the CARE Program — Certification Advancement &#38; Recertification Experience — to make it easier for certified professionals to keep their credentials current as they continue growing their cloud native skills....
+
+---
+
 ## Aggiornamento 2026-06-17
 
 ### [Why cloud native belongs at the heart of agentic AI: Lessons from building a multi-agent security platform on Kubernetes](https://www.cncf.io/blog/2026/06/17/why-cloud-native-belongs-at-the-heart-of-agentic-ai-lessons-from-building-a-multi-agent-security-platform-on-kubernetes/)
