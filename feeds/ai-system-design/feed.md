@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-18
+
+### [Beyond LoRA: Can you beat the most popular fine-tuning technique?](https://huggingface.co/blog/peft-beyond-lora)
+*Thu, 18 Ju*
+
+
+
+---
+### [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough)
+*Thu, 18 Ju*
+
+
+
+---
+### [Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
+*Tue, 16 Ju*
+
+Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.
+
+---
+
 ## Aggiornamento 2026-06-17
 
 ### [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch)

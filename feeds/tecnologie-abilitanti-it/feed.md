@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-06-18
 
+### [CNCF and SlashData Report Confirms India as One of the Largest Cloud Native Communities with 2.25 Million Developers](https://www.cncf.io/announcements/2026/06/17/cncf-and-slashdata-report-confirms-india-as-one-of-the-largest-cloud-native-communities-with-2-25-million-developers/)
+*Thu, 18 Ju*
+
+New research released at KubeCon + CloudNativeCon India highlights rising hybrid cloud adoption, platform engineering maturity and growing cloud native AI development Key Highlights: MUMBAI – KubeCon + CloudNativeCon India —June 18, 2026— The Cloud Native...
+
+---
+### [CNCF Welcomes New Silver Members as Global Demand for Cloud Native Infrastructure Grows](https://www.cncf.io/announcements/2026/06/17/cncf-welcomes-new-silver-members-as-global-demand-for-cloud-native-infrastructure-grows/)
+*Thu, 18 Ju*
+
+New organizations join CNCF as enterprises expand Kubernetes adoption for platform engineering and AI workloads MUMBAI – KubeCon + CloudNativeCon India —June 18, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...
+
+---
+
+## Aggiornamento 2026-06-18
+
 ### [GitLab named a Leader in the 2026 Gartner® Magic Quadrant™ for DevSecOps Platforms](https://about.gitlab.com/blog/gitlab-leader-2026-gartner-mq-devsecops-platforms/)
 *2026-06-17*
 
