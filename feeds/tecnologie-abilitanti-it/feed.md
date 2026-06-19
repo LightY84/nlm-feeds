@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-19
 
+### [CNCF and Linux Foundation Education Partner with Udemy to Provide a Unified Cloud Native Training & Certification Opportunity](https://www.cncf.io/announcements/2026/06/17/cncf-and-linux-foundation-education-partner-with-udemy-to-provide-a-unified-cloud-native-training-certification-opportunity/)
+*Thu, 18 Ju*
+
+Partnership combines Udemy training with CKA, CKAD, CKS, and CNPE exams into a unified purchasing process to simplify training for developers Key Highlights KUBECON + CLOUDNATIVECON INDIA, MUMBAI — June 18, 2026 — The Cloud Native...
+
+---
+
+## Aggiornamento 2026-06-19
+
 ### [One vulnerability view: From scanner coverage to AI governance](https://about.gitlab.com/blog/one-vulnerability-view/)
 *2026-06-18*
 
