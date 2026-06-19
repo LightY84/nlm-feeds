@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-19
+
+### [One vulnerability view: From scanner coverage to AI governance](https://about.gitlab.com/blog/one-vulnerability-view/)
+*2026-06-18*
+
+Most enterprises use a handful of different security scanners, each configured and enforced, project by project. With no single view of what scanners run where, policies drift, blind spots go undetected, and important projects could silently go unprotected. With <a href="https://docs.gitlab.co...
+
+---
+### [AI Catalog updates for governance and operations](https://about.gitlab.com/blog/ai-catalog-updates-for-governance-and-operations/)
+*2026-06-18*
+
+Enterprise AI adoption often stalls not because the technology isn't ready, but because admins can't answer the question their security team is asking: What's actually running in our environment, and who put it there?<a href="https://docs.gitlab.com/releases/19/gitlab-19-1-released/" re...
+
+---
+### [KubeCon + CloudNativeCon, OpenInfra Summit and PyTorch Conference Unite in China to Scale AI](https://www.cncf.io/announcements/2026/06/18/kubecon-cloudnativecon-openinfra-summit-and-pytorch-conference-unite-in-china-to-scale-ai/)
+*Thu, 18 Ju*
+
+Schedule highlights global communities bridging cloud native infrastructure with AI stacks Key Highlights SHANGHAI — JUNE 18, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, the OpenInfra Foundation,...
+
+---
+
 ## Aggiornamento 2026-06-18
 
 ### [CNCF and SlashData Report Confirms India as One of the Largest Cloud Native Communities with 2.25 Million Developers](https://www.cncf.io/announcements/2026/06/17/cncf-and-slashdata-report-confirms-india-as-one-of-the-largest-cloud-native-communities-with-2-25-million-developers/)
