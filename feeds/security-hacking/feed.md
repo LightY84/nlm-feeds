@@ -1,6 +1,33 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-21
+
+### [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+*Sat, 20 Ju*
+
+Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips.
+
+That code is burned into the silicon at manufacture. No software update can reach it. Affected devic...
+
+---
+### [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
+*Sat, 20 Ju*
+
+The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor.
+
+This mature portfolio of EDR-terminating tools is c...
+
+---
+### [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
+*Fri, 19 Ju*
+
+Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution.
+
+Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and sp...
+
+---
+
 ## Aggiornamento 2026-06-20
 
 ### [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
