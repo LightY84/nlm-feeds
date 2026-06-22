@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-06-22
 
+### [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
+*Mon, 22 Ju*
+
+Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiri...
+
+---
+### [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
+*Mon, 22 Ju*
+
+It’s Monday again.
+
+This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control.
+
+The annoying part is how little of this feels new. Weak credentials, ...
+
+---
+### [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
+*Mon, 22 Ju*
+
+Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.
+
+The Federal Court&nbsp;released a public version of the ruling on June 15. It is the first time the Canadian Security Intellig...
+
+---
+
+## Aggiornamento 2026-06-22
+
 ### [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
 *Mon, 22 Ju*
 
