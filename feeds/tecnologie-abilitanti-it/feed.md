@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-22
+
+### [Telemetry that matters: Designing sustainable, high-impact observability pipelines](https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines/)
+*Mon, 22 Ju*
+
+As system architectures grow increasingly complex, the cloud-native community faces a subtle but pressing challenge: we are drowning in our own telemetry data. It is easier than ever to instrument an application and collect signals, but...
+
+---
+
 ## Aggiornamento 2026-06-19
 
 ### [CNCF and Linux Foundation Education Partner with Udemy to Provide a Unified Cloud Native Training & Certification Opportunity](https://www.cncf.io/announcements/2026/06/17/cncf-and-linux-foundation-education-partner-with-udemy-to-provide-a-unified-cloud-native-training-certification-opportunity/)

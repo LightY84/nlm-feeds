@@ -1,6 +1,31 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-22
+
+### [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
+*Mon, 22 Ju*
+
+Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]
+
+---
+### [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+*Mon, 22 Ju*
+
+Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER.
+
+According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Eviden...
+
+---
+### [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+*Mon, 22 Ju*
+
+Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents.
+
+AI adoption is moving faster than sec...
+
+---
+
 ## Aggiornamento 2026-06-21
 
 ### [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
