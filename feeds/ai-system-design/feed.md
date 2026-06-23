@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-23
 
+### [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps)
+*Tue, 23 Ju*
+
+
+
+---
+
+## Aggiornamento 2026-06-23
+
 ### [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci)
 *Tue, 23 Ju*
 
