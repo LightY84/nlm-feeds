@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-24
+
+### [What is an SBOM (and Why Can’t You Ship Without One)?](https://www.docker.com/blog/what-is-an-sbom/)
+*Tue, 23 Ju*
+
+In Omdia's 2026 software supply chain security report, 73% of organizations that generate SBOMs say they enable more efficient vulnerability mitigation, yet 86% still find the generation process challenging. That gap between recognized value and operational difficulty is where most teams are stuc...
+
+---
+
 ## Aggiornamento 2026-06-22
 
 ### [Telemetry that matters: Designing sustainable, high-impact observability pipelines](https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines/)
