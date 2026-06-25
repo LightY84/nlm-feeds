@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-06-25
 
+### [Building a Cluster-Aware AI Agent with Kubernetes, Argo CD, and GitOps](https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops/)
+*Thu, 25 Ju*
+
+A practical walkthrough of running a self-hosted, read-only AI agent inside a Kubernetes cluster, with the full CI/CD chain handled by GitHub Actions and Argo CD Image Updater. No data leaves the cluster, no cloud AI...
+
+---
+
+## Aggiornamento 2026-06-25
+
 ### [Spotlight on WG Device Management](https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/)
 *Wed, 24 Ju*
 
