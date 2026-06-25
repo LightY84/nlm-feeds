@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-25
+
+### [Spotlight on WG Device Management](https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/)
+*Wed, 24 Ju*
+
+The rising popularity of AI, Edge, and Telecommunications workloads on Kubernetes has led to new requirements for hardware management. We now need hardware specification beyond CPU time and memory allocations. This includes allocating GPUs, TPUs, network interfaces, and other hardware, sometim...
+
+---
+### [What is Software Supply Chain Security?](https://www.docker.com/blog/what-is-software-supply-chain-security/)
+*Wed, 03 Ju*
+
+Learn what software supply chain security is, why it matters, and how to protect every stage of your software delivery pipeline with container-based infrastructure and trusted content.
+
+---
+### [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/)
+*Tue, 02 Ju*
+
+Learn how to secure AI agents with practical overview on isolation, tool access control, identity management, and runtime monitoring for production deployments.
+
+---
+
 ## Aggiornamento 2026-06-24
 
 ### [What is an SBOM (and Why Can’t You Ship Without One)?](https://www.docker.com/blog/what-is-an-sbom/)
