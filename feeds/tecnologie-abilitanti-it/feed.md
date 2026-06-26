@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-06-26
 
+### [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/)
+*Thu, 25 Ju*
+
+Learn when, where, and how to generate SBOMs for container images. Covers build-time vs. post-build approaches, quality criteria, and CI/CD integration.
+
+---
+### [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/)
+*Thu, 25 Ju*
+
+Learn what the EU Cyber Resilience Act requires, including SBOM mandates, vulnerability reporting, and compliance deadlines for container teams.
+
+---
+### [Google Antigravity agents get full context with GitLab Orbit](https://about.gitlab.com/blog/gitlab-orbit-and-google-antigravity/)
+*2026-06-25*
+
+Developers working in Google Antigravity can now install our lifecycle context graph,  GitLab Orbit, directly from the Antigravity MCP Store and give their agen...
+
+---
+
+## Aggiornamento 2026-06-26
+
 ### [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/)
 *Thu, 25 Ju*
 

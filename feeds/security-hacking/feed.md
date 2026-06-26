@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-06-26
 
+### [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
+*Thu, 25 Ju*
+
+A newly discovered macOS malware dubbed "Gaslight" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]
+
+---
+### [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
+*Fri, 26 Ju*
+
+A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.
+
+CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit...
+
+---
+### [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
+*Fri, 26 Ju*
+
+A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it.
+
+Tracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), t...
+
+---
+
+## Aggiornamento 2026-06-26
+
 ### [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
 *Thu, 25 Ju*
 
