@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-26
+
+### [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs)
+*Fri, 26 Ju*
+
+
+
+---
+
 ## Aggiornamento 2026-06-25
 
 ### [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)

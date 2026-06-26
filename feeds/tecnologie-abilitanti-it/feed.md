@@ -1,6 +1,33 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-26
+
+### [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/)
+*Thu, 25 Ju*
+
+Headlamp is an open-source, extensible Kubernetes SIG UI
+project designed to let you explore, manage, and debug cluster resources directly
+from a browser.
+Cluster API (CAPI) is a Kubernetes sub-project
+tha...
+
+---
+### [Inspect Volcano workloads faster with Headlamp](https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/)
+*Thu, 25 Ju*
+
+Volcano is a cloud native batch scheduler for Kubernetes, built for high-performance computing, AI/ML, and other batch workloads.
+Headlamp is an extensible Kubernetes web UI. With its plugin system, Headlamp can surfa...
+
+---
+### [See your serverless: introducing the Headlamp plugin for Knative](https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/)
+*Thu, 25 Ju*
+
+Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources.
+Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscal...
+
+---
+
 ## Aggiornamento 2026-06-25
 
 ### [Building a Cluster-Aware AI Agent with Kubernetes, Argo CD, and GitOps](https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops/)
