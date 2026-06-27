@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-27
+
+### [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/)
+*Fri, 26 Ju*
+
+AI has really changed the game around software development.
+More people are leveraging AI than ever to contribute patches to projects they use.
+To me, this is a good thing as more folks will contribute patches rather than fork or not fix them.
+The main problem is that AI has made generating co...
+
+---
+### [Security Profiles Operator v1: Stable APIs, Security Hardened, and Shaping Upstream Kubernetes](https://www.cncf.io/blog/2026/06/26/security-profiles-operator-v1-stable-apis-security-hardened-and-shaping-upstream-kubernetes/)
+*Fri, 26 Ju*
+
+Linux provides powerful kernel-level security mechanisms, seccomp, SELinux, and AppArmor, that restrict what containerized workloads can do. Each uses profiles that define permitted behavior, but writing, distributing, and maintaining those profiles by hand is tedious and...
+
+---
+### [Securing CI/CD for an open source project, part 3: Credentials, verification, and what’s next](https://www.cncf.io/blog/2026/06/26/securing-ci-cd-for-an-open-source-project-part-3-credentials-verification-and-whats-next/)
+*Fri, 26 Ju*
+
+This is the third and final post in a series on how Cilium hardens its CI/CD pipeline. Part 1 covered access control and Part 2 covered dependency hardening. This post covers the last layer: keeping CI...
+
+---
+
 ## Aggiornamento 2026-06-26
 
 ### [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/)
