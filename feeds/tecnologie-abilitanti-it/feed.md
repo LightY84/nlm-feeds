@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-29
+
+### [OTel and mesh-derived metrics: A 2026 reference](https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference/)
+*Mon, 29 Ju*
+
+If you already run an OpenTelemetry pipeline, you have good visibility into what your applications are doing. This blog post is about what you don’t see yet: the east-west traffic between your services, measured at the...
+
+---
+### [etcd-operator joins Cozystack with a new v1alpha2 API](https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api/)
+*Mon, 29 Ju*
+
+The etcd-operator project, which develops an operator for deploying and maintaining etcd clusters on Kubernetes, has been donated to the Cozystack project. Alongside the donation, a from-scratch implementation of the operator has been published under a...
+
+---
+
 ## Aggiornamento 2026-06-27
 
 ### [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/)
