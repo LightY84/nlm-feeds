@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-06-30
 
+### [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
+*Tue, 30 Ju*
+
+Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]
+
+---
+### [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
+*Mon, 29 Ju*
+
+The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]
+
+---
+### [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
+*Tue, 30 Ju*
+
+The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.
+
+New research from&nbsp;Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular...
+
+---
+
+## Aggiornamento 2026-06-30
+
 ### [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
 *Tue, 30 Ju*
 
