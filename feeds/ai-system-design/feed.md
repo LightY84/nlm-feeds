@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-06-30
+
+### [DiScoFormer: One transformer for density and score, across distributions](https://huggingface.co/blog/allenai/discoformer)
+*Mon, 29 Ju*
+
+
+
+---
+
 ## Aggiornamento 2026-06-26
 
 ### [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs)
