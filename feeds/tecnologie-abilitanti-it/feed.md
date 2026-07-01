@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-01
+
+### [Claude Sonnet 5 on GitLab: More reliable, more efficient](https://about.gitlab.com/blog/claude-sonnet-5-on-gitlab/)
+*2026-06-30*
+
+Anthropic’s Claude Sonnet 5 is now available on GitLab Duo Agent Platform across all tiers and deployment models through GitLab's AI Gateway. Claude Sonnet 5 is built for work that agents assist software teams with every day...
+
+---
+### [Understanding dynamic resource allocation in Kubernetes](https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes/)
+*Wed, 01 Ju*
+
+Dynamic Resource Allocation (DRA) recently reached GA in Kubernetes v1.35, and I believe many of us are eager to give it a try. Adding to the momentum, NVIDIA has moved dra-driver-nvidia-gpu into Kubernetes SIGs, with the...
+
+---
+
 ## Aggiornamento 2026-06-29
 
 ### [OTel and mesh-derived metrics: A 2026 reference](https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference/)
