@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-07-01
 
+### [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai)
+*Wed, 01 Ju*
+
+
+
+---
+
+## Aggiornamento 2026-07-01
+
 ### [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench)
 *Tue, 30 Ju*
 

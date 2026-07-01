@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-07-01
 
+### [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/)
+*Wed, 01 Ju*
+
+Learn why AI agent isolation matters, how Docker SBX enables safer AI workflows, and how Sandbox Kits help. Written by Docker Captain Karan Verma.
+
+---
+
+## Aggiornamento 2026-07-01
+
 ### [Claude Sonnet 5 on GitLab: More reliable, more efficient](https://about.gitlab.com/blog/claude-sonnet-5-on-gitlab/)
 *2026-06-30*
 
