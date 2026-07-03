@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-03
+
+### [How data sovereignty is changing cloud native infrastructure design](https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design/)
+*Fri, 03 Ju*
+
+The core issue isn&#8217;t where your server sits. It&#8217;s who can be compelled to hand over what&#8217;s on it. For years, cloud providers treated sovereignty as a geography problem. Pick a region. Choose a country. Keep...
+
+---
+### [(re)introducing kpt: Your toolchain for infrastructure automation](https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation/)
+*Thu, 02 Ju*
+
+What is kpt? The opening tagline of the kpt documentation describes it as &#8220;&#8230; a package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience, which simplifies managing Kubernetes platforms and KRM-driven infrastructure at...
+
+---
+
 ## Aggiornamento 2026-07-01
 
 ### [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/)
