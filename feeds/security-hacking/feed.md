@@ -3,6 +3,35 @@
 
 ## Aggiornamento 2026-07-04
 
+### [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
+*Fri, 03 Ju*
+
+Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.
+
+"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management an...
+
+---
+### [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
+*Thu, 02 Ju*
+
+This week’s security news is mostly about weak spots.
+
+Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through.
+
+This is not one big break. It is small permissions, weak che...
+
+---
+### [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
+*Thu, 02 Ju*
+
+The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.
+
+"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, ta...
+
+---
+
+## Aggiornamento 2026-07-04
+
 ### [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html)
 *Sat, 04 Ju*
 
