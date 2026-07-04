@@ -1,6 +1,33 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-04
+
+### [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html)
+*Sat, 04 Ju*
+
+Security firm runZero has&nbsp;disclosed seven vulnerabilities&nbsp;in&nbsp;FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.
+
+The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs s...
+
+---
+### [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html)
+*Sat, 04 Ju*
+
+A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.
+
+Bad Epoll sits in the same small stretch of kernel code where Anthropic's ...
+
+---
+### [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
+*Sat, 04 Ju*
+
+Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.
+
+Avalon combines credential collection, lateral movement, remote access, r...
+
+---
+
 ## Aggiornamento 2026-07-03
 
 ### [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
