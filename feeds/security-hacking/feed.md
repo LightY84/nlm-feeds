@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-07-05
 
+### [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
+*Thu, 02 Ju*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8...
+
+---
+### [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
+*Thu, 02 Ju*
+
+Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port.
+
+Synacktiv, which found the bug, says it can lead to a full cluster t...
+
+---
+### [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
+*Thu, 02 Ju*
+
+A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice&nbsp;announced&nbsp;on July 1.
+
+Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in ...
+
+---
+
+## Aggiornamento 2026-07-05
+
 ### [JadePuffer ransomware used AI agent to automate entire attack](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
 *Sat, 04 Ju*
 
