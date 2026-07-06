@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-06
+
+### [Fragments: July  6](https://martinfowler.com/fragments/2026-07-06.html)
+*2026-07-06*
+
+Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I ...
+
+---
+
 ## Aggiornamento 2026-06-16
 
 ### [Fragments: June 16](https://martinfowler.com/fragments/2026-06-16.html)

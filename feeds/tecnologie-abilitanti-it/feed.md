@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-06
+
+### [Evolving platform engineering for AI-native workloads](https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads/)
+*Mon, 06 Ju*
+
+Platform Engineering 1.0 delivered real value.&#160;Golden paths accelerated deployment. Internal Developer Platforms (IDPs) reduced cognitive load for developers. Self-service infrastructure gave developers back hours they had been spending filing tickets. Pipelines provided a standard vehicle t...
+
+---
+
 ## Aggiornamento 2026-07-03
 
 ### [How data sovereignty is changing cloud native infrastructure design](https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design/)

@@ -1,6 +1,31 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-06
+
+### [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html)
+*Mon, 06 Ju*
+
+Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a near...
+
+---
+### [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html)
+*Mon, 06 Ju*
+
+Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.
+
+According to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere be...
+
+---
+### [SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing](https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html)
+*Mon, 06 Ju*
+
+Scanners meant to catch malicious add-on "skills" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from researchers at the Hong Kong University of Science and Technology.
+
+Their strongest trick slipped past every scanner...
+
+---
+
 ## Aggiornamento 2026-07-05
 
 ### [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
