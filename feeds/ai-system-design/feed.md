@@ -1,6 +1,25 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-08
+
+### [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](https://huggingface.co/blog/skypilot-hf-storage)
+*Tue, 07 Ju*
+
+
+
+---
+### [Intelligence is Free, Now What? <br> Data Systems for, of, and by Agents](http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/)
+*Tue, 07 Ju*
+
+... government of the people, by the people, for the people ...
+&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Abraham Lincoln, Gettysburg Address (1863)
+
+
+The cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly <...
+
+---
+
 ## Aggiornamento 2026-07-02
 
 ### [2026 BAIR Graduate Showcase](http://bair.berkeley.edu/blog/2026/07/01/grads-2026/)
