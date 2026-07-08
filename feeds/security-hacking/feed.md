@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-07-08
 
+### [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
+*Wed, 08 Ju*
+
+Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]
+
+---
+### [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
+*Wed, 08 Ju*
+
+Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]
+
+---
+### [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
+*Tue, 07 Ju*
+
+IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]
+
+---
+
+## Aggiornamento 2026-07-08
+
 ### [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
 *Wed, 08 Ju*
 
