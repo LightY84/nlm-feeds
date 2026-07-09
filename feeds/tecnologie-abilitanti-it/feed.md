@@ -1,6 +1,28 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-09
+
+### [Announcing etcd v3.7.0](https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/)
+*Wed, 08 Ju*
+
+This article is a mirror of the original announcement
+Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key...
+
+---
+### [How we used AI agents to migrate GitLab rate limiting](https://about.gitlab.com/blog/ai-agents-for-migrating-rate-limiting-system/)
+*2026-07-08*
+
+A small team at GitLab spent the past few weeks running an experiment: Could we use AI agents to migrate part of our legacy rate-limiting system without dropping the safety bar?Short answer: yes. AI agents do work. They can also expose weaknesses in how you usually work. The pod, the lo...
+
+---
+### [The CNCF Data Storage in Cloud Native AI White Paper](https://www.cncf.io/report-whitepaper/2026/07/08/the-cncf-data-storage-in-cloud-native-ai-white-paper/)
+*Wed, 08 Ju*
+
+Deploying Artificial Intelligence (AI) and Machine Learning (ML) workloads at scale has become a primary objective for modern enterprises. However, moving these data-heavy, stateful workloads into cloud native infrastructure introduces massive data bottlenecks. To help organizations...
+
+---
+
 ## Aggiornamento 2026-07-06
 
 ### [Evolving platform engineering for AI-native workloads](https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads/)

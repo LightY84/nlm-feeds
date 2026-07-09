@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-09
+
+### [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
+*Thu, 09 Ju*
+
+American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year.  [...]
+
+---
+### [Microsoft patches RoguePlanet Defender zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/)
+*Thu, 09 Ju*
+
+Microsoft has released a security patch to address a Defender zero-day vulnerability known as "RoguePlanet," disclosed after the June 2026 Patch Tuesday. [...]
+
+---
+### [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
+*Wed, 08 Ju*
+
+Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]
+
+---
+
 ## Aggiornamento 2026-07-08
 
 ### [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)

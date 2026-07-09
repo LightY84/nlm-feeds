@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-09
+
+### [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
+*Wed, 08 Ju*
+
+
+
+---
+### [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend)
+*Wed, 08 Ju*
+
+
+
+---
+
 ## Aggiornamento 2026-07-08
 
 ### [Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot](https://huggingface.co/blog/skypilot-hf-storage)
