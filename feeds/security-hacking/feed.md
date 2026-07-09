@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-07-09
 
+### [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
+*Thu, 09 Ju*
+
+Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on manual processes year-round. [...]
+
+---
+### [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
+*Wed, 08 Ju*
+
+Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]
+
+---
+### [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
+*Wed, 08 Ju*
+
+A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]
+
+---
+
+## Aggiornamento 2026-07-09
+
 ### [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
 *Thu, 09 Ju*
 
