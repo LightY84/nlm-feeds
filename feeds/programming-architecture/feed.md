@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-10
+
+### [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from)
+*Thu, 09 Ju*
+
+A rewrite done in 11 days that would have taken a small team a year to complete, for $165K in tokens. Also: coding LLM &#8220;wars&#8221; heat up, AI fakers from North Korea still a problem when hiring, and more
+
+---
+
 ## Aggiornamento 2026-07-06
 
 ### [Fragments: July  6](https://martinfowler.com/fragments/2026-07-06.html)

@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-10
+
+### [Navigating the ingress-NGINX retirement](https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement/)
+*Thu, 09 Ju*
+
+1. The Post-March 2026 landscape ⚠ The CatalystAcknowledge the March 2026 retirement of the Kubernetes SIG Network ingress-nginx controller. Staying on this controller introduces severe operational risks, including unpatched CVEs and a complete halt of feature...
+
+---
+
 ## Aggiornamento 2026-07-09
 
 ### [Green DevOps: Why carbon measurement belongs in your CI/CD pipeline](https://about.gitlab.com/blog/green-devops-carbon-measurement-cicd-pipeline/)
