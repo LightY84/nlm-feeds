@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-07-12
 
+### [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
+*Fri, 10 Ju*
+
+Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a "credible external security threat."
+
+The company has temporarily disabled access to the affected accounts, a step it sa...
+
+---
+### [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
+*Fri, 10 Ju*
+
+Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers.
+
+Four of the bugs can crash a device. The other two could let an att...
+
+---
+### [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
+*Fri, 10 Ju*
+
+Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks.
+
+No old password. No backup card. Once it is reset, whoever did it controls the...
+
+---
+
+## Aggiornamento 2026-07-12
+
 ### [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
 *Sat, 11 Ju*
 
