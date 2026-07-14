@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-14
+
+### [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/)
+*Mon, 13 Ju*
+
+Kubernetes has quietly become the default platform for AI and machine learning. Whether you run notebook servers for data scientists, schedule distributed training jobs, tune hyperparameters, or orchestrate multi-step ML pipelines, those workloads increasingly land on a Kubernetes cluster. <a ...
+
+---
+### [Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/)
+*Mon, 13 Ju*
+
+1. Before you start: know what is changingKubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headla...
+
+---
+
 ## Aggiornamento 2026-07-10
 
 ### [Navigating the ingress-NGINX retirement](https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement/)

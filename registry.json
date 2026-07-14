@@ -553,7 +553,10 @@
     "78691cfdccff",
     "89deae939f0e",
     "d3cca11a878e",
-    "180340f9a70c"
+    "180340f9a70c",
+    "355011916b83",
+    "b8dbb515b5b1",
+    "7efedef800b0"
   ],
   "programming-architecture": [
     "3f9e47644df7",
@@ -582,7 +585,8 @@
     "32e52e50e562",
     "7541175c4b95",
     "d682fa73e3b6",
-    "64087355ec6a"
+    "64087355ec6a",
+    "3a966f58c831"
   ],
   "tecnologie-abilitanti-it": [
     "1b8770de9749",
@@ -790,7 +794,9 @@
     "1d2cf03bdcc4",
     "17dfb6304068",
     "c39465a88cce",
-    "7de454eae397"
+    "7de454eae397",
+    "ecddaf3e5bff",
+    "f288bd8b467e"
   ],
   "ai-system-design": [
     "aeed5283fa22",
@@ -901,6 +907,7 @@
     "38da928fb2b9",
     "d16153c20c4d",
     "dad44939bb24",
-    "94cec3e278b9"
+    "94cec3e278b9",
+    "228200827ba9"
   ]
 }

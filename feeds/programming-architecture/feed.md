@@ -1,6 +1,17 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-14
+
+### [Fragments: July 13](https://martinfowler.com/fragments/2026-07-13.html)
+*2026-07-13*
+
+Some more of my notes from Thoughtworks Future of Software Development Retreat.
+
+When we had our first retreat in Utah early this year, nobody had heard of <a href="https://martinfowler.com/articles/harness-en...
+
+---
+
 ## Aggiornamento 2026-07-10
 
 ### [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from)

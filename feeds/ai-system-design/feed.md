@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-14
+
+### [Empowering India’s next generation of innovators with ATL Saathi](https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/)
+*Mon, 13 Ju*
+
+Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.
+
+---
+
 ## Aggiornamento 2026-07-09
 
 ### [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
