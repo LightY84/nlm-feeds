@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-07-14
 
+### [Is a Pod the right deployment unit for an AI agent?](https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent/)
+*Tue, 14 Ju*
+
+When we first started building kagent, we didn&#8217;t run every agent in its own Kubernetes Pod, Service, and ServiceAccount. Instead, agents were simply executed inside the kagent runtime. It was the simplest architecture possible: one runtime...
+
+---
+
+## Aggiornamento 2026-07-14
+
 ### [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/)
 *Mon, 13 Ju*
 

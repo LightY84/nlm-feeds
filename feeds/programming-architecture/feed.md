@@ -3,6 +3,18 @@
 
 ## Aggiornamento 2026-07-14
 
+### [DSLs Enable Reliable Use of LLMs](https://martinfowler.com/articles/llm-and-dsls.html)
+*2026-07-14*
+
+LLMs generate code incredibly fast, but to ensure they generate
+      exactly what is intended, they need clear boundaries. Abstractions and
+      Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs
+      right from the start. Unmesh Joshi describe...
+
+---
+
+## Aggiornamento 2026-07-14
+
 ### [Fragments: July 13](https://martinfowler.com/fragments/2026-07-13.html)
 *2026-07-13*
 
