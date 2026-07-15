@@ -1,6 +1,25 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-15
+
+### [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/)
+*Tue, 14 Ju*
+
+Kubernetes ships with built-in awareness of CPU and memory, but most
+real-world scaling decisions depend on signals that live entirely outside
+that narrow window: how many messages are waiting in a queue, how long
+the last batch job took, how many active WebSocket connections a pod is
+holding....
+
+---
+### [KeycloakCon Japan 2026: Navigating cloud native identity and the AI frontier](https://www.cncf.io/blog/2026/07/14/keycloakcon-japan-2026-navigating-cloud-native-identity-and-the-ai-frontier/)
+*Tue, 14 Ju*
+
+The countdown is officially on. In just a few weeks, the cloud-native ecosystem meets in Yokohama for KubeCon + CloudNativeCon Japan 2026. Taking place on Tuesday, July 28 from 09:00 – 12:30, KeycloakCon Japan brings together...
+
+---
+
 ## Aggiornamento 2026-07-14
 
 ### [Is a Pod the right deployment unit for an AI agent?](https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent/)
