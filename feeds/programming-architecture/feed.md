@@ -1,6 +1,16 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-16
+
+### [The Archaeologist’s Copilot](https://martinfowler.com/articles/archaeologist-copilot.html)
+*2026-07-16*
+
+When people think of legacy modernization, most folks aren't imagining
+      the target environme...
+
+---
+
 ## Aggiornamento 2026-07-14
 
 ### [DSLs Enable Reliable Use of LLMs](https://martinfowler.com/articles/llm-and-dsls.html)

@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-07-16
 
+### [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/)
+*Thu, 16 Ju*
+
+Discover why Docker is co-hosting WeAreDevelopers World Congress North America and how AI agents are transforming software development and developer communities.
+
+---
+### [Forrester Consulting: GitLab Duo Agent Platform delivers 400% ROI](https://about.gitlab.com/blog/gitlab-duo-agent-platform-delivers-400-percent-roi/)
+*2026-07-16*
+
+A new Forrester Consulting Total Economic Impact™ study found that organizations using GitLab Duo Agent Platform achieve a 400% return on investment and $7.5 million in net present value over three years — wi...
+
+---
+
+## Aggiornamento 2026-07-16
+
 ### [Running a self-hosted LLM in Kubernetes with vLLM](https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm/)
 *Thu, 16 Ju*
 
