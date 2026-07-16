@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-16
+
+### [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog)
+*Wed, 15 Ju*
+
+
+
+---
+### [Our approach to bioresilience](https://deepmind.google/blog/our-approach-to-bioresilience/)
+*Thu, 16 Ju*
+
+Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.
+
+---
+
 ## Aggiornamento 2026-07-15
 
 ### [Introducing Real World VoiceEQ: Measuring the human quality of voice AI](https://huggingface.co/blog/real-world-voiceeq)

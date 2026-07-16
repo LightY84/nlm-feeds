@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-16
+
+### [Running a self-hosted LLM in Kubernetes with vLLM](https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm/)
+*Thu, 16 Ju*
+
+Running large language model (LLM) workloads in-house is one of several patterns teams adopt alongside managed API services. Managed API services are convenient and well suited to many workloads. Self-hosting is a complementary option that some...
+
+---
+### [HAMi becomes a CNCF incubating project](https://www.cncf.io/blog/2026/07/15/hami-becomes-a-cncf-incubating-project/)
+*Wed, 15 Ju*
+
+The CNCF Technical Oversight Committee (TOC) has voted to accept HAMi as a CNCF incubating project.&#160; About HAMi Modern AI infrastructure teams run into the same problem over and over: expensive GPUs often sit fragmented and...
+
+---
+
 ## Aggiornamento 2026-07-15
 
 ### [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/)
