@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-07-17
 
+### [Flipkart and LitmusChaos at KubeCon + CloudNativeCon India 2026: A recap](https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap/)
+*Fri, 17 Ju*
+
+KubeCon + CloudNativeCon India 2026 brought the cloud native community to Mumbai on June 18-19. For LitmusChaos, this was not just another conference. It was one of our most significant events to date. We walked away...
+
+---
+### [CNCF Strengthens Partnership with Broadcom as a Platinum Member to Advance AI-Ready Cloud Native Infrastructure](https://www.cncf.io/announcements/2026/07/16/cncf-strengthens-partnership-with-broadcom-as-a-platinum-member-to-to-advance-ai-ready-cloud-native-infrastructure/)
+*Thu, 16 Ju*
+
+Collaboration with CNCF reflects Broadcom’s continued investment in open source innovation, cloud native resilience and the technologies powering the next generation of AI workloads Key Highlights SAN FRANCISCO, California&#160; — July 16, 2026 — The Cloud...
+
+---
+
+## Aggiornamento 2026-07-17
+
 ### [Turn multi-step software delivery into agentic flows you can trust](https://about.gitlab.com/blog/multi-step-software-delivery-with-agentic-flows/)
 *2026-07-16*
 

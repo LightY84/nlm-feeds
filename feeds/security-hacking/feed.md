@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-07-17
 
+### [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
+*Fri, 17 Ju*
+
+A security researcher using the "Nightmare Eclipse" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]
+
+---
+### [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
+*Thu, 16 Ju*
+
+The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]
+
+---
+### [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
+*Thu, 16 Ju*
+
+A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]
+
+---
+
+## Aggiornamento 2026-07-17
+
 ### [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
 *Fri, 17 Ju*
 
