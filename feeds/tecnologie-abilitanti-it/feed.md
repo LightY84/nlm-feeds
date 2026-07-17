@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-17
+
+### [Turn multi-step software delivery into agentic flows you can trust](https://about.gitlab.com/blog/multi-step-software-delivery-with-agentic-flows/)
+*2026-07-16*
+
+Knowing what to do next in software development is rarely the hard part. Doing it again in the exact same steps — implement an issue, fix a pipeline, review a merge request — is. Chat that only provides answers still leaves every handoff to you. Homegrown scripts don’t inherit changes in acces...
+
+---
+### [Bring GitLab Duo Agent Platform to your terminal](https://about.gitlab.com/blog/gitlab-duo-cli-generally-available/)
+*2026-07-16*
+
+Most of the work for software delivery doesn’t happen only in the editor. Pipelines fail. Tests break. Vulnerabilities show up. And a lot of that work starts and ends at the command line.Agentic AI in the terminal that only understands code can’t help with any of that. A standalone assi...
+
+---
+### [When a version bump breaks your build, GitLab fixes it](https://about.gitlab.com/blog/dependency-scanning-auto-remediation/)
+*2026-07-16*
+
+AI is writing more code and pulling in more dependencies, increasing application risk. Most of that exposure isn't from code your team actively chose. A 2025 study of the Maven ecosystem found vulnerabilities reaching roughly 63% of latest ...
+
+---
+
 ## Aggiornamento 2026-07-16
 
 ### [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/)

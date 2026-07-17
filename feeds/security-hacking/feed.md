@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-17
+
+### [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
+*Fri, 17 Ju*
+
+Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]
+
+---
+### [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
+*Fri, 17 Ju*
+
+CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]
+
+---
+### [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
+*Thu, 16 Ju*
+
+A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]
+
+---
+
 ## Aggiornamento 2026-07-16
 
 ### [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)

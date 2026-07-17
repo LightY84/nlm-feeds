@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-17
+
+### [NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval](https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb)
+*Thu, 16 Ju*
+
+
+
+---
+
 ## Aggiornamento 2026-07-16
 
 ### [What building Shippy taught us about building agents](https://huggingface.co/blog/allenai/shippy-tech-blog)
