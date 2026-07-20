@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-20
+
+### [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/)
+*Mon, 20 Ju*
+
+Learn how an AI coding agent caused a 13-hour outage and how Docker Sandboxes help reduce risk with scoped identities and isolated execution.
+
+---
+### [GitLab Transcend Hackathon: What developers built on GitLab Orbit](https://about.gitlab.com/blog/gitlab-transcend-hackathon-orbit/)
+*2026-07-20*
+
+We gave a few thousand developers GitLab Orbit. Then we got out of the way. The community responded with creative solutions to real production problems slowing down their teams. The same problems you hit every week: What does this change break, which tests actually matter, and what wil...
+
+---
+### [ArgoCon Japan 2026: Meeting the Maintainers, enterprise insights, and the road to Argo CD 3.5](https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5/)
+*Mon, 20 Ju*
+
+A special half-day ArgoCon Japan (1:30pm &#8211; 6:30pm) will be held July 28, 2026 in Yokohama, Japan as a colocated event with KubeCon + CloudNativeCon. This is a chance to hear from and meet both end...
+
+---
+
 ## Aggiornamento 2026-07-17
 
 ### [Flipkart and LitmusChaos at KubeCon + CloudNativeCon India 2026: A recap](https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap/)

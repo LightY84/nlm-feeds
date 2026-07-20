@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-07-20
 
+### [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
+*Mon, 20 Ju*
+
+Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production ...
+
+---
+### [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+*Mon, 20 Ju*
+
+A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.
+
+The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bug...
+
+---
+### [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+*Mon, 20 Ju*
+
+At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.
+
+That is the finding of a cybersecurity...
+
+---
+
+## Aggiornamento 2026-07-20
+
 ### [Hugging Face discloses breach linked to autonomous AI agent](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
 *Mon, 20 Ju*
 
