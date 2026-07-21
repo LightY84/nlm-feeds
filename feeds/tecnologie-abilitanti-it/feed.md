@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-21
+
+### [Automate work item assignment with a "Work item created" trigger](https://about.gitlab.com/blog/how-to-use-a-work-item-created-trigger/)
+*2026-07-20*
+
+A new, event-driven trigger in GitLab Duo Agent Platform lets flows fire the moment a work item is created, turning triage and assignment from a manual, all-day chore into automation that runs in seconds. This comprehensi...
+
+---
+### [Platform engineering for the agentic enterprise: Managing applications, resources, and AI agents](https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents/)
+*Tue, 21 Ju*
+
+Platform engineering is evolving Platform engineering has become one of the defining disciplines of the cloud native era. As organizations embraced Kubernetes, microservices, GitOps, and distributed architectures, the complexity of building and operating software grew beyond...
+
+---
+### [Why your agent needs access to your documentation](https://www.cncf.io/blog/2026/07/21/why-your-agent-needs-access-to-your-documentation/)
+*Tue, 21 Ju*
+
+What 1,192 agent conversations taught us about knowledge base search A few months ago we shipped an agent inside our own product. It lives in our web app and lets users ask questions about their deployment,...
+
+---
+
 ## Aggiornamento 2026-07-20
 
 ### [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/)
