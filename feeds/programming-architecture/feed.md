@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-21
+
+### [Fragments: July 21](https://martinfowler.com/fragments/2026-07-21.html)
+*2026-07-21*
+
+With this post, I’ll wrap up my notes from  the second Future of Software Development Retreat. But before I do, I should note that the <a href="https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/t...
+
+---
+
 ## Aggiornamento 2026-07-16
 
 ### [The Archaeologist’s Copilot](https://martinfowler.com/articles/archaeologist-copilot.html)
