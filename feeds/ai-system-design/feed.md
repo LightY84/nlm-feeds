@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-07-22
 
+### [Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission](https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/)
+*Wed, 22 Ju*
+
+Google commits $40M in AI tokens and credits for the Genesis Mission
+
+---
+
+## Aggiornamento 2026-07-22
+
 ### [The State of Simulation for Physical AI: An Overview](https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai)
 *Tue, 21 Ju*
 

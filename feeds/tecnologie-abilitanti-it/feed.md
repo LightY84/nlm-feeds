@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-07-22
 
+### [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-security-ciso-panel/)
+*Wed, 22 Ju*
+
+Docker brought together enterprise security leaders to tackle agentic AI's biggest challenge: how to govern AI agents without slowing developers down. Here's what they said.
+
+---
+### [Multi-Cluster databases on Kubernetes: Architecture and deployment](https://www.cncf.io/blog/2026/07/22/multi-cluster-databases-on-kubernetes-architecture-and-deployment/)
+*Wed, 22 Ju*
+
+Introduction Running a database on Kubernetes is well understood. Running one that survives a complete regional failure, a corrupted control plane, or a severed network requires a fault-resistant architecture. This post walks through how to build...
+
+---
+
+## Aggiornamento 2026-07-22
+
 ### [I made a policy engine think it was in production](https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production/)
 *Wed, 22 Ju*
 

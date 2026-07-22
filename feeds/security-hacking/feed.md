@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-07-22
 
+### [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
+*Wed, 22 Ju*
+
+Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]
+
+---
+### [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
+*Wed, 22 Ju*
+
+The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]
+
+---
+### [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
+*Wed, 22 Ju*
+
+The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]
+
+---
+
+## Aggiornamento 2026-07-22
+
 ### [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
 *Wed, 22 Ju*
 
