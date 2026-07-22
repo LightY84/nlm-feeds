@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-22
+
+### [I made a policy engine think it was in production](https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production/)
+*Wed, 22 Ju*
+
+Kyverno is a Kubernetes-native policy engine that validates, mutates, and generates resources before workloads reach your cluster, enforcing security and compliance rules as code, without requiring a separate policy language. Enterprise teams running Kyverno policies in...
+
+---
+
 ## Aggiornamento 2026-07-21
 
 ### [Automate work item assignment with a "Work item created" trigger](https://about.gitlab.com/blog/how-to-use-a-work-item-created-trigger/)
