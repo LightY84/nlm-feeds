@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-23
+
+### [Modernize Java with Cursor and GitLab](https://about.gitlab.com/blog/modernize-java-with-cursor-and-gitlab/)
+*2026-07-22*
+
+&quot;Modernize Java 8 to Java 21&quot; sounds like one task. It is not. It touches the build, the runtime, dependencies, APIs, concurrency, tests, containers, and production behavior, often all at once. Ask an agent to do all of that in one prompt, and you get one enormous merge request that ...
+
+---
+### [The future of AI is community driven and open](https://www.cncf.io/blog/2026/07/23/the-future-of-ai-is-community-driven-and-open/)
+*Thu, 23 Ju*
+
+Kubernetes has become the de facto operating system for AI. In CNCF&#8217;s 2025 Annual Cloud Native Survey, 82% of container users now run Kubernetes in production, and 66% of organizations hosting generative AI use it to...
+
+---
+### [Confidential Containers becomes a CNCF incubating project](https://www.cncf.io/blog/2026/07/22/confidential-containers-becomes-a-cncf-incubating-project/)
+*Wed, 22 Ju*
+
+The CNCF Technical Oversight Committee (TOC) has voted to accept Confidential Containers as a CNCF incubating project. About Confidential Containers Confidential Containers addresses the need to protect data in use within cloud native environments. While data...
+
+---
+
 ## Aggiornamento 2026-07-22
 
 ### [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-security-ciso-panel/)
