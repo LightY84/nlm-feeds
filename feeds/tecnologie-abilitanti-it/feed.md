@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-07-23
 
+### [Sustaining OpenTelemetry: What a 10-week contributor cohort actually looks like](https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like/)
+*Thu, 23 Ju*
+
+A follow-up to our earlier post: &#8220;Sustaining OpenTelemetry: Moving from Dependency Management to Stewardship&#8221; *** In April 2026, the Cloud Native Computing Foundation (CNCF), the OpenTelemetry (OTel) project, and Bloomberg&#8217;s Open Source Program Office came together...
+
+---
+### [When Kubeflow meets Cilium: Debugging 60% idle GPUs in Kubernetes](https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes/)
+*Thu, 23 Ju*
+
+The symptom that made no sense The first time we saw it, we didn&#8217;t trust the dashboard. A distributed training job was scheduled and healthy — every pod was running, no crashes, no OOMKills, nothing in...
+
+---
+
+## Aggiornamento 2026-07-23
+
 ### [Modernize Java with Cursor and GitLab](https://about.gitlab.com/blog/modernize-java-with-cursor-and-gitlab/)
 *2026-07-22*
 
