@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-24
+
+### [My LFX mentorship journey with kgateway](https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway/)
+*Fri, 24 Ju*
+
+Open source has been a defining part of my career for many years. As an engineer working in the cloud native ecosystem, I have spent the last five years building and contributing to technologies around Kubernetes,...
+
+---
+### [OpenTelemetry has graduated… Now what?](https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what/)
+*Fri, 24 Ju*
+
+In case you missed it:&#160;OpenTelemetry (OTel) has officially achieved CNCF graduated status! It now stands proudly alongside amazing open source projects such as&#160;Kubernetes&#160;and&#160;Prometheus, to name just a few. It’s been a long journey, and we’re very...
+
+---
+### [Launch of the AI Infra SIG under the CNCF Japan chapter: First meetup and call for speakers](https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers/)
+*Fri, 24 Ju*
+
+Japanese article follows English one. As we all know, AI is advancing from generative AI to agents, driving growing demand for scalable, efficient infrastructure. Kubernetes and the broader Cloud Native ecosystem are becoming increasingly critical foundations...
+
+---
+
 ## Aggiornamento 2026-07-23
 
 ### [Sustaining OpenTelemetry: What a 10-week contributor cohort actually looks like](https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like/)
