@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-07-24
 
+### [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
+*Fri, 24 Ju*
+
+Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]
+
+---
+### [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
+*Fri, 24 Ju*
+
+Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before ma...
+
+---
+### [Man gets six years for hacking 750 women's Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
+*Fri, 24 Ju*
+
+An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]
+
+---
+
+## Aggiornamento 2026-07-24
+
 ### [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
 *Fri, 24 Ju*
 
