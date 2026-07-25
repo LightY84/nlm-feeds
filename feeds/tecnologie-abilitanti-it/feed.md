@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-25
+
+### [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork/)
+*Fri, 24 Ju*
+
+Docker brought together enterprise security leaders to tackle agentic AI's biggest challenge: how to govern AI agents without slowing developers down. Here's what they said.
+
+---
+
 ## Aggiornamento 2026-07-24
 
 ### [My LFX mentorship journey with kgateway](https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway/)
