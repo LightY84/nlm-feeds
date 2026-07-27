@@ -1,6 +1,33 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-27
+
+### [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/)
+*Tue, 21 Ju*
+
+We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.
+
+---
+### [Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction](http://bair.berkeley.edu/blog/2026/07/26/abbel/)
+*Sun, 26 Ju*
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+<!-...
+
+---
+
 ## Aggiornamento 2026-07-23
 
 ### [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers)

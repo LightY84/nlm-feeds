@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-27
+
+### [Federating clusters for zero-downtime Kubernetes](https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes/)
+*Mon, 27 Ju*
+
+Every multi-region setup eventually meets the same awkward moment: a whole cluster goes away, and the identical copy of your service running two regions over might as well not exist, because nothing is wired to treat...
+
+---
+
 ## Aggiornamento 2026-07-25
 
 ### [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-needs-guardrails-not-guesswork/)
