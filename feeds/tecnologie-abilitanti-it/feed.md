@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-07-28
 
+### [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/)
+*Tue, 28 Ju*
+
+Learn how AI coding agents can expose credentials in supply chain attacks and how Docker Sandboxes keep secrets out of an agent's reach.
+
+---
+
+## Aggiornamento 2026-07-28
+
 ### [Claude Opus 5 on GitLab: Reasoning built for the hard tasks](https://about.gitlab.com/blog/claude-opus-5-on-gitlab-duo-agent-platform/)
 *2026-07-27*
 
