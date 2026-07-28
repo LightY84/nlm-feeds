@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-28
+
+### [Claude Opus 5 on GitLab: Reasoning built for the hard tasks](https://about.gitlab.com/blog/claude-opus-5-on-gitlab-duo-agent-platform/)
+*2026-07-27*
+
+A mistake on a routine task can cost you a minute. A mistake on a large refactor or a debugging trail spanning months of commit history can cost far more, as it compounds silently over hundreds of exchanges. By the time you catch it, every step built on top of it needs unwinding, too. That's t...
+
+---
+
 ## Aggiornamento 2026-07-27
 
 ### [Federating clusters for zero-downtime Kubernetes](https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes/)
