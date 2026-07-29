@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-29
+
+### [Your Kubernetes health checks are accidentally waking your services. Here’s the fix.](https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix/)
+*Wed, 29 Ju*
+
+Scale-to-zero breaks when health checks scale you back up. Learn how KubeElasti&#8217;s ProbeResponse lets Kubernetes services stay genuinely idle — while keeping load balancers and uptime monitors happy. Scale-to-zero sounds perfect on paper. Idle service. No...
+
+---
+### [CNCF and SlashData Report Finds Japan’s Cloud Native Community Reaches Nearly 1 Million Developers](https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/)
+*Wed, 29 Ju*
+
+New research finds 100,000 of Japan’s AI developers now leverage cloud native technologies Key Highlights: YOKOHAMA – KubeCon + CloudNativeCon Japan —July 29, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...
+
+---
+### [Subaru Wins CNCF End User Case Study Contest for Accelerating AI Development with Cloud Native Infrastructure](https://www.cncf.io/announcements/2026/07/28/subaru-wins-cncf-end-user-case-study-contest-for-accelerating-ai-development-with-cloud-native-infrastructure/)
+*Wed, 29 Ju*
+
+New architecture reduced AI container image pull times by 60x while automating workflows for next-generation driver assistance systems Key Highlights YOKOHAMA – KUBECON + CLOUDNATIVECON JAPAN — July 29, 2026 — The Cloud Native Computing Foundation®...
+
+---
+
 ## Aggiornamento 2026-07-28
 
 ### [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/)
