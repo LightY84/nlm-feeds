@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-07-29
 
+### [Welcome CoHDI to the CNCF: Evolving Kubernetes into composable disaggregated infrastructures](https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures/)
+*Wed, 29 Ju*
+
+We are thrilled to announce that CoHDI has officially been accepted as a Cloud Native Computing Foundation (CNCF) Sandbox project! This acceptance into the CNCF Sandbox marks an important milestone in CoHDI’s journey. We would like...
+
+---
+### [How Japan’s 250% Training Surge is Shaping Global AI Talent](https://www.cncf.io/blog/2026/07/28/how-japans-250-training-surge-is-shaping-global-ai-talent/)
+*Tue, 28 Ju*
+
+The first KubeCon + CloudNativeCon Japan took place in Tokyo in June 2025 and kicked off a cloud native skills boom in the region. In the twelve months since the conference, Kubernetes exams taken in Japan...
+
+---
+### [Kubeflow unveils new cloud native innovations to supercharge AI](https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai/)
+*Tue, 28 Ju*
+
+The Kubeflow news coming out of Kubecon + CloudNativeCon Japan 2026 highlights several significant advancements and community initiatives.&#160; The Kubeflow project is rapidly advancing toward CNCF Graduation, emphasizing its evolution into a mature, production-ready ML ecosystem....
+
+---
+
+## Aggiornamento 2026-07-29
+
 ### [Your Kubernetes health checks are accidentally waking your services. Here’s the fix.](https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix/)
 *Wed, 29 Ju*
 
