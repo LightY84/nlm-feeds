@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-30
+
+### [From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/)
+*Wed, 29 Ju*
+
+Figure 1: CUDA-to-MLX optimization translation map. CUDA...
+
+---
+
 ## Aggiornamento 2026-07-29
 
 ### [The OlmoEarth Platform: Geospatial inference at planetary scale](https://huggingface.co/blog/allenai/olmoearth-infrastructure)

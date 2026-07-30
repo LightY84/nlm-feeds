@@ -1,6 +1,29 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-30
+
+### [How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/)
+*Wed, 29 Ju*
+
+Kubernetes has long been the default platform for distributed workloads, and writing your own
+controller for it is now a matter of a few hours. The common path — Golang, using kubebuilder on top of
+controller-runtime — gives you a project scaffold, types, and a reconc...
+
+---
+### [Why GitLab signed the Open Weights and American AI Leadership letter](https://about.gitlab.com/blog/open-weight-model-letter/)
+*2026-07-29*
+
+This week GitLab signed the Open Weights and American AI Leadership letter, joining a long list of other technology companies that support a strong, open AI ecosystem.The letter argues that...
+
+---
+### [CNCF Announces Schedule for Debut Observability Summit Europe](https://www.cncf.io/announcements/2026/07/28/cncf-announces-schedule-for-debut-observability-summit-europe/)
+*Tue, 28 Ju*
+
+Summit gathers practitioners, contributors and engineers to advance open observability standards and practices Key Highlights SAN FRANCISCO, July 28, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced the...
+
+---
+
 ## Aggiornamento 2026-07-29
 
 ### [Welcome CoHDI to the CNCF: Evolving Kubernetes into composable disaggregated infrastructures](https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures/)
