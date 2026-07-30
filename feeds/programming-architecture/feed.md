@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-30
+
+### [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
+*2026-07-30*
+
+Giles Edwards-Alexander does an experiment to see if d...
+
+---
+
 ## Aggiornamento 2026-07-21
 
 ### [Fragments: July 21](https://martinfowler.com/fragments/2026-07-21.html)
