@@ -1,6 +1,17 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-07-31
+
+### [The Conductor Developer](https://martinfowler.com/rachels-ramblings/conductor-developer.html)
+*2026-07-31*
+
+TL;DRWhy I think software development is starting to feel a little more like conducting an orchestra.
+
+There’s a shift happening in software development that I don’t think we’re talking a...
+
+---
+
 ## Aggiornamento 2026-07-30
 
 ### [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)

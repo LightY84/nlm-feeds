@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-07-31
 
+### [How to govern agentic AI, MCPs, and AI code assistants](https://about.gitlab.com/blog/govern-agentic-ai-mcps-code-assistants/)
+*2026-07-31*
+
+AI code completion built human review into the process by design. A developer types, a suggestion appears, and a human decides whether to accept it. A person looked at every line before it shipped.Agentic AI breaks that review loop. An agent can open a merge request, call a tool, modify...
+
+---
+
+## Aggiornamento 2026-07-31
+
 ### [The Future of Agentic AI Depends on Openness and Trust. That’s Why Docker Is Joining Nvidia’s Open Secure AI Alliance.](https://www.docker.com/blog/docker-joins-nvidia-open-secure-ai-alliance/)
 *Thu, 30 Ju*
 
