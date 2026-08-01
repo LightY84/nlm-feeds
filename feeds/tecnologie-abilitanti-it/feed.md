@@ -1,6 +1,24 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-01
+
+### [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/)
+*Fri, 31 Ju*
+
+As we get closer to the release date for Kubernetes v1.37, the project develops and matures,
+features may be deprecated, removed, or replaced with better ones for the project's overall
+health. This blog outlines some of the planned changes for the Kubernetes v1.37 release that the
+release team...
+
+---
+### [Docker OIDC connections for GitHub Actions available for Docker Orgs](https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/)
+*Fri, 31 Ju*
+
+Eliminate Stored Credentials in Your CI/CD Pipelines TL;DR: Docker now supports OpenID Connect (OIDC) for GitHub Actions. Your workflows can authenticate with short-lived, per-run tokens instead of stored PATs or OATs. No secrets to rotate, no credentials to leak.  GitHub OIDC connections are ava...
+
+---
+
 ## Aggiornamento 2026-07-31
 
 ### [How to govern agentic AI, MCPs, and AI code assistants](https://about.gitlab.com/blog/govern-agentic-ai-mcps-code-assistants/)
