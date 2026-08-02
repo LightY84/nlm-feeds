@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-08-02
 
+### [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+*Sat, 01 Au*
+
+Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.
+
+Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to author...
+
+---
+### [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
+*Sat, 01 Au*
+
+Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.
+
+The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CV...
+
+---
+### [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
+*Sat, 01 Au*
+
+A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report.
+
+Researchers track the operation as CaptiveCrunch and attribute it to Stor...
+
+---
+
+## Aggiornamento 2026-08-02
+
 ### [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
 *Sat, 01 Au*
 
