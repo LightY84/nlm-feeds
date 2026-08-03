@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-08-03
 
+### [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
+*Mon, 03 Au*
+
+A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]
+
+---
+### [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
+*Mon, 03 Au*
+
+Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]
+
+---
+### [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+*Mon, 03 Au*
+
+This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended.
+
+Some of it was clever. Most of it was just access left lying ar...
+
+---
+
+## Aggiornamento 2026-08-03
+
 ### [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 *Sun, 02 Au*
 

@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-03
+
+### [Empty sandboxes break developer experience](https://www.docker.com/blog/empty-sandboxes-break-developer-experience/)
+*Mon, 03 Au*
+
+Learn how Docker Sandbox kits turn empty sandboxes into productive development environments with repeatable tooling, credentials, and configuration.
+
+---
+### [Docker AI Governance: Audit Logs, Now Where Your Security Team Already Works](https://www.docker.com/blog/docker-ai-governance-audit-logs-now-where-your-security-team-already-works/)
+*Mon, 03 Au*
+
+Now in Docker AI Governance: a single searchable record of every policy decision your agents trigger, streamed to the SIEM your security team already runs, so you can show what your agents did and what your policy stopped. Today, Docker AI Governance now streams every policy decision in your orga...
+
+---
+### [Secure every commit to production with Claude and GitLab](https://about.gitlab.com/blog/claude-security-and-gitlab/)
+*2026-08-03*
+
+Agentic coding is moving faster than many enterprise governance programs can keep up with. Coding assistants, like the Claude security guidance plugin and Cla...
+
+---
+
 ## Aggiornamento 2026-08-01
 
 ### [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/)
