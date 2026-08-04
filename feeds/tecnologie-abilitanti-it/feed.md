@@ -1,6 +1,22 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-04
+
+### [Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard](https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/)
+*Mon, 03 Au*
+
+The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year!
+Gat...
+
+---
+### [You can’t debug what you can’t see — Observability for AI Agents](https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/)
+*Tue, 04 Au*
+
+Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents in production for months. The hardest part isn’t building them, it’s understanding...
+
+---
+
 ## Aggiornamento 2026-08-03
 
 ### [Empty sandboxes break developer experience](https://www.docker.com/blog/empty-sandboxes-break-developer-experience/)
