@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-04
+
+### [Fragments: August  4](https://martinfowler.com/fragments/2026-08-04.html)
+*2026-08-04*
+
+There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models we...
+
+---
+
 ## Aggiornamento 2026-07-31
 
 ### [The Conductor Developer](https://martinfowler.com/rachels-ramblings/conductor-developer.html)
