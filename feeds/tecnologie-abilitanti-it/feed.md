@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-06
+
+### [LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress](https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress/)
+*Thu, 06 Au*
+
+About LitmusChaos LitmusChaos is an open source chaos engineering platform that helps teams identify weaknesses and potential outages in their infrastructure by running controlled chaos experiments. Built on cloud native principles, LitmusChaos enables teams to validate...
+
+---
+### [K8gb becomes a CNCF incubating project](https://www.cncf.io/announcements/2026/08/05/k8gb-becomes-a-cncf-incubating-project/)
+*Wed, 05 Au*
+
+The CNCF Technical Oversight Committee (TOC) has voted to accept Kubernetes Global Balancer (K8gb) as a CNCF incubating project.&#160; About K8gb K8gb is an open source, cloud native Global Server Load Balancing (GSLB) solution designed specifically...
+
+---
+
 ## Aggiornamento 2026-08-05
 
 ### [OpenCost 1.121.0: First-of-a-kind Kubernetes inference cost tracking](https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-inference-cost-tracking/)
