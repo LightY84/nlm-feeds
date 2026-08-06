@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-06
+
+### [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten)
+*Thu, 06 Au*
+
+
+
+---
+
 ## Aggiornamento 2026-08-04
 
 ### [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b)
