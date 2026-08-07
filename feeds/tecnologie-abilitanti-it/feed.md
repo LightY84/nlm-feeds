@@ -1,6 +1,28 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-07
+
+### [How we took malware advisories beyond npm](https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/)
+*Thu, 06 Au*
+
+GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid.
+The post How...
+
+---
+### [GitLab Secrets Manager adds ESO, Terraform, API support](https://about.gitlab.com/blog/gitlab-secrets-manager-add-eso-terraform-api-support/)
+*2026-08-06*
+
+Today, you might maintain separate secret stores for CI/CD, Kubernetes, and Terraform. However, that leaves multiple tools to manage, access models to keep in sync, and audit trails to correlate when something goes wrong.GitLab Secrets Manager now supports External Secrets Operator (ESO...
+
+---
+### [Confidential AI for GitLab Self-Hosted](https://about.gitlab.com/blog/confidential-ai-for-gitlab-self-hosted/)
+*2026-08-06*
+
+Your developers want AI coding agents. Your source code is regulated IP that can't be sent to a third-party AI service, and your compliance team has said so in writing. The usual escape hatch, standing up your own GPU cluster and running the models yourself, means buying scarce hardware, hirin...
+
+---
+
 ## Aggiornamento 2026-08-06
 
 ### [LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress](https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress/)

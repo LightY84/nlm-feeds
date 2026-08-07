@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-07
+
+### [WeatherNext: AI model achieves breakthrough in forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
+*Thu, 06 Au*
+
+
+
+---
+
 ## Aggiornamento 2026-08-06
 
 ### [Baseten on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/baseten)
