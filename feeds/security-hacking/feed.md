@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-08-07
 
+### [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
+*Fri, 07 Au*
+
+The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]
+
+---
+### [New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes](https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/)
+*Thu, 06 Au*
+
+Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]
+
+---
+### [Meta AI model hacked a company during misconfigured cyber test](https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/)
+*Thu, 06 Au*
+
+Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]
+
+---
+
+## Aggiornamento 2026-08-07
+
 ### [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
 *Thu, 06 Au*
 

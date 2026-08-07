@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-08-07
 
+### [Does Kubernetes DRA Replace HAMi?](https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/)
+*Fri, 07 Au*
+
+Projects that want to share a GPU on Kubernetes have to work around an API instead of with it. The device plugin interface could count devices, and that was the whole vocabulary:&#160;nvidia.com/gpu: 1. It meant one...
+
+---
+### [Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes](https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/)
+*Fri, 07 Au*
+
+Artificial intelligence is becoming part of daily software delivery, often before it becomes part of the security architecture. That gap has a name: Shadow AI. It is any AI tool, model, agent, extension, or integration used...
+
+---
+
+## Aggiornamento 2026-08-07
+
 ### [How we took malware advisories beyond npm](https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/)
 *Thu, 06 Au*
 
