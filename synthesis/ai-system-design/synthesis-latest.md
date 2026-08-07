@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #118
-**Data:** 2026-08-07 | **Ciclo:** 118 | **Articoli analizzati:** 130
+# AI & System Design — Sintesi Socratica #119
+**Data:** 2026-08-07 | **Ciclo:** 119 | **Articoli analizzati:** 131
 
 ## Stato attuale della conoscenza
 
@@ -18,6 +18,7 @@
 
 ## Articoli recenti dai feed
 
+- **WeatherNext: AI model achieves breakthrough in forecasting cyclones** (N/A)
 - **Baseten on Hugging Face Inference Providers 🔥** (N/A)
 - **Deploy local agents everywhere with LFM2.5-2.6B** (N/A)
 - **GPU Management: Why Idle GPUs Are the New Grounded Aircraft** (N/A)
@@ -25,7 +26,6 @@
 - **Gemini Robotics 2 brings whole body intelligence to robots** (N/A)
 - **From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon** (N/A)
 - **The OlmoEarth Platform: Geospatial inference at planetary scale** (N/A)
-- **LFM2.5-Encoders for Fast Long-Context Inference on CPU** (N/A)
 
 ## Connessioni con Pokefinance
 

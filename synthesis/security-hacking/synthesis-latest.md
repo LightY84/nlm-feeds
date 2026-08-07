@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #118
-**Data:** 2026-08-07 | **Ciclo:** 118 | **Articoli analizzati:** 699
+# Security & Hacking — Sintesi Socratica #119
+**Data:** 2026-08-07 | **Ciclo:** 119 | **Articoli analizzati:** 705
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **North Carolina Ports confirms cyberattack disrupting operations** (N/A)
+- **New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes** (N/A)
+- **Meta AI model hacked a company during misconfigured cyber test** (N/A)
+- **ClickFix attack pushes macOS infostealer for crypto theft attacks** (N/A)
+- **Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group** (N/A)
+- **Swiss government SharePoint breach compromised 200 accounts** (N/A)
 - **How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore** (N/A)
 - **COLDCARD security audit phishing attack installs remote access tool** (N/A)
-- **CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws** (N/A)
-- **Ransom Cartel ransomware creator sentenced to 16 years in prison** (N/A)
-- **Canadian pleads guilty to Snowflake cloud data-theft attacks** (N/A)
-- **Hackers run khunt post-exploitation toolkit from Oracle database** (N/A)
-- **How AI-powered phishing killed blocklists for good** (N/A)
-- **New XCSSET variant targets macOS devs via compromised Xcode projects** (N/A)
 
 ## Connessioni con Pokefinance
 
