@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-08-09
 
+### [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
+*Sat, 08 Au*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026...
+
+---
+### [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
+*Sat, 08 Au*
+
+A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.
+
+"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, bu...
+
+---
+### [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
+*Fri, 07 Au*
+
+ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.
+
+The macOS-focused infection chain is designed to deliver a shell script that profiles the host a...
+
+---
+
+## Aggiornamento 2026-08-09
+
 ### [Hackers breach TrueConf to trojanize client installers with backdoors](https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/)
 *Sat, 08 Au*
 
