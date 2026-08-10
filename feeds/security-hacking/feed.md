@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-08-10
 
+### [Valve notifies Steam hardware customers of a data breach](https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/)
+*Mon, 10 Au*
+
+Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]
+
+---
+### [New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA](https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html)
+*Mon, 10 Au*
+
+Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.
+
+Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, a...
+
+---
+### [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
+*Mon, 10 Au*
+
+AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.
+
+When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It...
+
+---
+
+## Aggiornamento 2026-08-10
+
 ### [Critical Progress LoadMaster flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/)
 *Mon, 10 Au*
 
