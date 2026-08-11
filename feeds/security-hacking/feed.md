@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-08-11
 
+### [Vague Task, Total Access: When AI Delegation Becomes a Security Risk](https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/)
+*Tue, 11 Au*
+
+AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each agent was actually created to do. [...]
+
+---
+### [DDoS attacks over 1 Tbps surged fivefold in the second quarter](https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/)
+*Tue, 11 Au*
+
+Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]
+
+---
+### [CISA: Microsoft SharePoint flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/)
+*Tue, 11 Au*
+
+CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]
+
+---
+
+## Aggiornamento 2026-08-11
+
 ### [US and South Korea warn of Gunra ransomware targeting govt agencies](https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/)
 *Tue, 11 Au*
 
