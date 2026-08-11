@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-11
+
+### [Learning Cloud-Native Engineering Beyond Tutorials Through LFX](https://www.cncf.io/blog/2026/08/10/learning-cloud-native-engineering-beyond-tutorials-through-lfx/)
+*Mon, 10 Au*
+
+I joined the LFX mentorship expecting to spend three months writing documentation. A few weeks later, I was deploying OpenTelemetry Collectors across AWS EC2 instances, debugging networking problems between machines, and trying to understand why a...
+
+---
+### [CNCF Reveals KubeCon + CloudNativeCon North America 2026 Schedule, Adds New AI Inference + Agentic Track](https://www.cncf.io/announcements/2026/08/10/cncf-reveals-kubecon-cloudnativecon-north-america-2026-schedule-adds-new-ai-inference-agentic-track/)
+*Mon, 10 Au*
+
+Flagship event returns November 9–12 with sessions on production AI, platform engineering and cloud native security Key Highlights SAN FRANCISCO, Aug. 7, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...
+
+---
+
 ## Aggiornamento 2026-08-07
 
 ### [Does Kubernetes DRA Replace HAMi?](https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/)
