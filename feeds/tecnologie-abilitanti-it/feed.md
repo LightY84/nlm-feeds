@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-08-12
 
+### [How GitLab tracks vulnerabilities through refactors and reformatting](https://about.gitlab.com/blog/improved-scope-offset-fingerprinting/)
+*2026-08-12*
+
+Every day, security scans face the same problem: an agent or a developer adds a comment, reformats a file, or moves a function, and a naive vulnerability tracker suddenly reports the same finding twice. Security teams end up re-triaging issues they already dismissed, which causes futile auditi...
+
+---
+### [Advancing AI model interoperability with Docker and ModelPack](https://www.cncf.io/blog/2026/08/12/advancing-ai-model-interoperability-with-docker-and-modelpack/)
+*Wed, 12 Au*
+
+The rise in the number of tools available for creating and running AI content has lowered the barrier of entry and offered the flexibility of choice when choosing the appropriate solution for a given use case....
+
+---
+
+## Aggiornamento 2026-08-12
+
 ### [How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To](https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/)
 *Tue, 11 Au*
 
