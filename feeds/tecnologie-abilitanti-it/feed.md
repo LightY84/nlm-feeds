@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-08-13
 
+### [Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack](https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/)
+*Thu, 13 Au*
+
+Dragonfly speeds up file and container image distribution using peer-to-peer (P2P) technology, but a standard installation deploys several components and dependencies. Beyond the Scheduler, Seed Client, and Client that move data, a traditional setup requires a...
+
+---
+### [LLMOps and platform engineering: Who should own the AI pipeline?](https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline/)
+*Thu, 13 Au*
+
+A few years ago, getting a model into production meant a data scientist, a DevOps engineer, and a narrow set of tools: train it, test it, ship it, watch the dashboards. Large language models broke that...
+
+---
+
+## Aggiornamento 2026-08-13
+
 ### [Docker VMM Public Beta: A Complete Overhaul, Built for Performance](https://www.docker.com/blog/docker-vmm-public-beta/)
 *Wed, 12 Au*
 
