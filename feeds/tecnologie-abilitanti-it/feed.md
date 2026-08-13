@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-13
+
+### [Docker VMM Public Beta: A Complete Overhaul, Built for Performance](https://www.docker.com/blog/docker-vmm-public-beta/)
+*Wed, 12 Au*
+
+Docker VMM is now available in public beta for Mac and Windows. Learn what this means for performance, stability, and governance and how to try it yourself.
+
+---
+### [A sandbox is only as closed as what an AI agent can reach](https://about.gitlab.com/blog/ai-agent-sandbox/)
+*2026-08-12*
+
+In July, OpenAI and Hugging Face responsibly disclosed an OpenAI model under internal evaluation escaped its sandbox, reached the open internet, and accessed Hugging Face’s internal production infrastructure. The agent took datasets, cluster details, and cloud keys during the intrusion....
+
+---
+
 ## Aggiornamento 2026-08-12
 
 ### [How GitLab tracks vulnerabilities through refactors and reformatting](https://about.gitlab.com/blog/improved-scope-offset-fingerprinting/)
