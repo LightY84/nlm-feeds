@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-14
+
+### [How I built a demo generator with GitLab Duo Agent Platform](https://about.gitlab.com/blog/agentic-click-through-demo/)
+*2026-08-13*
+
+A demo used to take me days to build — screenshots, narration, stitching it together in an external tool, chasing feedback — and every time the feature changed I'd have to start over. A few months ago, I handed most of that to an agent in GitLab Duo Agent Platform.<a href="https://about...
+
+---
+
 ## Aggiornamento 2026-08-13
 
 ### [Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack](https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/)
