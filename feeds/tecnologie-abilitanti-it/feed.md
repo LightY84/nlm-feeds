@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-08-14
 
+### [Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
+*Fri, 14 Au*
+
+Build ESP32 firmware with reproducible Docker environments and use Docker Sandboxes for isolated AI-assisted development and hardware testing.
+
+---
+### [Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos](https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/)
+*Fri, 14 Au*
+
+Once upon a time, upgrading a Kubernetes control plane meant staying awake for it. SSH into every node. Run the upgrade by hand. Watch etcd health the whole time, hoping quorum holds through every reboot. This...
+
+---
+
+## Aggiornamento 2026-08-14
+
 ### [How I built a demo generator with GitLab Duo Agent Platform](https://about.gitlab.com/blog/agentic-click-through-demo/)
 *2026-08-13*
 
