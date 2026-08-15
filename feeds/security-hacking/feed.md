@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-08-15
 
+### [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
+*Thu, 13 Au*
+
+A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]
+
+---
+### [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
+*Thu, 13 Au*
+
+Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
+
+The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authenticati...
+
+---
+### [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
+*Wed, 12 Au*
+
+The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India.
+
+The acti...
+
+---
+
+## Aggiornamento 2026-08-15
+
 ### [Hackers arrested over €30M bank fraud exploiting service provider flaw](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/)
 *Fri, 14 Au*
 
