@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-08-16
 
+### [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+*Wed, 12 Au*
+
+Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.
+
+The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a mal...
+
+---
+### [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
+*Wed, 12 Au*
+
+Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them.
+
+Threat intelligence firm CloudSEK now says a dataset i...
+
+---
+### [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
+*Wed, 12 Au*
+
+SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.
+
+The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case...
+
+---
+
+## Aggiornamento 2026-08-16
+
 ### [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
 *Sat, 15 Au*
 
