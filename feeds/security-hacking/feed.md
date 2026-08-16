@@ -1,6 +1,34 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-16
+
+### [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
+*Sat, 15 Au*
+
+A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]
+
+---
+### [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
+*Wed, 12 Au*
+
+Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.
+
+According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half ...
+
+---
+### [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+*Wed, 12 Au*
+
+Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation.
+
+The most severe of the flaws are listed below -
+
+
+  CVE-2026-48...
+
+---
+
 ## Aggiornamento 2026-08-15
 
 ### [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
