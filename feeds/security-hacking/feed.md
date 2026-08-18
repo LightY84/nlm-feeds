@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-08-18
 
+### [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
+*Tue, 18 Au*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]
+
+---
+### [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
+*Tue, 18 Au*
+
+Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.
+
+The work, rel...
+
+---
+### [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
+*Tue, 18 Au*
+
+Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.
+
+"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services," Ontinue said in a ...
+
+---
+
+## Aggiornamento 2026-08-18
+
 ### [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
 *Mon, 17 Au*
 

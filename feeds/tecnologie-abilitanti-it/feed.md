@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-08-18
 
+### [Coding Agent Horror Stories: The Command You Already Approved](https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/)
+*Tue, 18 Au*
+
+Learn how AI coding agents can run attacker code through commands you already approved and how Docker Sandboxes limit what an attack can reach.
+
+---
+### [Cloud Native platform sovereignty through multi-plane architecture](https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture/)
+*Tue, 18 Au*
+
+When people talk about cloud sovereignty, the conversation often starts with regions: where a workload runs and where its data is stored. But choosing a region is only part of the story. The architecture of the...
+
+---
+
+## Aggiornamento 2026-08-18
+
 ### [Critical remote code execution in Serena, a popular MCP coding agent](https://about.gitlab.com/blog/critical-rce-in-serena/)
 *2026-08-17*
 
