@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-18
+
+### [Critical remote code execution in Serena, a popular MCP coding agent](https://about.gitlab.com/blog/critical-rce-in-serena/)
+*2026-08-17*
+
+Serena, one of the most widely used AI coding agents, ran attacker-supplied code the moment a developer opened a project. GitLab's Threat Research Group found a critical server-side template injection (GH...
+
+---
+### [Welcome Falkey the Falco and Ky the Kyverno Pyrenees](https://www.cncf.io/blog/2026/08/17/welcome-falkey-the-falco-and-ky-the-kyverno-pyrenees/)
+*Mon, 17 Au*
+
+If you have yet to meet Phippy, she’s a friendly PHP app exploring the cloud native world with her pals. Over the last decade, Phippy’s circle has grown to include eighteen friends, with the newest members...
+
+---
+### [CNCF Announces Kubeflow’s Graduation, Solidifying a Standard for Cloud Native AI Operations](https://www.cncf.io/announcements/2026/08/17/cncf-announces-kubeflows-graduation-solidifying-the-standard-for-cloud-native-ai-operations/)
+*Mon, 17 Au*
+
+Milestone marks widespread enterprise adoption for automating end-to-end AI and machine learning lifecycles on Kubernetes Key Highlights SAN FRANCISCO — August 17, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...
+
+---
+
 ## Aggiornamento 2026-08-17
 
 ### [Make zero CVEs your new default](https://www.docker.com/blog/make-zero-cves-your-new-default/)
