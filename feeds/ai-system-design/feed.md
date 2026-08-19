@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-19
+
+### [How Much Memory Does Your Agent Actually Need?](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
+*Tue, 18 Au*
+
+
+
+---
+### [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](https://huggingface.co/blog/multi-vector-encoder)
+*Tue, 18 Au*
+
+
+
+---
+
 ## Aggiornamento 2026-08-14
 
 ### [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)

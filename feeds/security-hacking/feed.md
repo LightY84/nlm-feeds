@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-19
+
+### [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
+*Wed, 19 Au*
+
+The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]
+
+---
+### [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
+*Tue, 18 Au*
+
+A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]
+
+---
+### [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
+*Tue, 18 Au*
+
+Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]
+
+---
+
 ## Aggiornamento 2026-08-18
 
 ### [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)

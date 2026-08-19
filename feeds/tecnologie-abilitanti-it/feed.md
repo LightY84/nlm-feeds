@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-19
+
+### [From OpenTofu to Argo CD: GitLab as your AWS control plane](https://about.gitlab.com/blog/gitlab-as-your-aws-control-plane/)
+*2026-08-18*
+
+Configuring cloud-based environments is complex, as it requires considering networking, subscriptions, services, and all the components that make up the underlying infrastructure. Manual setup is error-prone, inconsistent, and difficult to reproduce.This tutorial shows how to set up a f...
+
+---
+### [Avoid the massive end-to-end tax of default full history clones](https://about.gitlab.com/blog/git-clone-override-policy/)
+*2026-08-18*
+
+It's easy to think of git clone as a client-side operation, but the settings of this operation impact the server side and all networks in between. When you run a default full history clone, the server has to walk the entire history, build a pack file for it (that's what &quot;coun...
+
+---
+
 ## Aggiornamento 2026-08-18
 
 ### [Coding Agent Horror Stories: The Command You Already Approved](https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/)

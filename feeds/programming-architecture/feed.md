@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-19
+
+### [Fragments: August 18](https://martinfowler.com/fragments/2026-08-18.html)
+*2026-08-18*
+
+Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So...
+
+---
+
 ## Aggiornamento 2026-08-04
 
 ### [Fragments: August  4](https://martinfowler.com/fragments/2026-08-04.html)
