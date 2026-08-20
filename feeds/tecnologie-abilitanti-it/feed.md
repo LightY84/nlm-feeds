@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-20
+
+### [From chaos to context: Building an AI dev workflow](https://about.gitlab.com/blog/building-an-ai-dev-workflow/)
+*2026-08-19*
+
+There's a particular kind of frustration that happens when prompting an AI assistant with the same correction multiple times in a single session. The marvels of modern large language models (LLMs) make it so you're working with the most enthusiastic apprentice you'll ever have. However, that a...
+
+---
+
 ## Aggiornamento 2026-08-19
 
 ### [From OpenTofu to Argo CD: GitLab as your AWS control plane](https://about.gitlab.com/blog/gitlab-as-your-aws-control-plane/)

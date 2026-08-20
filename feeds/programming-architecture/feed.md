@@ -1,6 +1,22 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-20
+
+### [Citizens Build, Agents Execute, Experts Govern](https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html)
+*2026-08-19*
+
+TL;DRWhy building an app over the weekend isn't the same as building enterprise software
+I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in tech...
+
+---
+### [From Chrome DevTools to AI Engineering, with Addy Osmani](https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering)
+*Wed, 19 Au*
+
+Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed.
+
+---
+
 ## Aggiornamento 2026-08-19
 
 ### [Fragments: August 18](https://martinfowler.com/fragments/2026-08-18.html)
