@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-08-20
 
+### [German ciphers, telegrams, and cloud native data sovereignty](https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/)
+*Thu, 20 Au*
+
+A lesson from 1917 In January 1917, Germany sent a secret telegram. It went to Mexico. The offer: join the war against the United States, and you can have Texas, Arizona and New Mexico back. The...
+
+---
+
+## Aggiornamento 2026-08-20
+
 ### [From chaos to context: Building an AI dev workflow](https://about.gitlab.com/blog/building-an-ai-dev-workflow/)
 *2026-08-19*
 

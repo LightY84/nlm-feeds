@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-08-20
 
+### [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)
+*Thu, 20 Au*
+
+The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]
+
+---
+### [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
+*Thu, 20 Au*
+
+A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]
+
+---
+### [US warns of AI-powered attacks on Siemens PLCs in critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
+*Wed, 19 Au*
+
+U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]
+
+---
+
+## Aggiornamento 2026-08-20
+
 ### [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
 *Thu, 20 Au*
 
