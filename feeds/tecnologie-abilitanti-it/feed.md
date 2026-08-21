@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-08-21
 
+### [Running AI agents in GitHub Actions with Docker Sandboxes](https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/)
+*Fri, 21 Au*
+
+Run AI agents in GitHub Actions with Docker Sandboxes. See how isolated agents can run Testcontainers tests, fix code, and open draft pull requests.
+
+---
+### [Announcing H1 2027 KCDs](https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/)
+*Thu, 20 Au*
+
+Get ready to connect, learn, and innovate right in your backyard. Kubernetes Community Days (KCDs) are officially kicking off for H1! Supported by the Cloud Native Computing Foundation (CNCF), these community-organized events bring open source adopters...
+
+---
+
+## Aggiornamento 2026-08-21
+
 ### [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/)
 *Thu, 20 Au*
 

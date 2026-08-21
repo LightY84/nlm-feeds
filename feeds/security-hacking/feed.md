@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-08-21
 
+### [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
+*Fri, 21 Au*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]
+
+---
+### [Microsoft warns of max severity Entra ID flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
+*Fri, 21 Au*
+
+Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]
+
+---
+### [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
+*Fri, 21 Au*
+
+Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]
+
+---
+
+## Aggiornamento 2026-08-21
+
 ### [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
 *Thu, 20 Au*
 
