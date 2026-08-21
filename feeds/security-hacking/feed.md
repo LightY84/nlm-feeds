@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-21
+
+### [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
+*Thu, 20 Au*
+
+Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]
+
+---
+### [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
+*Thu, 20 Au*
+
+A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]
+
+---
+### [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
+*Thu, 20 Au*
+
+AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]
+
+---
+
 ## Aggiornamento 2026-08-20
 
 ### [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)

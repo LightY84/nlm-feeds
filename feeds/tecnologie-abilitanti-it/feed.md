@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-21
+
+### [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/)
+*Thu, 20 Au*
+
+Apply to become a Docker Verified Publisher (DVP) now directly through Docker Hub. Get your verified content seen first by devs looking for trusted options.
+
+---
+### [When your backlog outgrows your team, GitLab scales remediation](https://about.gitlab.com/blog/gitlab-scales-remediation/)
+*2026-08-20*
+
+Security teams have historically struggled to keep up with triage and remediation when development was happening at human speed. Today, that challenge is exacerbated by developers writing and shipping code at machine speed with AI.At the same time, AI is helping attackers find and explo...
+
+---
+### [Run agentic software delivery inside the boundaries you already trust](https://about.gitlab.com/blog/gitlab-dedicated-ai-gateway/)
+*2026-08-20*
+
+Many enterprises choose GitLab Dedicated for a clear reason: a single-tenant instance, managed by GitLab, in a cloud region they select. That isolation already covers source code, project data, and the software development lifecycle they...
+
+---
+
 ## Aggiornamento 2026-08-20
 
 ### [German ciphers, telegrams, and cloud native data sovereignty](https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/)
