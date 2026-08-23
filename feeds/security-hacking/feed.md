@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-08-23
 
+### [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
+*Fri, 21 Au*
+
+Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review.
+
+Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, rega...
+
+---
+### [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
+*Fri, 21 Au*
+
+A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.
+
+The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly ...
+
+---
+### [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
+*Fri, 21 Au*
+
+Update: The story was updated after publication to note that the vulnerability has not been exploited.
+
+Although the security bulletin originally marked the "Exploited" field under the Exploitability Assessment table as "Yes," on August 21, 2026, Microsoft corrected the "Exploited" status to "No"...
+
+---
+
+## Aggiornamento 2026-08-23
+
 ### [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
 *Sat, 22 Au*
 
