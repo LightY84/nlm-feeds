@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-24
+
+### [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/)
+*Mon, 24 Au*
+
+Supply-chain attacks have kept escalating while AI writes more of the code you ship. Docker's latest updates bring more software built from source into your images, keep security coverage running past end of life, carry every guarantee through your customized images, and move policy enforcement o...
+
+---
+### [Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response](https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response/)
+*Mon, 24 Au*
+
+The problem: Humans shouldn&#8217;t be correlation engines At Atlassian&#8217;s scale, hundreds of interconnected microservices distributed across multiple regions mean a production incident generates an overwhelming volume of telemetry. The problem is that finding the causal factor...
+
+---
+
 ## Aggiornamento 2026-08-21
 
 ### [Running AI agents in GitHub Actions with Docker Sandboxes](https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/)

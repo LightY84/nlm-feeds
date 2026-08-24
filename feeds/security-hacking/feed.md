@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-08-24
 
+### [CISA orders urgent patching of actively exploited Zimbra flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/)
+*Mon, 24 Au*
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]
+
+---
+### [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
+*Mon, 24 Au*
+
+If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.
+
+The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. Mo...
+
+---
+### [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
+*Mon, 24 Au*
+
+Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset.
+
+The vulnerability, assigned the CVE i...
+
+---
+
+## Aggiornamento 2026-08-24
+
 ### [ToxicPanda Android malware uses VPN permissions to block Google Play](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/)
 *Sun, 23 Au*
 
