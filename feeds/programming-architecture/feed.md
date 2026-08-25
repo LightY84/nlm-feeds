@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-25
+
+### [Fragments: August 24](https://martinfowler.com/fragments/2026-08-24.html)
+*2026-08-24*
+
+I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned ac...
+
+---
+
 ## Aggiornamento 2026-08-20
 
 ### [Citizens Build, Agents Execute, Experts Govern](https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html)

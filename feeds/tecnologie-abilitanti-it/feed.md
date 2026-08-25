@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-25
+
+### [When code is abundant](https://about.gitlab.com/blog/when-code-is-abundant/)
+*2026-08-24*
+
+I returned from the holiday break in January convinced that something fundamental had changed.Large language models had reached the point where they could produce useful code reliably enough, and cheaply enough, to change the economics of software development. Engineers everywhere seeme...
+
+---
+
 ## Aggiornamento 2026-08-24
 
 ### [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/)
