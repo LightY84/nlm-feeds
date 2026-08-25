@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-08-25
 
+### [Scale software delivery pipelines in isolation without owning the runner fleet](https://about.gitlab.com/blog/hosted-runners-for-gitlab-dedicated/)
+*2026-08-25*
+
+Many enterprises choose GitLab Dedicated for a clear reason: a secure and compliant, single-tenant GitLab instance, managed by GitLab. As agentic workflows drive more pipeline volume, full data isolation and runner infrastructure operati...
+
+---
+### [The lazy developer’s guide to observing your own code](https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code/)
+*Tue, 25 Au*
+
+It’s no secret that developers are increasingly being asked to shift left. It seems there’s always something new to shift left on. And now developers are being asked to shift left on observability. This means that...
+
+---
+### [Stop trying to learn all of Kubernetes at once](https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once/)
+*Tue, 25 Au*
+
+As a recovering VMware architect, it took me a little while to grasp Kubernetes. And I noticed I’m not alone in this.. From developers on our own team who need to get fluent in Kubernetes fast...
+
+---
+
+## Aggiornamento 2026-08-25
+
 ### [When code is abundant](https://about.gitlab.com/blog/when-code-is-abundant/)
 *2026-08-24*
 

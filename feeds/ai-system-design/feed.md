@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-08-25
 
+### [How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code](https://huggingface.co/blog/pwc-search)
+*Fri, 21 Au*
+
+
+
+---
+
+## Aggiornamento 2026-08-25
+
 ### [Wire It, Run It, Deploy It: AI Workflows in Gradio](https://huggingface.co/blog/gradio-workflow-guide)
 *Tue, 25 Au*
 
