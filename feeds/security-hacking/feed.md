@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-08-26
 
+### [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
+*Wed, 26 Au*
+
+Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]
+
+---
+### [Hackers now exploit critical Gitea flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/)
+*Wed, 26 Au*
+
+Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]
+
+---
+### [Hospital operator Nutex Health says data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/)
+*Tue, 25 Au*
+
+Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]
+
+---
+
+## Aggiornamento 2026-08-26
+
 ### [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
 *Tue, 25 Au*
 

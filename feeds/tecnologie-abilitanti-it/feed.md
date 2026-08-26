@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-08-26
 
+### [Making room for what's next in the GitLab UI](https://about.gitlab.com/blog/making-room-for-whats-next-in-the-gitlab-ui/)
+*2026-08-26*
+
+Throughout this year, the product interface has been in a season of reduction. On the heels of dark mode, the tide has been moving out with a quieter application chrome, overall color reduction, and neut...
+
+---
+
+## Aggiornamento 2026-08-26
+
 ### [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/)
 *Tue, 25 Au*
 
