@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-27
+
+### [Kubernetes v1.37: Garhwal](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/)
+*Wed, 26 Au*
+
+Editors: Arsh Sharma, Christopher Tineo, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Troy Connor
+Similar to previous releases, the release of Kubernetes v1.37 introduces new Stable, Beta, and Alpha features. The consiste...
+
+---
+### [GitLab compliance frameworks: Adhere to SOC 2 in minutes](https://about.gitlab.com/blog/quick-compliance-with-compliance-framework-templates/)
+*2026-08-27*
+
+Compliance is the part of software delivery that everyone agrees is important, yet nobody enjoys. It
+often lives in spreadsheets, screenshots, and the quiet dread of an upcoming audit. GitLab's custom
+compliance frameworks work differently. Instead of documenting what should be true a...
+
+---
+### [Git was built for humans — agents need an upgrade](https://about.gitlab.com/blog/gitlab-next-gen-scm/)
+*2026-08-26*
+
+The industry is now racing to rebuild source code management for agents. We showed our answer at GitLab Transcend, but let’s reiterate why rebuilding the Git backend is only half the problem.Three things br...
+
+---
+
 ## Aggiornamento 2026-08-26
 
 ### [Making room for what's next in the GitLab UI](https://about.gitlab.com/blog/making-room-for-whats-next-in-the-gitlab-ui/)
