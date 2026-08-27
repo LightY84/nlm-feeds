@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-08-27
 
+### [How to recognize your team with GitLab Achievements](https://about.gitlab.com/blog/how-to-recognize-your-team-with-gitlab-achievements/)
+*2026-08-27*
+
+Every team runs on people who go above and beyond. The engineer who fixes the flaky test nobody else will touch. The reviewer who turns your merge request around in an hour. The teammate who finishes their certification. Or the community member who shows up release after release. Whether your ...
+
+---
+### [Building an AI factory on Kubernetes](https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes/)
+*Thu, 27 Au*
+
+An AI factory is not just a model or a cluster. It is a pool of GPUs that many teams draw from at once: one team fine-tuning, another serving inference, a third running evaluations, all on...
+
+---
+
+## Aggiornamento 2026-08-27
+
 ### [Kubernetes v1.37: Garhwal](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/)
 *Wed, 26 Au*
 

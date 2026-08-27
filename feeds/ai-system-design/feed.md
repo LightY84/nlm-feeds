@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-08-27
 
+### [Intelligent transcription with Gemini 3.5 Transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/)
+*Wed, 26 Au*
+
+Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
+
+---
+
+## Aggiornamento 2026-08-27
+
 ### [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-multi-vector-encoder)
 *Wed, 26 Au*
 
