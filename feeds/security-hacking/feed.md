@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-08-28
 
+### [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
+*Fri, 28 Au*
+
+Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]
+
+---
+### [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
+*Fri, 28 Au*
+
+Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]
+
+---
+### [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
+*Fri, 28 Au*
+
+ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]
+
+---
+
+## Aggiornamento 2026-08-28
+
 ### [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 *Fri, 28 Au*
 
