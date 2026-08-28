@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-28
+
+### [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/)
+*Thu, 27 Au*
+
+Kubernetes v1.37 promotes the metrics.k8s.io API to stable (v1). This
+API provides CPU and memory usage for nodes and Pods, and is the API behind
+commands such as kubectl top and resource-metrics-based autoscaling.
+For cluster operators and applica...
+
+---
+### [Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes](https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes/)
+*Fri, 28 Au*
+
+The 3 AM Call We got paged one Tuesday morning. A critical production service had crashed under traffic—not gradually degraded, but crashed. Hundreds of pending pods. Users were seeing 15–20% error rates. The incident postmortem was...
+
+---
+### [Your Kubernetes platform is ready for containers. Is it ready for AI?](https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai/)
+*Fri, 28 Au*
+
+Kubernetes has given platform teams a consistent way to deploy, scale, and operate containerized applications. Now, many of those same teams are being asked to support AI. The transition is already underway. According to the CNCF...
+
+---
+
 ## Aggiornamento 2026-08-27
 
 ### [How to recognize your team with GitLab Achievements](https://about.gitlab.com/blog/how-to-recognize-your-team-with-gitlab-achievements/)

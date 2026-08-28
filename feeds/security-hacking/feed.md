@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-08-28
+
+### [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
+*Fri, 28 Au*
+
+PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]
+
+---
+### [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
+*Fri, 28 Au*
+
+A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]
+
+---
+### [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
+*Fri, 28 Au*
+
+AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]
+
+---
+
 ## Aggiornamento 2026-08-27
 
 ### [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
