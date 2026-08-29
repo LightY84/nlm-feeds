@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #140
-**Data:** 2026-08-29 | **Ciclo:** 140 | **Articoli analizzati:** 314
+# Tecnologie Abilitanti IT — Sintesi Socratica #141
+**Data:** 2026-08-29 | **Ciclo:** 141 | **Articoli analizzati:** 315
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles** (N/A)
 - **Kubernetes v1.37: Metrics API graduates to stable** (N/A)
 - **Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes** (N/A)
 - **Your Kubernetes platform is ready for containers. Is it ready for AI?** (N/A)
@@ -28,8 +29,6 @@
 - **Kubernetes v1.37: Garhwal** (N/A)
 - **GitLab compliance frameworks: Adhere to SOC 2 in minutes** (2026-08-27)
   > Compliance is the part of software delivery that everyone agrees is important, yet nobody enjoys. It often lives in spreadsheets, screenshots, and the
-- **Git was built for humans — agents need an upgrade** (2026-08-26)
-  > The industry is now racing to rebuild source code management for agents. We showed our answer at GitLab Transcend, but let’s reiterate why rebuilding 
 
 ## Connessioni con Pokefinance
 

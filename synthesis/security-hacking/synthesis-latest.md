@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #140
-**Data:** 2026-08-29 | **Ciclo:** 140 | **Articoli analizzati:** 831
+# Security & Hacking — Sintesi Socratica #141
+**Data:** 2026-08-29 | **Ciclo:** 141 | **Articoli analizzati:** 837
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers** (N/A)
+- **ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body** (N/A)
+- **19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code** (N/A)
+- **McKesson discloses breach after ShinyHunters claims patient data theft** (N/A)
+- **Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable** (N/A)
+- **Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication** (N/A)
 - **Over 8,300 Gitea servers vulnerable to code execution attacks** (N/A)
 - **Toy-making giant Hasbro disclose data breach affecting employees** (N/A)
-- **ServiceNow warns of three max severity security vulnerabilities** (N/A)
-- **PaperCut releases second emergency patch for exploited flaws** (N/A)
-- **GiveWP WordPress donation plugin flaw lets hackers execute server commands** (N/A)
-- **AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?** (N/A)
-- **Nearly 700 rogue AI agents coordinated in the Hugging Face attack** (N/A)
-- **Android 17 adds ECH support to make web browsing harder to track** (N/A)
 
 ## Connessioni con Pokefinance
 
