@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-08-31
 
+### [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
+*Mon, 31 Au*
+
+A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]
+
+---
+### [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
+*Mon, 31 Au*
+
+The boring parts caused most of the trouble.
+
+A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional.
+
+Els...
+
+---
+### [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
+*Mon, 31 Au*
+
+The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions.
+
+Russian cybersecurity vendor Kaspersky ...
+
+---
+
+## Aggiornamento 2026-08-31
+
 ### [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
 *Mon, 31 Au*
 
