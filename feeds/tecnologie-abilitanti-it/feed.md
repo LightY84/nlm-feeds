@@ -1,6 +1,23 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-01
+
+### [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/)
+*Mon, 31 Au*
+
+I am excited that storage version migration (SVM) has graduated to General Availability (GA) in Kubernetes v1.37!
+After a number of releases of work and testing, the built-in StorageVersionMigration API (storagemigration.k8s.io/v1)
+and control plane controller are ...
+
+---
+### [Observability in Kubernetes: From metrics to meaning](https://www.cncf.io/blog/2026/08/31/observability-in-kubernetes-from-metrics-to-meaning/)
+*Mon, 31 Au*
+
+Kubernetes made infrastructure more programmable, scalable, and resilient. It also made production systems harder to reason about. Workloads move, replicas churn, dependencies multiply, and a single user request can cross ingress, services, queues, storage, and background...
+
+---
+
 ## Aggiornamento 2026-08-31
 
 ### [OpenTelemetry has graduated… now what?](https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/)
