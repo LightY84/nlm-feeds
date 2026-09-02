@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-02
+
+### [Fragments: September  1](https://martinfowler.com/fragments/2026-09-01.html)
+*2026-09-01*
+
+Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag v...
+
+---
+
 ## Aggiornamento 2026-08-25
 
 ### [Fragments: August 24](https://martinfowler.com/fragments/2026-08-24.html)

@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-02
+
+### [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/)
+*Tue, 01 Se*
+
+I am excited to announce that etcd RangeStream is graduating to beta in
+Kubernetes v1.37. Paired with etcd v3.7, it reduces the memory the API server and
+etcd need to read a large collection, and makes peak usage more predictable.
+The cost of large reads<a ...
+
+---
+### [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/)
+*Wed, 02 Se*
+
+Learn how Docker Sandboxes can make AI evaluation workflows more reproducible with consistent execution, structured artifacts, and runtime evidence.
+
+---
+### [GitLab’s internal playbook to foster AI-fluent technical teams](https://about.gitlab.com/blog/how-gitlab-fosters-ai-fluent-teams/)
+*2026-09-02*
+
+Give two engineering teams the same AI tool and you can end up with two very different outcomes. One team ships faster with fewer bugs, while the other gets burned by an agent that confidently generates the wrong output.At GitLab, our team had AI tools at their fingertips and some found...
+
+---
+
 ## Aggiornamento 2026-09-01
 
 ### [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/)
