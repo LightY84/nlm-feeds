@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-09-02
 
+### [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
+*Wed, 02 Se*
+
+A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]
+
+---
+### [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
+*Wed, 02 Se*
+
+Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]
+
+---
+### [Sality botnet infrastructure dismantled in joint global takedown](https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/)
+*Wed, 02 Se*
+
+International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]
+
+---
+
+## Aggiornamento 2026-09-02
+
 ### [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
 *Wed, 02 Se*
 

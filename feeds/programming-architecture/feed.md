@@ -3,6 +3,16 @@
 
 ## Aggiornamento 2026-09-02
 
+### [Maybe We Shouldn't Be Reviewing All This Code](https://martinfowler.com/rachels-ramblings/code-review.html)
+*2026-09-02*
+
+TL;DROr, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems
+I was on a panel recently with Brian Houck from...
+
+---
+
+## Aggiornamento 2026-09-02
+
 ### [Fragments: September  1](https://martinfowler.com/fragments/2026-09-01.html)
 *2026-09-01*
 

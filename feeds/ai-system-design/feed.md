@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-02
 
+### [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)
+*Wed, 02 Se*
+
+
+
+---
+
+## Aggiornamento 2026-09-02
+
 ### [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt)
 *Tue, 01 Se*
 
