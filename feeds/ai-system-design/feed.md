@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-03
 
+### [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/)
+*Thu, 03 Se*
+
+
+
+---
+
+## Aggiornamento 2026-09-03
+
 ### [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct)
 *Thu, 03 Se*
 

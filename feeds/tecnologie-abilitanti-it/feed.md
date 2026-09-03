@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-03
 
+### [Migrating a critical Kubernetes deployment from the default namespace without any downtime](https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/)
+*Thu, 03 Se*
+
+Somewhere in your cluster there&#8217;s probably a deployment sitting in the default namespace that everyone knows shouldn&#8217;t be there. Nobody put it there maliciously, it just happened, early on, before anyone had opinions about namespace hygiene,...
+
+---
+
+## Aggiornamento 2026-09-03
+
 ### [Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler](https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/)
 *Wed, 02 Se*
 
