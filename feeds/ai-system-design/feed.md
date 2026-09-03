@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-03
+
+### [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](https://huggingface.co/blog/grpo-with-trl-ifstruct)
+*Thu, 03 Se*
+
+
+
+---
+### [Give Your Coding Agents a Memory You Own](https://huggingface.co/blog/funes)
+*Thu, 03 Se*
+
+
+
+---
+### [Training a coding model to paint watercolours with TRL and OpenEnv](https://huggingface.co/blog/train-to-paint-with-code)
+*Thu, 03 Se*
+
+
+
+---
+
 ## Aggiornamento 2026-09-02
 
 ### [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/)

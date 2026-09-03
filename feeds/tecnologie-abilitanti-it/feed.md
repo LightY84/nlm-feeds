@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-03
+
+### [Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler](https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/)
+*Wed, 02 Se*
+
+Kubernetes v1.37 includes API support for horizontal autoscaling of workloads down
+to zero replicas. This feature is now Beta and enabled by default. A
+HorizontalPodAutoscaler
+(HPA) that uses a su...
+
+---
+### [Critical remote code execution in vm2, a widely used Node.js sandbox library](https://about.gitlab.com/blog/critical-remote-code-execution-in-vm2/)
+*2026-09-02*
+
+GitLab's Threat Research Group found a critical sandbox escape vulnerability in vm2, one of the most widely adopted Node.js sandboxing libraries. The vulnerability uses a configuration copied straight from vm2's own README. We found the flaw, rated CVSS 3.1: 10.0, critical, using our own AI au...
+
+---
+### [Join OSPOlogy + OSPO Summit China 2026 in Shanghai](https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai/)
+*Thu, 03 Se*
+
+There’s still time to join OSPOlogy + OSPO Summit China 2026, taking place on September 7, 2026, in Shanghai, China as part of KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China. This event will...
+
+---
+
 ## Aggiornamento 2026-09-02
 
 ### [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/)
