@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-04
+
+### [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/)
+*Thu, 03 Se*
+
+Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building ...
+
+---
+### [CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem](https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem/)
+*Fri, 04 Se*
+
+AI infrastructure conversations often start with GPUs. Accelerators provide much of the compute behind model training and inference, so the focus is understandable. But a production AI workload rarely starts and ends on a GPU. Data...
+
+---
+### [Kubernetes isn’t new, but AI makes It scary again](https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again/)
+*Fri, 04 Se*
+
+Kubernetes isn&#8217;t brand new anymore. Yet, for many teams, adopting it still feels intimidating. Even if you’ve watched Kubernetes become the default foundation for production software and AI workloads, it can still feel like a big...
+
+---
+
 ## Aggiornamento 2026-09-03
 
 ### [Migrating a critical Kubernetes deployment from the default namespace without any downtime](https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/)
