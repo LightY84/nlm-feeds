@@ -1,6 +1,18 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-05
+
+### [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/)
+*Fri, 04 Se*
+
+Kubernetes v1.37 promotes the KubeletInUserNamespace feature gate to beta.
+With this feature enabled, all of the node components (kubelet, CRI and OCI runtimes,
+CNI plugins, and kube-proxy) can run as a non-root user on the host, using a
+<a href="https://man7.org/linux/man-pages/m...
+
+---
+
 ## Aggiornamento 2026-09-04
 
 ### [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/)
