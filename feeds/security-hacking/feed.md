@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-09-06
 
+### [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
+*Sun, 06 Se*
+
+Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]
+
+---
+### [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
+*Sat, 05 Se*
+
+JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.
+
+"Cadence users should immediately revoke or rotate ...
+
+---
+### [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+*Sat, 05 Se*
+
+Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.
+
+The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnera...
+
+---
+
+## Aggiornamento 2026-09-06
+
 ### [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
 *Sun, 06 Se*
 
