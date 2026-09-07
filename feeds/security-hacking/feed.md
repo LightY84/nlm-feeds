@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-07
+
+### [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
+*Mon, 07 Se*
+
+Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]
+
+---
+### [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
+*Mon, 07 Se*
+
+Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]
+
+---
+### [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
+*Mon, 07 Se*
+
+Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]
+
+---
+
 ## Aggiornamento 2026-09-06
 
 ### [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
