@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-08
+
+### [Bring your own model to GitLab Duo Self-Hosted with Microsoft Foundry](https://about.gitlab.com/blog/gitlab-duo-self-hosted-models-on-microsoft-foundry/)
+*2026-09-08*
+
+For many organizations, the question about AI coding tools isn't whether they help, but where the code goes. Teams under data sovereignty, residency, or regulatory constraints need to know which network handles their source code before they can adopt anything. <a href="https://docs.gitlab.com/...
+
+---
+### [Kubernetes access via an identity provider: Public client, not confidential](https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential/)
+*Tue, 08 Se*
+
+Access control belongs on the same day-zero checklist as networking and storage. On most on-prem clusters, it never makes the list. The Identity Gap Managed cloud Kubernetes ships IAM or SSO integration out of the box....
+
+---
+### [Distributed tracing for CI pipelines without touching a single workflow file](https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/)
+*Tue, 08 Se*
+
+You&#8217;ve probably felt this one: GitHub Actions usage creeps up across your org, and your actual visibility into it doesn&#8217;t keep pace. Which workflows are slow? Which are flaky? How long are jobs sitting queued for...
+
+---
+
 ## Aggiornamento 2026-09-05
 
 ### [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/)
