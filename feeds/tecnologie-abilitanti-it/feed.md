@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-09-08
 
+### [Cloud Native Computing Foundation Announces Karmada Graduation](https://www.cncf.io/announcements/2026/09/07/cloud-native-computing-foundation-announces-karmada-graduation/)
+*Tue, 08 Se*
+
+Multi-cluster, multi-cloud Kubernetes orchestration project reaches production maturity as global enterprises scale AI training and inference across hybrid infrastructure Key Highlights SHANGHAI, China – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026 –...
+
+---
+### [CNCF Welcomes New Silver Members as Enterprises Scale AI From Training to Inference](https://www.cncf.io/announcements/2026/09/07/cncf-welcomes-new-silver-members-as-enterprises-scale-ai-from-training-to-inference/)
+*Tue, 08 Se*
+
+New members including SoftBank Corp. and Crusoe join the cloud native community to help build cost-efficient, sovereign infrastructure SHANGHAI, China – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026 – September 8, 2026...
+
+---
+### [China Merchants Bank Wins CNCF End User Case Study Contest for Unifying AI Training and Inference on Kubernetes](https://www.cncf.io/announcements/2026/09/07/china-merchants-bank-wins-cncf-end-user-case-study-contest-for-unifying-ai-training-and-inference-on-kubernetes/)
+*Tue, 08 Se*
+
+New cloud native platform lifted average accelerator compute utilization from 35% to more than 60% and cut inference cost per 1 million tokens by more than 60% Key Highlights SHANGHAI, China – KubeCon + CloudNativeCon +...
+
+---
+
+## Aggiornamento 2026-09-08
+
 ### [Bring your own model to GitLab Duo Self-Hosted with Microsoft Foundry](https://about.gitlab.com/blog/gitlab-duo-self-hosted-models-on-microsoft-foundry/)
 *2026-09-08*
 
