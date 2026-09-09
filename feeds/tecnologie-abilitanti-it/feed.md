@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-09
+
+### [Kubernetes v1.37: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/)
+*Tue, 08 Se*
+
+AI/ML and complex batch workloads continue to push the boundaries of Kubernetes scheduling. Following the foundational workload-centric enhancements introduced in previous releases, Kubernetes v1.37 delivers the next major milestone in the Workload-Aware Scheduling (WAS) journey. In this relea...
+
+---
+### [6 Benefits of Sandbox Environments (and How Docker Sandboxes Delivers Them)](https://www.docker.com/blog/benefits-of-sandbox-environments/)
+*Tue, 08 Se*
+
+Learn about the key benefits of sandbox environments with Docker including isolation, definable controls, secrets credential handling, and more.
+
+---
+### [Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes](https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes/)
+*Wed, 09 Se*
+
+The question that stopped the meeting It was a routine cost review. The slide showed the month’s GPU spend, the biggest line on the whole infrastructure bill, and someone asked a five-word question: “Are we using...
+
+---
+
 ## Aggiornamento 2026-09-08
 
 ### [Cloud Native Computing Foundation Announces Karmada Graduation](https://www.cncf.io/announcements/2026/09/07/cloud-native-computing-foundation-announces-karmada-graduation/)
