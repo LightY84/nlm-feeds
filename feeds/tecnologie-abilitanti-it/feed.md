@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-09-09
 
+### [How cloud native goes AI native](https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native/)
+*Wed, 09 Se*
+
+&#8220;A sales guy writing code&#8221; used to be the lead-up to a joke. But now no one&#8217;s laughing. Designers used to sit meekly waiting for the high priests of code to make their designs real. Now...
+
+---
+### [CNCF and SlashData Report Highlights China’s Cloud Native Momentum as AI Moves to Inference](https://www.cncf.io/announcements/2026/09/07/cncf-and-slashdata-report-highlights-chinas-cloud-native-momentum-as-ai-moves-to-inference/)
+*Tue, 08 Se*
+
+New research finds China’s IIoT developers (48%) outpace the global average (42%) in cloud native adoption as AI infrastructure matures Key Highlights: SHANGHAI – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China —Sept. 8,...
+
+---
+
+## Aggiornamento 2026-09-09
+
 ### [Kubernetes v1.37: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/)
 *Tue, 08 Se*
 

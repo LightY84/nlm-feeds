@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-09
+
+### [Building Codex with Tibo Sottiaux](https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux)
+*Wed, 09 Se*
+
+OpenAI&#8217;s Tibo Sottiaux shares how Codex was built and how it&#8217;s reshaping software development.
+
+---
+
 ## Aggiornamento 2026-09-02
 
 ### [Maybe We Shouldn't Be Reviewing All This Code](https://martinfowler.com/rachels-ramblings/code-review.html)
