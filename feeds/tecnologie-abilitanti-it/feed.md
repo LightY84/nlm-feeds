@@ -1,6 +1,24 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-10
+
+### [Kubernetes v1.37: Introducing Node Lifecycle Conditions](https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/)
+*Wed, 09 Se*
+
+Kubernetes has many ways to describe what is happening on a Node. Readiness,
+taints, Pod state, labels, annotations, and provider-specific APIs each expose
+part of the picture. What has been missing is a shared, Kubernetes-owned way to
+say that a Node is <a href="https://kubernetes.io/docs/tas...
+
+---
+### [Kubernetes disaster recovery: Guidance from three reproducible failure scenarios](https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios/)
+*Thu, 10 Se*
+
+Scope This document describes three failure scenarios that separate having backups from being able to recover, and the guidance that follows from each. Every scenario is reproducible on a laptop from the lab repository above, and...
+
+---
+
 ## Aggiornamento 2026-09-09
 
 ### [How cloud native goes AI native](https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native/)
