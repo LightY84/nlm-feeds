@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-10
 
+### [Co-Create: Building GitLab with our users](https://about.gitlab.com/blog/co-create-h1-2026/)
+*2026-09-10*
+
+GitLab users bring firsthand experience of the workflows they want to improve. Through our Co-Create program, they collaborate directly with us to design, build, and deliver product improvements that benefit more teams.In the first half of 2026, our users helped us extend APIs, add <a h...
+
+---
+
+## Aggiornamento 2026-09-10
+
 ### [Kubernetes v1.37: Introducing Node Lifecycle Conditions](https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/)
 *Wed, 09 Se*
 
