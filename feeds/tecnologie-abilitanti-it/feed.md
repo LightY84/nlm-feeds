@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-11
 
+### [Building a reliable cloud native foundation for distributed AI training](https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training/)
+*Fri, 11 Se*
+
+AI workloads are changing what platform teams need from infrastructure. Provisioning GPUs and standing up a cluster no longer makes a platform “AI-ready.” Once training spans more than one node, the bottlenecks show up in places...
+
+---
+
+## Aggiornamento 2026-09-11
+
 ### [Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)](https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/)
 *Thu, 10 Se*
 
