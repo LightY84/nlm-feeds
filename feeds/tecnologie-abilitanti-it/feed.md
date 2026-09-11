@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-11
+
+### [Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)](https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/)
+*Thu, 10 Se*
+
+In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General A...
+
+---
+### [How to calculate DevOps platform total cost of ownership](https://about.gitlab.com/blog/how-to-calculate-devops-platform-total-cost-of-ownership/)
+*2026-09-11*
+
+There’s nothing like budget pressure to put your DevOps platform under a microscope. But subscription fees and license costs only tell one part of the story. The total cost of ownership (TCO) for a DevOps platform also includes variable costs like CI/CD compute and AI usage, along with the inf...
+
+---
+### [Prepare for the Cyber Resilience Act's 24-hour reporting deadline](https://about.gitlab.com/blog/cyber-resilience-act-reporting-deadline/)
+*2026-09-10*
+
+Starting on September 11, 2026, many businesses that place software on the European Union (EU) market will have 24 hours to file a report once they learn that a vulnerability in one of their products is being actively exploited. This is a new requirement under the Cyber Resilience Act (<a href...
+
+---
+
 ## Aggiornamento 2026-09-10
 
 ### [Co-Create: Building GitLab with our users](https://about.gitlab.com/blog/co-create-h1-2026/)

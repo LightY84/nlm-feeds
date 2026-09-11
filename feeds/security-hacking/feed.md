@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-11
+
+### [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
+*Fri, 11 Se*
+
+GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]
+
+---
+### [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
+*Fri, 11 Se*
+
+Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]
+
+---
+### [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
+*Fri, 11 Se*
+
+A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]
+
+---
+
 ## Aggiornamento 2026-09-10
 
 ### [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
