@@ -1,6 +1,16 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-12
+
+### [Kubernetes v1.37: Native Histograms Graduates to Beta](https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/)
+*Fri, 11 Se*
+
+I'm excited to announce that native histogram support for Kubernetes metrics is graduating to Beta and is enabled by default in Kubernetes v1.37!
+Native histograms (previously introduced as Alpha in Kubernetes v1.36 under <a href="https://www.kubernetes.dev/resources/keps/5808/...
+
+---
+
 ## Aggiornamento 2026-09-11
 
 ### [Building a reliable cloud native foundation for distributed AI training](https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training/)
