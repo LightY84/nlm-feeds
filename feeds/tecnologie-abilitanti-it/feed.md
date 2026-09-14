@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-14
+
+### [GitLab Dedicated: Compliance for a new regulatory era](https://about.gitlab.com/blog/gitlab-dedicated-compliance/)
+*2026-09-14*
+
+Enforcements such as NIS2 are no longer a future planning consideration. The European Union Agency for Cybersecurity's (ENISA) NIS360 report confirms that supervisory authorities are actively assessing cybersecurity maturity ac...
+
+---
+
 ## Aggiornamento 2026-09-12
 
 ### [Kubernetes v1.37: Native Histograms Graduates to Beta](https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/)

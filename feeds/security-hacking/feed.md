@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-09-14
 
+### [Microsoft: September updates break audio on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/)
+*Mon, 14 Se*
+
+Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]
+
+---
+### [CISA: Hackers now exploit max severity GitLab flaw in attacks](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/)
+*Mon, 14 Se*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]
+
+---
+### [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
+*Mon, 14 Se*
+
+Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current.
+
+The attack requires an attacker who...
+
+---
+
+## Aggiornamento 2026-09-14
+
 ### [Webinar: How malicious OAuth apps can lead to Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/)
 *Mon, 14 Se*
 
