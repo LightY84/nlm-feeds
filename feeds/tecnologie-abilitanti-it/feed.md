@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-15
 
+### [What I learned organizing KCD Lima 2026](https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/)
+*Tue, 15 Se*
+
+On July 18, 2026, we held the third edition of Kubernetes Community Days Lima at UTEC in Barranco. By now, we have already sent the Transparency Report to the CNCF, thanked our sponsors, and processed the...
+
+---
+
+## Aggiornamento 2026-09-15
+
 ### [Kubernetes Changed Block Tracking API - Beta Differences](https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/)
 *Mon, 14 Se*
 
