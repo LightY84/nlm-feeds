@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-15
+
+### [Kubernetes Changed Block Tracking API - Beta Differences](https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/)
+*Mon, 14 Se*
+
+Changed Block Tracking (CBT) support for CSI drivers
+shipped as Alpha in
+September 2025. With the March 2026 v1.0.0 release of the
+<a href="https://github.com/kubernetes-csi/external-snapshot-metadata"...
+
+---
+### [Kubernetes v1.37: Memory QoS Graduates to Beta](https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/)
+*Mon, 14 Se*
+
+Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by
+default. On Linux nodes running cgroup v2, the feature uses the memory controller
+to give the kernel better guidance on how to treat container memory. It was first introduced as
+Alpha in v1.22, and expanded in v1.36 wit...
+
+---
+
 ## Aggiornamento 2026-09-14
 
 ### [GitLab Dedicated: Compliance for a new regulatory era](https://about.gitlab.com/blog/gitlab-dedicated-compliance/)
