@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-09-16
 
+### [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
+*Wed, 16 Se*
+
+Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]
+
+---
+### [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
+*Tue, 15 Se*
+
+Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]
+
+---
+### [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
+*Wed, 16 Se*
+
+A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.
+
+The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote...
+
+---
+
+## Aggiornamento 2026-09-16
+
 ### [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
 *Wed, 16 Se*
 

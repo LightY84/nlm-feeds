@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-16
 
+### [When to use SAST versus an LLM security scanner](https://about.gitlab.com/blog/sast-vs-llm-security-scanner/)
+*2026-09-16*
+
+You're probably running some version of this experiment already: Point a frontier model at a merge request and ask it to double as a vulnerability scanner. On a single merge request, it often works well. The model reads the code, reasons about what it's supposed to do, and catches real issues,...
+
+---
+
+## Aggiornamento 2026-09-16
+
 ### [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/)
 *Tue, 15 Se*
 
