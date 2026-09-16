@@ -1,6 +1,24 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-16
+
+### [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/)
+*Tue, 15 Se*
+
+With the release of Kubernetes v1.37, the Pod-Level Resource Managers
+feature has graduated to Beta status (disabled by default)!
+First introduced as an Alpha feature in
+<a href="https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-r...
+
+---
+### [Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend](https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/)
+*Wed, 16 Se*
+
+Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux Foundation&#8217;s open-source fork of HashiCorp Vault) and CloudNativePG give you: an entirely...
+
+---
+
 ## Aggiornamento 2026-09-15
 
 ### [What I learned organizing KCD Lima 2026](https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026/)
