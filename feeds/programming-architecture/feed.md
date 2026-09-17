@@ -1,6 +1,29 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-17
+
+### [I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
+*2026-09-17*
+
+I have a lot of mixed feelings about AI and LLM technology. I’m
+fascinated by its effect on our profession, excited by the potential gains
+in productivity - and thus the products we could rapidly build. On the other
+hand, I’m fearful of the damage AI might cause: agent swarms taking over our
+v...
+
+---
+### [Fragments: September 16](https://martinfowler.com/fragments/2026-09-16.html)
+*2026-09-16*
+
+Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options:
+
+
+  
+    After the Hug...
+
+---
+
 ## Aggiornamento 2026-09-09
 
 ### [Building Codex with Tibo Sottiaux](https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux)

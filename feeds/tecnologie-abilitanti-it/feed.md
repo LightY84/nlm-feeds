@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-17
+
+### [Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions](https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/)
+*Wed, 16 Se*
+
+Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for example, prohibiting deletion of files across containers or executi...
+
+---
+### [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
+*2026-09-17*
+
+GitLab.com hosts millions of projects for teams of every size that need a platform they can rely on. Demand is climbing quickly, and we expect platform load to grow several times over this year. Predictable limits are what keep GitLab.com fast for everyone on it, including the automation and a...
+
+---
+### [OpenTelemetry everywhere: Migrating a metrics platform at scale](https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale/)
+*Thu, 17 Se*
+
+Why we did this at all For most of the last decade our metrics pipeline ran on gostatsd, the open-source StatsD implementation we maintain. It primarily did two jobs: as sidecar on every host and the...
+
+---
+
 ## Aggiornamento 2026-09-16
 
 ### [When to use SAST versus an LLM security scanner](https://about.gitlab.com/blog/sast-vs-llm-security-scanner/)
