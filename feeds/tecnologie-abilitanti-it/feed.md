@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-18
 
+### [GitLab Duo CLI takes a task from goal to done](https://about.gitlab.com/blog/gitlab-duo-cli-drives-automation/)
+*2026-09-17*
+
+Complex tasks hit a wall at the end of every chat turn. Developers already know what they're trying to accomplish. What stalls the work is the handoff back and forth between each step. Without a pre-defined definition of success, the agent stops and waits for direction or clarification, so you...
+
+---
+
+## Aggiornamento 2026-09-18
+
 ### [Optimize your team's price-performance with hosted open weight models](https://about.gitlab.com/blog/optimize-with-open-weight-models/)
 *2026-09-17*
 
