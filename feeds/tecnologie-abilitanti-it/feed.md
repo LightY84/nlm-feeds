@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-18
+
+### [Optimize your team's price-performance with hosted open weight models](https://about.gitlab.com/blog/optimize-with-open-weight-models/)
+*2026-09-17*
+
+There’s no single best model for every software development task. Implementing a new feature, diagnosing a failed pipeline, and resolving security vulnerabilities all place different demands on the model handling them. GitLab Duo Agent Platform is expanding GitLab-managed model choice with thr...
+
+---
+### [See who spent your AI credits and set fair caps per team](https://about.gitlab.com/blog/new-usage-caps-2026/)
+*2026-09-17*
+
+Scaling AI across your organization depends on knowing where the budget is going and who’s using it. While a subscription cap keeps your total spend within budget, it can’t tell you how much AI was used by individual teams. And predicting future budget needs ahead of business needs gets more c...
+
+---
+### [New MCP tools help platform teams scale automation safely](https://about.gitlab.com/blog/new-mcp-tools-for-automation/)
+*2026-09-17*
+
+Agentic tools are moving fast past code completion into running pipelines, opening merge requests, and triaging work on a team's behalf. The Model Context Protocol (MCP) has become the common way these agents reach...
+
+---
+
 ## Aggiornamento 2026-09-17
 
 ### [Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions](https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/)
