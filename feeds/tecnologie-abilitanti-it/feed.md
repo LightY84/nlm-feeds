@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-19
+
+### [Securing the software factory at machine speed](https://about.gitlab.com/blog/securing-the-software-factory-at-machine-speed/)
+*2026-09-18*
+
+I joined GitLab at a moment when the way teams build and secure software has been changing rapidly. GitLab CEO Bill Staples recently framed that shift in When Code Is Abundant. When code is no longer the bottlen...
+
+---
+### [KubeCon + CloudNativeCon North America 2026: Your Week in Salt Lake City](https://www.cncf.io/blog/2026/09/11/kubecon-cloudnativecon-north-america-2026-your-week-in-salt-lake-city/)
+*Fri, 11 Se*
+
+This November, the cloud native community is heading to Salt Lake City. From November 9–12, 2026, KubeCon + CloudNativeCon North America will bring together adopters and technologists from across open source and cloud native communities for...
+
+---
+
 ## Aggiornamento 2026-09-18
 
 ### [GitLab Duo CLI takes a task from goal to done](https://about.gitlab.com/blog/gitlab-duo-cli-drives-automation/)
