@@ -3,6 +3,33 @@
 
 ## Aggiornamento 2026-09-20
 
+### [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
+*Sun, 20 Se*
+
+An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]
+
+---
+### [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
+*Sat, 19 Se*
+
+A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.
+
+The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution.
+
+"Orkes Conductor 3.21.2...
+
+---
+### [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
+*Sat, 19 Se*
+
+Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.
+
+The incidents occurred in May 2026 as part of a test run conduct...
+
+---
+
+## Aggiornamento 2026-09-20
+
 ### [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 *Sat, 19 Se*
 
