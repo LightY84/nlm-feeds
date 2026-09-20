@@ -1,6 +1,33 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-20
+
+### [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+*Sat, 19 Se*
+
+A new CVE drops. Your scanner finds it. The severity score looks ugly.
+
+But that still does not answer the question that matters: Can it actually be exploited in your environment?
+
+Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs st...
+
+---
+### [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
+*Sat, 19 Se*
+
+Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibili...
+
+---
+### [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
+*Sat, 19 Se*
+
+SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.
+
+The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scorin...
+
+---
+
 ## Aggiornamento 2026-09-19
 
 ### [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
