@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-09-21
 
+### [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
+*Mon, 21 Se*
+
+Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]
+
+---
+### [Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
+*Mon, 21 Se*
+
+A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.
+
+Microsoft's own hardwar...
+
+---
+### [Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
+*Mon, 21 Se*
+
+The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory.
+
+The primary targe...
+
+---
+
+## Aggiornamento 2026-09-21
+
 ### [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
 *Mon, 21 Se*
 
