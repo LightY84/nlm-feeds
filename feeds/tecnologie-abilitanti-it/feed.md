@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-09-22
 
+### [Meet the Ecosystem: Partners and Customers at WeAreDevelopers with Docker](https://www.docker.com/blog/wearedevelopers-partner-customer-sessions-2026/)
+*Tue, 22 Se*
+
+Meet the partners and customers bringing practical AI, security, and development sessions to the Docker Pavilion at WeAreDevelopers. The post explains why a strong ecosystem matters to developers, announces the sessions and speakers, and invites attendees to connect with the teams building and us...
+
+---
+### [How to design GitLab for enterprise scale](https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/)
+*2026-09-22*
+
+At enterprise scale, even small architecture choices can have outsized consequences. A deployment that works for a handful of teams can become a constraint once thousands of developers, repositories, and pipelines depend on it.That makes each decision made before rollout especially cons...
+
+---
+### [How GitLab reduced code-per-agentic-flow ratio by 45%](https://about.gitlab.com/blog/how-gitlab-reduced-code-per-agentic-flow-ratio/)
+*2026-09-22*
+
+GitLab Duo Agent Platform orchestrates and automates complex tasks through agentic flows. A key part of the platform is the Flow Registry, a declarative configuration framework, built from reus...
+
+---
+
+## Aggiornamento 2026-09-22
+
 ### [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/)
 *Mon, 21 Se*
 

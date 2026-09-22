@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-22
 
+### [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](https://huggingface.co/blog/evaleval-aisi)
+*Tue, 22 Se*
+
+
+
+---
+
+## Aggiornamento 2026-09-22
+
 ### [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants)
 *Tue, 22 Se*
 
