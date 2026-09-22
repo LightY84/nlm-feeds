@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-22
+
+### [Transformers now runs llama.cpp quants](https://huggingface.co/blog/transformers-llama-cpp-quants)
+*Tue, 22 Se*
+
+
+
+---
+### [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](https://huggingface.co/blog/omlx)
+*Tue, 22 Se*
+
+
+
+---
+
 ## Aggiornamento 2026-09-21
 
 ### [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an)

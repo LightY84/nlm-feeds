@@ -1,6 +1,23 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-22
+
+### [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/)
+*Mon, 21 Se*
+
+Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by
+default). With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused
+condition to each PVC, telling you whether any running pod currently r...
+
+---
+### [From attendee badge to speaker badge: My first KubeCon at KubeCon + CloudNativeCon India 2026](https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026/)
+*Tue, 22 Se*
+
+There is something surreal about your first KubeCon being one where you walk onto the stage as a speaker. Most people ease into this community by attending a few conferences, lurking in hallway tracks, and working...
+
+---
+
 ## Aggiornamento 2026-09-19
 
 ### [Securing the software factory at machine speed](https://about.gitlab.com/blog/securing-the-software-factory-at-machine-speed/)
