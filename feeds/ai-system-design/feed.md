@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-09-23
 
+### [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
+*Wed, 23 Se*
+
+Introducing private, server-side memory to Private AI Compute for personal AI.
+
+---
+### [Gemini 3.8 text-to-speech says hello](https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/)
+*Wed, 23 Se*
+
+
+
+---
+
+## Aggiornamento 2026-09-23
+
 ### [**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**](https://huggingface.co/blog/nvidia/nemotron-diarization)
 *Wed, 23 Se*
 
