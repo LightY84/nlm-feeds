@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-09-24
 
+### [Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote](https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/)
+*Thu, 24 Se*
+
+Docker's WeAreDevelopers keynote shows how Sandboxes, Kits, and Cloud Sandboxes give AI agents strong isolation and reproducible authority.
+
+---
+### [From Dockerfile to Kit: the Docker Sandboxes Kit Specification](https://www.docker.com/blog/docker-sandbox-kit-spec/)
+*Thu, 24 Se*
+
+Docker's Sandbox Kit Specification v3 packages an AI agent's network rules, credentials, and volumes as an ordinary, pinnable OCI image.
+
+---
+### [Docker and CNCF partner on an open spec for agent permissions](https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/)
+*Thu, 24 Se*
+
+Docker is bringing the open source Sandbox Kit Spec to the CNCF, so AI agent permissions become a neutral, vendor independent standard built on OCI.
+
+---
+
+## Aggiornamento 2026-09-24
+
 ### [Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026/)
 *Thu, 24 Se*
 

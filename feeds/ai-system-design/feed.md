@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-24
 
+### [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
+*Thu, 24 Se*
+
+
+
+---
+
+## Aggiornamento 2026-09-24
+
 ### [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark)
 *Thu, 24 Se*
 

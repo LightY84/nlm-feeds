@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-24
+
+### [Fragments: September 24](https://martinfowler.com/fragments/2026-09-24.html)
+*2026-09-24*
+
+Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all
+
+
+  The risk I’m worried about isn’t a fut...
+
+---
+
 ## Aggiornamento 2026-09-17
 
 ### [I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
