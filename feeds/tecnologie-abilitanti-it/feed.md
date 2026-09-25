@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-25
+
+### [Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud](https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/)
+*Thu, 24 Se*
+
+Run agents on your laptop, in the cloud, and move between them with one command, all safely. Earlier this year we launched Docker Sandboxes: microVM environments where coding agents can work autonomously in a safe way.
+
+---
+### [Security Slam 2026 – Fall edition](https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/)
+*Fri, 25 Se*
+
+Security Slam 2026 – Fall Edition is a 30-day virtual event from October 5 through November 6, 2026. What Is the Security Slam? The Open Source Security Foundation (OpenSSF) is partnering with the Cloud Native Computing...
+
+---
+
 ## Aggiornamento 2026-09-24
 
 ### [Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote](https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/)
