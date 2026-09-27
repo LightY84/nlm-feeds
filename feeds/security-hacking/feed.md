@@ -3,6 +3,32 @@
 
 ## Aggiornamento 2026-09-27
 
+### [Citrix admins warned to shut down NetScalers over 2 exploited zero-days](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
+*Sun, 27 Se*
+
+Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week. [...]
+
+---
+### [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
+*Sat, 26 Se*
+
+The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.
+
+The new findings come from Ontinue, which described the activity as a four-stage attack chain a...
+
+---
+### [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
+*Sat, 26 Se*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities in question are as follows -
+...
+
+---
+
+## Aggiornamento 2026-09-27
+
 ### [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
 *Sun, 27 Se*
 
