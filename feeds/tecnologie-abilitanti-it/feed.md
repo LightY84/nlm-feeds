@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-09-28
 
+### [What's new in Git 2.56.0?](https://about.gitlab.com/blog/whats-new-in-git-2-56-0/)
+*2026-09-28*
+
+The Git project recently released Git 2.56.0. Let's look at some of the highlights of the release, including contributions from the <a href="https://handbook.gitlab.com/handbook/engineering/infrastructure-platform...
+
+---
+
+## Aggiornamento 2026-09-28
+
 ### [The case for a cloud native agent harness](https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness/)
 *Mon, 28 Se*
 

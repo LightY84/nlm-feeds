@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-09-28
 
+### [Misconfigured Supabase apps expose data in over 16,000 databases](https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/)
+*Mon, 28 Se*
+
+Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]
+
+---
+### [CISA orders feds to patch exploited Citrix flaws by Wednesday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/)
+*Mon, 28 Se*
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]
+
+---
+### [Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
+*Mon, 28 Se*
+
+The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.
+
+The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24,...
+
+---
+
+## Aggiornamento 2026-09-28
+
 ### [JadePuffer agentic AI attacks target Azure, destroy cloud resources](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/)
 *Mon, 28 Se*
 

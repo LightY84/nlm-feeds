@@ -1012,7 +1012,10 @@
     "9715c431c607",
     "bc584af0c123",
     "e8bebc06f498",
-    "64d8ffcbc0eb"
+    "64d8ffcbc0eb",
+    "00c59c4f177b",
+    "a108f239af8d",
+    "a543e842f86a"
   ],
   "programming-architecture": [
     "3f9e47644df7",
@@ -1437,7 +1440,8 @@
     "f20312b34a4d",
     "b72efca5b381",
     "5afb5e7bc850",
-    "abd9d6359c74"
+    "abd9d6359c74",
+    "16807a855861"
   ],
   "ai-system-design": [
     "aeed5283fa22",
