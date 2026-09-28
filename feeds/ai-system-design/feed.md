@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-28
+
+### [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)
+*Mon, 28 Se*
+
+
+
+---
+
 ## Aggiornamento 2026-09-24
 
 ### [Introducing Gemini 3.8 Live with Live Avatar](https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/)
