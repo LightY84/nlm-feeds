@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-29
+
+### [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)
+*Tue, 29 Se*
+
+
+
+---
+
 ## Aggiornamento 2026-09-28
 
 ### [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4)

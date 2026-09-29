@@ -1,6 +1,19 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-29
+
+### [Bliki: Sensible Default](https://martinfowler.com/bliki/SensibleDefault.html)
+*2026-09-29*
+
+A Sensible Default is a practice that, absent some overriding context,
+  should be used when carrying out a certain kind of task. In software
+  development such sensible defaults might include things like “use version
+  control”, “separate UI logic from domain logic”, “automate deployment
+  pi...
+
+---
+
 ## Aggiornamento 2026-09-24
 
 ### [Fragments: September 24](https://martinfowler.com/fragments/2026-09-24.html)
