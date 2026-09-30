@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-30
+
+### [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/)
+*Wed, 30 Se*
+
+Proof of concept for watermarking AI-generated proteins while preserving biological function.
+
+---
+
 ## Aggiornamento 2026-09-29
 
 ### [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source)

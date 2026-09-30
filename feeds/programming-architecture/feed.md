@@ -1,6 +1,16 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-30
+
+### [Principles for effective slides](https://martinfowler.com/articles/never-send-slides/slide-principles.html)
+*2026-09-30*
+
+Not every presentation needs slides, but when they earn their place,
+      they work as...
+
+---
+
 ## Aggiornamento 2026-09-29
 
 ### [Bliki: Sensible Default](https://martinfowler.com/bliki/SensibleDefault.html)

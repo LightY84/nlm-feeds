@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-09-30
+
+### [GitLab and Claude Code: Fast, compliant AI](https://about.gitlab.com/blog/gitlab-and-claude-code-fast-compliant-ai/)
+*2026-09-29*
+
+Government agencies are feeling twin pressures: While the U.S. Office of Management and Budget (OMB) is urging you to deploy AI faster, the U.S. Government Accountability Office (GAO) wants guardrails in place before that happens.To accelerate AI coding, many agencies are turning to AI ...
+
+---
+### [From 40 seconds to under 10: rebuilding incident detection on OpenTelemetry, Apache Kafka, and Apache Flink on Kubernetes](https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes/)
+*Wed, 30 Se*
+
+Every SaaS company has the same uncomfortable question after a major incident: who noticed first, the monitoring or the customers? For a long time our honest answer was &#8220;it depends&#8221;. This post describes how a small...
+
+---
+
 ## Aggiornamento 2026-09-28
 
 ### [What's new in Git 2.56.0?](https://about.gitlab.com/blog/whats-new-in-git-2-56-0/)
