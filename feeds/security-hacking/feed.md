@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-09-30
 
+### [Microsoft to block Entra ID script injection attacks starting October](https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/)
+*Wed, 30 Se*
+
+Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]
+
+---
+### [Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
+*Wed, 30 Se*
+
+Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]
+
+---
+### [Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)
+*Tue, 29 Se*
+
+Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]
+
+---
+
+## Aggiornamento 2026-09-30
+
 ### [CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)
 *Wed, 30 Se*
 
