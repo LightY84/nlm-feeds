@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-01
 
+### [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/)
+*Thu, 01 Oc*
+
+At WeAreDevelopers, Docker introduced Cloud Sandboxes, the open Sandbox Kit specification, and a commitment to bring Kits to the CNCF for neutral governance.
+
+---
+
+## Aggiornamento 2026-10-01
+
 ### [Guardrails, not gates: rethinking policy in platform teams](https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams/)
 *Thu, 01 Oc*
 
