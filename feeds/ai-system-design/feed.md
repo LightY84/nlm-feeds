@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-01
+
+### [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3)
+*Thu, 01 Oc*
+
+
+
+---
+### [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/)
+*Wed, 30 Se*
+
+
+
+---
+
 ## Aggiornamento 2026-09-30
 
 ### [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/)

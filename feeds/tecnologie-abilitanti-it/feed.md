@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-01
+
+### [Guardrails, not gates: rethinking policy in platform teams](https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams/)
+*Thu, 01 Oc*
+
+The most popular OPA-based policy tool for Kubernetes is literally called Gatekeeper. Admission controllers block. Policies deny. Kyverno&#8217;s enforcement setting is validationFailureAction: Enforce, which at least sounds neutral, but the failure mode it describes is still...
+
+---
+
 ## Aggiornamento 2026-09-30
 
 ### [GitLab and Claude Code: Fast, compliant AI](https://about.gitlab.com/blog/gitlab-and-claude-code-fast-compliant-ai/)
