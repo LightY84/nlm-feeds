@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-02
+
+### [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)
+*Fri, 02 Oc*
+
+
+
+---
+
 ## Aggiornamento 2026-10-01
 
 ### [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3)

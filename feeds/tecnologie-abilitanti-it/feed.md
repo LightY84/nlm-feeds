@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-02
+
+### [DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent](https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/)
+*2026-10-02*
+
+GitLab's Threat Research Group discovered a command execution vulnerability (GHSA-grg2-7gc6-36m6, <a href="https://gitlab.com/gitlab-org/cves/-/blob/master/2026/CVE-2026-102437.json" rel=...
+
+---
+### [KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day](https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/)
+*Fri, 02 Oc*
+
+Most of KubeCon + CloudNativeCon assumes the cluster already exists. OpenTofu Day covers everything that has to be provisioned before and around it: cloud accounts, networking, managed services, and the clusters themselves. On November 9, OpenTofu...
+
+---
+### [KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer](https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer/)
+*Fri, 02 Oc*
+
+You do not need “maintainer” in your job title to start following the maintainer journey at KubeCon + CloudNativeCon North America 2026. You might be an SRE who has spent years operating a CNCF project in...
+
+---
+
 ## Aggiornamento 2026-10-01
 
 ### [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/)
