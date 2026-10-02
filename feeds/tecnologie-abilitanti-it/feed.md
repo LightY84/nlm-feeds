@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-10-02
 
+### [KubeCon + CloudNativeCon North America 2026: Build your infrastructure engineer journey](https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey/)
+*Fri, 02 Oc*
+
+Infrastructure engineers sit at one of the busiest intersections in cloud native. Kubernetes clusters need to scale. Networks need to connect them. Storage needs to follow workloads. Platforms need to make infrastructure usable. Security needs to...
+
+---
+### [KubeCon + CloudNativeCon North America 2026: Build your application developer journey](https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey/)
+*Thu, 01 Oc*
+
+Cloud native development increasingly means thinking beyond the application itself. How will it be built? How will it be deployed? How much infrastructure should developers need to understand? Where should platforms remove complexity? And what changes...
+
+---
+### [KubeCon + CloudNativeCon North America 2026: Build your SRE journey](https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-sre-journey/)
+*Thu, 01 Oc*
+
+If your day starts with questions about reliability, performance, observability, incidents, scaling, or what is going to break next, there is no shortage of places to spend your time at KubeCon + CloudNativeCon North America 2026....
+
+---
+
+## Aggiornamento 2026-10-02
+
 ### [DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent](https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/)
 *2026-10-02*
 
