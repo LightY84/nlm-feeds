@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-05
+
+### [Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)
+*2026-10-04*
+
+In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) <a href="https://x.com/metalanguage_os/status/21049344573337070...
+
+---
+
 ## Aggiornamento 2026-09-30
 
 ### [Principles for effective slides](https://martinfowler.com/articles/never-send-slides/slide-principles.html)
