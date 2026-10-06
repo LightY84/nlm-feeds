@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #178
-**Data:** 2026-10-06 | **Ciclo:** 178 | **Articoli analizzati:** 1056
+# Security & Hacking — Sintesi Socratica #179
+**Data:** 2026-10-06 | **Ciclo:** 179 | **Articoli analizzati:** 1062
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Atlassian warns of critical file-access flaw in Jira, Confluence** (N/A)
+- **ASOS confirms data breach after “HACKED” in-app notifications** (N/A)
+- **Engineer sentenced for locking over 3,000 devices on employer network** (N/A)
+- **Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes** (N/A)
+- **How to secure RMM software: 8 controls MSPs should test** (N/A)
+- **Nikkei discloses breaches of employees’ Microsoft, Google email accounts** (N/A)
 - **Denmark population registry data breach affects 8.8 million people** (N/A)
 - **New Dell System Update flaw lets hackers gain root privileges** (N/A)
-- **South Korea probes bank breaches amid suspected AI-powered attacks** (N/A)
-- **Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools** (N/A)
-- **Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes** (N/A)
-- **ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories** (N/A)
-- **ShinyHunters hacker reportedly detained in Jordan, aiding FBI** (N/A)
-- **Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes** (N/A)
 
 ## Connessioni con Pokefinance
 

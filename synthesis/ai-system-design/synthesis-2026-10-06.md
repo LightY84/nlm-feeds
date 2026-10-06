@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #178
-**Data:** 2026-10-06 | **Ciclo:** 178 | **Articoli analizzati:** 175
+# AI & System Design — Sintesi Socratica #179
+**Data:** 2026-10-06 | **Ciclo:** 179 | **Articoli analizzati:** 176
 
 ## Stato attuale della conoscenza
 
@@ -18,6 +18,7 @@
 
 ## Articoli recenti dai feed
 
+- **Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance** (N/A)
 - **The Agent Said It Was Done. The Database Disagreed.** (N/A)
 - **AutoSynthData: Generating Training Data for Enterprise Agents** (N/A)
 - **Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs** (N/A)
@@ -25,7 +26,6 @@
 - **Introducing SynthID Bio** (N/A)
 - **Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents** (N/A)
 - **Holo4: powering generalist computer-use agents** (N/A)
-- **Introducing Gemini 3.8 Live with Live Avatar** (N/A)
 
 ## Connessioni con Pokefinance
 

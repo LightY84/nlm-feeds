@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #178
-**Data:** 2026-10-06 | **Ciclo:** 178 | **Articoli analizzati:** 389
+# Tecnologie Abilitanti IT — Sintesi Socratica #179
+**Data:** 2026-10-06 | **Ciclo:** 179 | **Articoli analizzati:** 393
 
 ## Stato attuale della conoscenza
 
@@ -19,16 +19,18 @@
 
 ## Articoli recenti dai feed
 
+- **Every artifact your teams ship, assembled right the first time** (2026-10-06)
+  > Every software build is assembled from open source packages, base images, and libraries, with your code on top. When one of those components is missin
+- **Scaling Kubernetes Workloads with Node Swap** (N/A)
+- **GitLab Transcend: Speed you can trust, all the way to production** (2026-10-06)
+  > At Transcend, we made over a dozen announcements across all four layers of our architecture for agentic software engineering: agent orchestration, dat
+- **Dependency Firewall: Block risky packages before the build** (2026-10-06)
+  > Malicious packages could turn up in the public registries your builds depend on. Increasingly, the developer is not the one choosing what gets pulled 
 - **Two front doors: Module-level access in a Django GRC app** (2026-10-05)
   > GitLab's engineering team builds a lot of our own internal tooling, but one platform in particular forced us to rethink how we handle authorization: o
 - **KubeCon + CloudNativeCon North America 2026: Build your infrastructure engineer journey** (N/A)
 - **KubeCon + CloudNativeCon North America 2026: Build your application developer journey** (N/A)
 - **KubeCon + CloudNativeCon North America 2026: Build your SRE journey** (N/A)
-- **DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent** (2026-10-02)
-  > GitLab's Threat Research Group discovered a command execution vulnerability (GHSA-grg2-7gc6-36m6, <a href="https://gitlab.com/gitlab-org/cves/-/blob/m
-- **KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day** (N/A)
-- **KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer** (N/A)
-- **Trust Docker for the agents you don’t** (N/A)
 
 ## Connessioni con Pokefinance
 
