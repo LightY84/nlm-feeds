@@ -1,6 +1,29 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-06
+
+### [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/)
+*Mon, 05 Oc*
+
+Memory is often the first hard limit a Kubernetes cluster hits.
+Nodes run out of RAM long before they run out of CPU, and the new wave of agentic AI workloads makes this worse.
+These workloads demand large memory footprints to start up and run untrusted code, then sit idle waiting for the next...
+
+---
+### [GitLab Transcend: Speed you can trust, all the way to production](https://about.gitlab.com/blog/transcend-india-announcements/)
+*2026-10-06*
+
+At Transcend, we made over a dozen announcements across all four layers of our architecture for agentic software engineering: agent orchestration, data and context, DevOps workflows, and governance and security. Watch ...
+
+---
+### [Dependency Firewall: Block risky packages before the build](https://about.gitlab.com/blog/transcend-dependency-firewall/)
+*2026-10-06*
+
+Malicious packages could turn up in the public registries your builds depend on. Increasingly, the developer is not the one choosing what gets pulled in because AI coding agents now add open...
+
+---
+
 ## Aggiornamento 2026-10-05
 
 ### [Two front doors: Module-level access in a Django GRC app](https://about.gitlab.com/blog/module-level-access-in-a-django-grc-app/)
