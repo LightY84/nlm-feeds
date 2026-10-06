@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-06
 
+### [Every artifact your teams ship, assembled right the first time](https://about.gitlab.com/blog/transcend-artifact-central/)
+*2026-10-06*
+
+Every software build is assembled from open source packages, base images, and libraries, with your code on top. When one of those components is missing or has drifted, the build fails. At agent speed, those failures multiply, and no team can clear them as manual exceptions.Project-by-pr...
+
+---
+
+## Aggiornamento 2026-10-06
+
 ### [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/)
 *Mon, 05 Oc*
 
