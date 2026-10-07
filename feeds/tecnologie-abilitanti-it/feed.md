@@ -1,6 +1,31 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-07
+
+### [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/)
+*Tue, 06 Oc*
+
+In Linux, cgroups (control groups) are a kernel feature used for managing system resources.
+Kubernetes uses cgroups to allocate resources like CPU and memory to containers,
+ensuring that applications run smoothly without interfering with each other.
+With the release of Kubernetes v1.3...
+
+---
+### [Building Git infrastructure for agent-scale development](https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/)
+*Tue, 06 Oc*
+
+We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.
+The post Building Git infrast...
+
+---
+### [Meshery becomes a CNCF Incubating project](https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project/)
+*Wed, 07 Oc*
+
+The CNCF Technical Oversight Committee (TOC) voted to accept Meshery as a CNCF incubating project. Meshery is used by organizations spanning aerospace, telecommunications, networking, and enterprise software as a single cloud native management plane that gives...
+
+---
+
 ## Aggiornamento 2026-10-06
 
 ### [Every artifact your teams ship, assembled right the first time](https://about.gitlab.com/blog/transcend-artifact-central/)
