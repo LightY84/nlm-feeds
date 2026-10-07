@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-07
 
+### [CNCF Welcomes OVHcloud, One of Europe’s Largest Independent Cloud Providers, as a Platinum Member](https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member/)
+*Wed, 07 Oc*
+
+Upgrade builds on OVHcloud’s decade-plus commitment to open infrastructure, interoperability and cloud portability&#160; Key Highlights PRAGUE – Open Source Summit Europe – October 7, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...
+
+---
+
+## Aggiornamento 2026-10-07
+
 ### [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/)
 *Tue, 06 Oc*
 

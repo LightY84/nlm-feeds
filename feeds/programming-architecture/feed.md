@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-07
+
+### [Building resilient systems with Sam Newman](https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam)
+*Wed, 07 Oc*
+
+Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.
+
+---
+
 ## Aggiornamento 2026-10-05
 
 ### [Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)
