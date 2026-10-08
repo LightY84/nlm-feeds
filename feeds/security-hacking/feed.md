@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-08
+
+### [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
+*Thu, 08 Oc*
+
+Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]
+
+---
+### [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
+*Thu, 08 Oc*
+
+OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This arti...
+
+---
+### [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
+*Thu, 08 Oc*
+
+A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]
+
+---
+
 ## Aggiornamento 2026-10-07
 
 ### [Advantest confirms personal information stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/)

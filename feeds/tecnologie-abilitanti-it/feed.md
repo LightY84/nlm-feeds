@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-08
+
+### [Track organization-wide security risk in one dashboard](https://about.gitlab.com/blog/security-risk-in-one-dashboard/)
+*2026-10-08*
+
+If you run application security across more than one top-level group, getting a single organization-wide view of your risk has meant manually pulling together data. That is operational work rebuilt in spreadsheets and one-off scripts every time someone asks. This manual work is easy to get wro...
+
+---
+### [CiliumCon is back at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026/)
+*Wed, 07 Oc*
+
+Mark your calendars. On Monday, November 9, CilliumCon kicks off at KubeCon + CloudNativeCon North America in Salt Lake City. It&#8217;s the eighth time the event has run, and this year&#8217;s agenda goes straight at the...
+
+---
+### [BackstageCon comes to KubeCon + CloudNativeCon North America 2026 in Salt Lake City](https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city/)
+*Wed, 07 Oc*
+
+BackstageCon takes place all day on Monday, November 9, 2026, the day before KubeCon + CloudNativeCon North America opens in Salt Lake City. We&#8217;re excited to bring together Backstage adopters, contributors, and maintainers to share how...
+
+---
+
 ## Aggiornamento 2026-10-07
 
 ### [CNCF Welcomes OVHcloud, One of Europe’s Largest Independent Cloud Providers, as a Platinum Member](https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member/)
