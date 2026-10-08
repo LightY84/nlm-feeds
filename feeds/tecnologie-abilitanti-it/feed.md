@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-08
 
+### [Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026/)
+*Wed, 07 Oc*
+
+Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026 on November 9 in Salt Lake City, Utah, bringing together developers and adopters from across the cloud native ecosystem to share experiences and insights...
+
+---
+
+## Aggiornamento 2026-10-08
+
 ### [Track organization-wide security risk in one dashboard](https://about.gitlab.com/blog/security-risk-in-one-dashboard/)
 *2026-10-08*
 
