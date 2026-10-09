@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-09
+
+### [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
+*Fri, 09 Oc*
+
+AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]
+
+---
+### [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
+*Fri, 09 Oc*
+
+Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]
+
+---
+### [Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)
+*Fri, 09 Oc*
+
+Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]
+
+---
+
 ## Aggiornamento 2026-10-08
 
 ### [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)

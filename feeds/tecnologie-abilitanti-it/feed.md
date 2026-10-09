@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-09
+
+### [Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/)
+*Fri, 09 Oc*
+
+As organizations accelerate their adoption of AI and cloud native technologies, platform teams are being asked to solve a growing set of challenges. How can developers access new capabilities such as AI safely and efficiently? How...
+
+---
+### [Who owns NIS2 and DORA on a Kubernetes platform team](https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/)
+*Fri, 09 Oc*
+
+There is a meeting that repeats across a lot of European engineering organizations right now. Someone from legal or risk brings a NIS2 control, a DORA article, or a “can we evidence this” request into the...
+
+---
+
 ## Aggiornamento 2026-10-08
 
 ### [Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026/)
