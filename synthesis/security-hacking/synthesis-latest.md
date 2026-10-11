@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #183
-**Data:** 2026-10-10 | **Ciclo:** 183 | **Articoli analizzati:** 1086
+# Security & Hacking — Sintesi Socratica #184
+**Data:** 2026-10-11 | **Ciclo:** 184 | **Articoli analizzati:** 1092
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws** (N/A)
+- **Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories** (N/A)
+- **FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack** (N/A)
+- **Nippon Columbia malware incident exposes 8.6 million karaoke fan records** (N/A)
+- **P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands** (N/A)
+- **The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't** (N/A)
 - **Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks** (N/A)
 - **Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland** (N/A)
-- **FBI disrupts Chinese hacking tools used to breach critical infrastructure** (N/A)
-- **Cyber exec arrested in case allegedly tied to ShinyHunters hackers** (N/A)
-- **ARTEX AI, Claude agents used in cyberattacks on South Korean banks** (N/A)
-- **Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management** (N/A)
-- **Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto** (N/A)
-- **FBI arrests another suspected ShinyHunters hacker after agency breach** (N/A)
 
 ## Connessioni con Pokefinance
 

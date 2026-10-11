@@ -1,0 +1,38 @@
+# AI & System Design — Sintesi Socratica #184
+**Data:** 2026-10-11 | **Ciclo:** 184 | **Articoli analizzati:** 178
+
+## Stato attuale della conoscenza
+
+**Punti di forza consolidati:**
+- Panoramica strategica AI
+- Normativa (AI Act, GDPR)
+- Business/adoption AI
+- CI/CD tradizionale
+
+## Evoluzione dei gap
+
+- **LLMOps e Monitoraggio in Produzione** — baseline iniziale
+- **System Design RAG avanzato (vector DB, embedding, chunking, re-ranking)** — baseline iniziale
+- **Fine-Tuning e Modelli Locali (PEFT, quantizzazione)** — baseline iniziale
+- **Architetture Agentiche Multi-Agente (Tool Calling, memoria, orchestratori)** — baseline iniziale
+
+## Articoli recenti dai feed
+
+- **One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO** (N/A)
+- **EmbeddingGemma 2: an open, lightweight multimodal embedding model** (N/A)
+- **Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance** (N/A)
+- **The Agent Said It Was Done. The Database Disagreed.** (N/A)
+- **AutoSynthData: Generating Training Data for Enterprise Agents** (N/A)
+- **Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs** (N/A)
+- **Gemini 4 Argon: our next era of frontier intelligence** (N/A)
+- **Introducing SynthID Bio** (N/A)
+
+## Connessioni con Pokefinance
+
+RAG per dominio Pokémon TCG; LLM-as-a-judge per chatbot portfolio
+
+## Domande per il prossimo ciclo
+
+1. Come colmare il gap su **LLMOps e Monitoraggio in Produzione** con risorse open-source?
+2. Come colmare il gap su **System Design RAG avanzato (vector DB, embedding, chunking, re-ranking)** con risorse open-source?
+3. Come colmare il gap su **Fine-Tuning e Modelli Locali (PEFT, quantizzazione)** con risorse open-source?
