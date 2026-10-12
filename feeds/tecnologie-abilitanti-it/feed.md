@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-12
+
+### [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/)
+*Mon, 12 Oc*
+
+CVE-2026-105445: Docker Hub account conversion could re-assign personal access tokens to a new owner. Read what happened, who was affected, and the fix.
+
+---
+
 ## Aggiornamento 2026-10-09
 
 ### [Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/)

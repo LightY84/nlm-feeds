@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-12
+
+### [Anthropic takes risky AI tests offline after models breach govt sites](https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/)
+*Mon, 12 Oc*
+
+Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]
+
+---
+### [Cyberattack shuts down refrigerators at French supermarkets](https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/)
+*Mon, 12 Oc*
+
+Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]
+
+---
+### [Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption](https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/)
+*Mon, 12 Oc*
+
+A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]
+
+---
+
 ## Aggiornamento 2026-10-11
 
 ### [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
