@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-13
 
+### [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
+*Tue, 13 Oc*
+
+
+
+---
+
+## Aggiornamento 2026-10-13
+
 ### [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
 *Tue, 13 Oc*
 
