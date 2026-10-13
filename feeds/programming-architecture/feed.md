@@ -1,6 +1,16 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-13
+
+### [Are Harnesses Worth the Cost?](https://martinfowler.com/articles/are-harnesses-worth-the-cost.html)
+*2026-10-13*
+
+Naresh Jain compares coding agents building the same
+      API service ...
+
+---
+
 ## Aggiornamento 2026-10-07
 
 ### [Building resilient systems with Sam Newman](https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam)

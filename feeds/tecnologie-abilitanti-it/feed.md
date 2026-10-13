@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-13
+
+### [Make every AI credit count: See, cap, and reduce agent spend](https://about.gitlab.com/blog/make-every-ai-credit-count/)
+*2026-10-13*
+
+Costs multiply with every task you hand to an agent. Each task consumes tokens and credits, and as agents spread across your teams and automations, consumption can grow faster than usage. If you run the platform, you own that growth, including which teams and workflows drive it and whether the...
+
+---
+### [GitLab's agent orchestration eliminates the wait between development stages](https://about.gitlab.com/blog/gitlab-agent-orchestration/)
+*2026-10-13*
+
+AI coding tools have changed how fast software gets written, but not how fast it ships. As code generation accelerates, the bottleneck moves downstream into verify, review, and ship. Those stages still run on human time. While agents write fixes in minutes, delivery slows on constant wait time...
+
+---
+
 ## Aggiornamento 2026-10-12
 
 ### [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/)
