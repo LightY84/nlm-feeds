@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #185
-**Data:** 2026-10-13 | **Ciclo:** 185 | **Articoli analizzati:** 48
+# Programming & Architecture — Sintesi Socratica #186
+**Data:** 2026-10-13 | **Ciclo:** 186 | **Articoli analizzati:** 49
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,8 @@
 
 ## Articoli recenti dai feed
 
+- **Are Harnesses Worth the Cost?** (2026-10-13)
+  > Naresh Jain compares coding agents building the same API service ...
 - **Building resilient systems with Sam Newman** (N/A)
 - **Fragments: October  4** (2026-10-04)
   > In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t hav
@@ -34,7 +36,6 @@
   > I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in producti
 - **Fragments: September 16** (2026-09-16)
   > Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willi
-- **Building Codex with Tibo Sottiaux** (N/A)
 
 ## Connessioni con Pokefinance
 

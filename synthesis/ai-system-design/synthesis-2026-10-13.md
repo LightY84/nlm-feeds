@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #185
-**Data:** 2026-10-13 | **Ciclo:** 185 | **Articoli analizzati:** 178
+# AI & System Design — Sintesi Socratica #186
+**Data:** 2026-10-13 | **Ciclo:** 186 | **Articoli analizzati:** 181
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **Run fast, private agents on-device with LFM2.5-24B-A2B** (N/A)
+- **Gemini 4 Argon for Robotics** (N/A)
+- **Gemini 4 Argon: Built to solve your hardest problems** (N/A)
 - **One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO** (N/A)
 - **EmbeddingGemma 2: an open, lightweight multimodal embedding model** (N/A)
 - **Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance** (N/A)
 - **The Agent Said It Was Done. The Database Disagreed.** (N/A)
 - **AutoSynthData: Generating Training Data for Enterprise Agents** (N/A)
-- **Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs** (N/A)
-- **Gemini 4 Argon: our next era of frontier intelligence** (N/A)
-- **Introducing SynthID Bio** (N/A)
 
 ## Connessioni con Pokefinance
 

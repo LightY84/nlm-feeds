@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #185
-**Data:** 2026-10-13 | **Ciclo:** 185 | **Articoli analizzati:** 1098
+# Security & Hacking — Sintesi Socratica #186
+**Data:** 2026-10-13 | **Ciclo:** 186 | **Articoli analizzati:** 1104
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Microsoft: Windows 11 24H2 Home and Pro reached end of support** (N/A)
+- **UK Housing Ombudsman Service investigates 'security incident'** (N/A)
+- **Windows 11 KB5127648 & KB5126653 cumulative updates released** (N/A)
+- **TFG London cyberattack disrupts systems at Hobbs and Whistles retailers** (N/A)
+- **Ivanti warns of Connect Secure zero-day exploited in attacks** (N/A)
+- **Docker Hub flaw let attackers impersonate users, tamper with images** (N/A)
 - **Yandex confirms service outage as users lose access to cloud files** (N/A)
 - **Retail giant Ahold Delhaize takes systems offline after cyberattack** (N/A)
-- **GitLab warns of max severity code execution vulnerability** (N/A)
-- **Anthropic takes risky AI tests offline after models breach govt sites** (N/A)
-- **Cyberattack shuts down refrigerators at French supermarkets** (N/A)
-- **Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption** (N/A)
-- **Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws** (N/A)
-- **Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories** (N/A)
 
 ## Connessioni con Pokefinance
 

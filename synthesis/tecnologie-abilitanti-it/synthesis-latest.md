@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #185
-**Data:** 2026-10-13 | **Ciclo:** 185 | **Articoli analizzati:** 404
+# Tecnologie Abilitanti IT — Sintesi Socratica #186
+**Data:** 2026-10-13 | **Ciclo:** 186 | **Articoli analizzati:** 406
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,10 @@
 
 ## Articoli recenti dai feed
 
+- **Make every AI credit count: See, cap, and reduce agent spend** (2026-10-13)
+  > Costs multiply with every task you hand to an agent. Each task consumes tokens and credits, and as agents spread across your teams and automations, co
+- **GitLab's agent orchestration eliminates the wait between development stages** (2026-10-13)
+  > AI coding tools have changed how fast software gets written, but not how fast it ships. As code generation accelerates, the bottleneck moves downstrea
 - **Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions** (N/A)
 - **Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026** (N/A)
 - **Who owns NIS2 and DORA on a Kubernetes platform team** (N/A)
@@ -26,8 +30,6 @@
 - **Track organization-wide security risk in one dashboard** (2026-10-08)
   > If you run application security across more than one top-level group, getting a single organization-wide view of your risk has meant manually pulling 
 - **CiliumCon is back at KubeCon + CloudNativeCon North America 2026** (N/A)
-- **BackstageCon comes to KubeCon + CloudNativeCon North America 2026 in Salt Lake City** (N/A)
-- **CNCF Welcomes OVHcloud, One of Europe’s Largest Independent Cloud Providers, as a Platinum Member** (N/A)
 
 ## Connessioni con Pokefinance
 
