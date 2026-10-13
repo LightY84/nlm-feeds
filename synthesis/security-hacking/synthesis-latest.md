@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #184
-**Data:** 2026-10-11 | **Ciclo:** 184 | **Articoli analizzati:** 1092
+# Security & Hacking — Sintesi Socratica #185
+**Data:** 2026-10-13 | **Ciclo:** 185 | **Articoli analizzati:** 1098
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Yandex confirms service outage as users lose access to cloud files** (N/A)
+- **Retail giant Ahold Delhaize takes systems offline after cyberattack** (N/A)
+- **GitLab warns of max severity code execution vulnerability** (N/A)
+- **Anthropic takes risky AI tests offline after models breach govt sites** (N/A)
+- **Cyberattack shuts down refrigerators at French supermarkets** (N/A)
+- **Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption** (N/A)
 - **Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws** (N/A)
 - **Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories** (N/A)
-- **FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack** (N/A)
-- **Nippon Columbia malware incident exposes 8.6 million karaoke fan records** (N/A)
-- **P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands** (N/A)
-- **The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't** (N/A)
-- **Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks** (N/A)
-- **Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland** (N/A)
 
 ## Connessioni con Pokefinance
 

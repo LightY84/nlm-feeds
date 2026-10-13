@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #184
-**Data:** 2026-10-11 | **Ciclo:** 184 | **Articoli analizzati:** 403
+# Tecnologie Abilitanti IT — Sintesi Socratica #185
+**Data:** 2026-10-13 | **Ciclo:** 185 | **Articoli analizzati:** 404
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions** (N/A)
 - **Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026** (N/A)
 - **Who owns NIS2 and DORA on a Kubernetes platform team** (N/A)
 - **Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026** (N/A)
@@ -27,7 +28,6 @@
 - **CiliumCon is back at KubeCon + CloudNativeCon North America 2026** (N/A)
 - **BackstageCon comes to KubeCon + CloudNativeCon North America 2026 in Salt Lake City** (N/A)
 - **CNCF Welcomes OVHcloud, One of Europe’s Largest Independent Cloud Providers, as a Platinum Member** (N/A)
-- **The Shift to cgroup v2 in Kubernetes: What You Need to Know** (N/A)
 
 ## Connessioni con Pokefinance
 
