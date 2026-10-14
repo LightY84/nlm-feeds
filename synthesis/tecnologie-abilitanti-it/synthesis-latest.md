@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #186
-**Data:** 2026-10-13 | **Ciclo:** 186 | **Articoli analizzati:** 406
+# Tecnologie Abilitanti IT — Sintesi Socratica #187
+**Data:** 2026-10-14 | **Ciclo:** 187 | **Articoli analizzati:** 407
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,8 @@
 
 ## Articoli recenti dai feed
 
+- **Scaling Git for the agentic software factory** (2026-10-13)
+  > AI agents are fundamentally changing the economics of software development. As the cost of producing code falls, the volume of changes moving through 
 - **Make every AI credit count: See, cap, and reduce agent spend** (2026-10-13)
   > Costs multiply with every task you hand to an agent. Each task consumes tokens and credits, and as agents spread across your teams and automations, co
 - **GitLab's agent orchestration eliminates the wait between development stages** (2026-10-13)
@@ -29,7 +31,6 @@
 - **Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026** (N/A)
 - **Track organization-wide security risk in one dashboard** (2026-10-08)
   > If you run application security across more than one top-level group, getting a single organization-wide view of your risk has meant manually pulling 
-- **CiliumCon is back at KubeCon + CloudNativeCon North America 2026** (N/A)
 
 ## Connessioni con Pokefinance
 

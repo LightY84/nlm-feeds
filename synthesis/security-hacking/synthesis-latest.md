@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #186
-**Data:** 2026-10-13 | **Ciclo:** 186 | **Articoli analizzati:** 1104
+# Security & Hacking — Sintesi Socratica #187
+**Data:** 2026-10-14 | **Ciclo:** 187 | **Articoli analizzati:** 1110
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Hirudo Android malware replaces banking apps to evade security checks** (N/A)
+- **Microsoft: Recent Windows updates may trigger Remote Desktop failures** (N/A)
+- **Ghostscript flaw lets hackers hijack servers via PDF uploads** (N/A)
+- **Microsoft fixes VPN issues caused by September Windows updates** (N/A)
+- **The Blind Spots of Agentic Pentesting and How to Close Them** (N/A)
+- **CISA warns admins to immediately fix Ivanti flaw exploited as zero-day** (N/A)
 - **Microsoft: Windows 11 24H2 Home and Pro reached end of support** (N/A)
 - **UK Housing Ombudsman Service investigates 'security incident'** (N/A)
-- **Windows 11 KB5127648 & KB5126653 cumulative updates released** (N/A)
-- **TFG London cyberattack disrupts systems at Hobbs and Whistles retailers** (N/A)
-- **Ivanti warns of Connect Secure zero-day exploited in attacks** (N/A)
-- **Docker Hub flaw let attackers impersonate users, tamper with images** (N/A)
-- **Yandex confirms service outage as users lose access to cloud files** (N/A)
-- **Retail giant Ahold Delhaize takes systems offline after cyberattack** (N/A)
 
 ## Connessioni con Pokefinance
 
