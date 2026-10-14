@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-14
+
+### [Scaling Git for the agentic software factory](https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/)
+*2026-10-13*
+
+AI agents are fundamentally changing the economics of software development. As the cost of producing code falls, the volume of changes moving through the software factory is accelerating beyond what infrastructure designed for human developers was built to handle.GitLab anticipated this...
+
+---
+
 ## Aggiornamento 2026-10-13
 
 ### [Make every AI credit count: See, cap, and reduce agent spend](https://about.gitlab.com/blog/make-every-ai-credit-count/)
