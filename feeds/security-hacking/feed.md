@@ -3,6 +3,29 @@
 
 ## Aggiornamento 2026-10-15
 
+### [Ledger asks sellers across Asia to halt sales after supply-chain attack](https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/)
+*Wed, 14 Oc*
+
+Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]
+
+---
+### [Cisco patches new Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/)
+*Wed, 14 Oc*
+
+Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]
+
+---
+### [Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)
+*Thu, 15 Oc*
+
+Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at&nbsp;the Citizen Lab&nbsp;said Thursday.
+
+The hidden attack code ran the moment an a...
+
+---
+
+## Aggiornamento 2026-10-15
+
 ### [Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)
 *Thu, 15 Oc*
 
