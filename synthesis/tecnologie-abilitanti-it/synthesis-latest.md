@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #187
-**Data:** 2026-10-14 | **Ciclo:** 187 | **Articoli analizzati:** 407
+# Tecnologie Abilitanti IT — Sintesi Socratica #188
+**Data:** 2026-10-15 | **Ciclo:** 188 | **Articoli analizzati:** 410
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,10 @@
 
 ## Articoli recenti dai feed
 
+- **Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp** (N/A)
+- **Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals** (N/A)
+- **Gemini 4 Argon on GitLab: Built for long-running agentic work** (2026-10-14)
+  > As AI models take on longer, multi-step work, the challenge is putting that power to use across the software lifecycle without adding risk or cost. Te
 - **Scaling Git for the agentic software factory** (2026-10-13)
   > AI agents are fundamentally changing the economics of software development. As the cost of producing code falls, the volume of changes moving through 
 - **Make every AI credit count: See, cap, and reduce agent spend** (2026-10-13)
@@ -27,10 +31,6 @@
   > AI coding tools have changed how fast software gets written, but not how fast it ships. As code generation accelerates, the bottleneck moves downstrea
 - **Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions** (N/A)
 - **Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026** (N/A)
-- **Who owns NIS2 and DORA on a Kubernetes platform team** (N/A)
-- **Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026** (N/A)
-- **Track organization-wide security risk in one dashboard** (2026-10-08)
-  > If you run application security across more than one top-level group, getting a single organization-wide view of your risk has meant manually pulling 
 
 ## Connessioni con Pokefinance
 

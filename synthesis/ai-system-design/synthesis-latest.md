@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #187
-**Data:** 2026-10-14 | **Ciclo:** 187 | **Articoli analizzati:** 183
+# AI & System Design — Sintesi Socratica #188
+**Data:** 2026-10-15 | **Ciclo:** 188 | **Articoli analizzati:** 183
 
 ## Stato attuale della conoscenza
 

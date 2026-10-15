@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #187
-**Data:** 2026-10-14 | **Ciclo:** 187 | **Articoli analizzati:** 1110
+# Security & Hacking — Sintesi Socratica #188
+**Data:** 2026-10-15 | **Ciclo:** 188 | **Articoli analizzati:** 1116
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Ledger asks sellers across Asia to halt sales after supply-chain attack** (N/A)
+- **Cisco patches new Secure Email Gateway zero-day exploited in attacks** (N/A)
+- **Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads** (N/A)
+- **Is AI pentesting as good as a human pentester?** (N/A)
+- **UK Legal Aid Agency: Hackers stole records dating back to 1978** (N/A)
+- **Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks** (N/A)
 - **Hirudo Android malware replaces banking apps to evade security checks** (N/A)
 - **Microsoft: Recent Windows updates may trigger Remote Desktop failures** (N/A)
-- **Ghostscript flaw lets hackers hijack servers via PDF uploads** (N/A)
-- **Microsoft fixes VPN issues caused by September Windows updates** (N/A)
-- **The Blind Spots of Agentic Pentesting and How to Close Them** (N/A)
-- **CISA warns admins to immediately fix Ivanti flaw exploited as zero-day** (N/A)
-- **Microsoft: Windows 11 24H2 Home and Pro reached end of support** (N/A)
-- **UK Housing Ombudsman Service investigates 'security incident'** (N/A)
 
 ## Connessioni con Pokefinance
 
