@@ -1,6 +1,30 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-15
+
+### [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/)
+*Wed, 14 Oc*
+
+You submit a Kubernetes Job and
+wait for its Pods to appear. A minute passes. Then another. The Job is still suspended, there are no
+application logs, and there may not even be a Pod to inspect.
+In a cluster ma...
+
+---
+### [Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals](https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/)
+*Wed, 14 Oc*
+
+Harbor can now run every eval task in Docker Sandboxes Docker Sandboxes are MicroVM environments to run agents like Claude Code, Codex, Cursor, and more safely With Sandboxes, define custom network policies for fair, reproducible evals Run your evals locally or in the cloud: starting for free on ...
+
+---
+### [Gemini 4 Argon on GitLab: Built for long-running agentic work](https://about.gitlab.com/blog/gitlab-google-gemini-argon/)
+*2026-10-14*
+
+As AI models take on longer, multi-step work, the challenge is putting that power to use across the software lifecycle without adding risk or cost. Teams need to be able to move faster, within enterprise controls and guardrails.Google's Gemini 4 Argon, now available on <a href="https://...
+
+---
+
 ## Aggiornamento 2026-10-14
 
 ### [Scaling Git for the agentic software factory](https://about.gitlab.com/blog/scaling-git-for-the-agentic-software-factory/)
