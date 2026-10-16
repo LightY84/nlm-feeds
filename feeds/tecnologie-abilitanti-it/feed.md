@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-16
+
+### [GitLab Secrets Manager: Govern secrets like your code](https://about.gitlab.com/blog/secrets-manager-ga/)
+*2026-10-15*
+
+Credentials often start in an engineer's local dev environments, then get copied into unscoped CI/CD variables to keep pipelines running. Stored there as a raw value rather than a reference to a scoped secret, a signing key reaches every job in the pipeline — compromised or not.Standing...
+
+---
+### [Get every merge request in front of the right reviewer, faster](https://about.gitlab.com/blog/recommend-reviewers-flow/)
+*2026-10-15*
+
+The code is written. Now who reviews it?The volume of code has never been greater, but delivery hasn’t kept pace. At Meta, code changes on internal platforms grew 220% year over year, while changes that reached users as new features grew only 36% (<a href="https://www.r...
+
+---
+### [Connect your agents to your software lifecycle with the GitLab MCP server](https://about.gitlab.com/blog/mcp-server-ga/)
+*2026-10-15*
+
+Agents are working across your team's software development lifecycle, but most still operate as separate tools, leaving the context, handoffs, and permissions for your team to stitch together. When your agents use APIs for these disparate tools, they often guess at endpoints and use up their c...
+
+---
+
 ## Aggiornamento 2026-10-15
 
 ### [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/)
