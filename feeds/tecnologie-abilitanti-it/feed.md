@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-10-16
 
+### [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/)
+*Fri, 16 Oc*
+
+The 2026 Stack Overflow Developer Survey shows only 7% of developers trust AI output for important decisions. Here’s what that means for running agents safely.
+
+---
+### [Unblock agentic software delivery with governed code review](https://about.gitlab.com/blog/gitlab-code-review/)
+*2026-10-15*
+
+AI agents have changed how much code a team can produce in a day. Review queues haven’t kept up, and delivery stalls while changes wait for a closer look. The usual workarounds (reminders, reviewer rotations, assigning a team) buy a little time and then burn people out.Client-side revie...
+
+---
+### [Deploying, maintaining, and migrating production n8n on EKS](https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/)
+*Fri, 16 Oc*
+
+n8n is easy to try and harder to run under production traffic. A single container with SQLite works great for a quick demo. Production is a different story entirely. You need workers, webhook processors, PostgreSQL, Redis,...
+
+---
+
+## Aggiornamento 2026-10-16
+
 ### [GitLab Secrets Manager: Govern secrets like your code](https://about.gitlab.com/blog/secrets-manager-ga/)
 *2026-10-15*
 
