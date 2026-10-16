@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #188
-**Data:** 2026-10-15 | **Ciclo:** 188 | **Articoli analizzati:** 183
+# AI & System Design — Sintesi Socratica #189
+**Data:** 2026-10-16 | **Ciclo:** 189 | **Articoli analizzati:** 184
 
 ## Stato attuale della conoscenza
 
@@ -18,6 +18,7 @@
 
 ## Articoli recenti dai feed
 
+- **Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline** (N/A)
 - **Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection** (N/A)
 - **Developing Gemini 4 Argon responsibly and safely** (N/A)
 - **Run fast, private agents on-device with LFM2.5-24B-A2B** (N/A)
@@ -25,7 +26,6 @@
 - **Gemini 4 Argon: Built to solve your hardest problems** (N/A)
 - **One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO** (N/A)
 - **EmbeddingGemma 2: an open, lightweight multimodal embedding model** (N/A)
-- **Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance** (N/A)
 
 ## Connessioni con Pokefinance
 

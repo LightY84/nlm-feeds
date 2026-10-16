@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #188
-**Data:** 2026-10-15 | **Ciclo:** 188 | **Articoli analizzati:** 410
+# Tecnologie Abilitanti IT — Sintesi Socratica #189
+**Data:** 2026-10-16 | **Ciclo:** 189 | **Articoli analizzati:** 416
 
 ## Stato attuale della conoscenza
 
@@ -19,18 +19,18 @@
 
 ## Articoli recenti dai feed
 
+- **From Containers to Sandboxes: Developer Trust in the Agentic Era** (N/A)
+- **Unblock agentic software delivery with governed code review** (2026-10-15)
+  > AI agents have changed how much code a team can produce in a day. Review queues haven’t kept up, and delivery stalls while changes wait for a closer l
+- **Deploying, maintaining, and migrating production n8n on EKS** (N/A)
+- **GitLab Secrets Manager: Govern secrets like your code** (2026-10-15)
+  > Credentials often start in an engineer's local dev environments, then get copied into unscoped CI/CD variables to keep pipelines running. Stored there
+- **Get every merge request in front of the right reviewer, faster** (2026-10-15)
+  > The code is written. Now who reviews it?The volume of code has never been greater, but delivery hasn’t kept pace. At Meta, code changes on internal pl
+- **Connect your agents to your software lifecycle with the GitLab MCP server** (2026-10-15)
+  > Agents are working across your team's software development lifecycle, but most still operate as separate tools, leaving the context, handoffs, and per
 - **Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp** (N/A)
 - **Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals** (N/A)
-- **Gemini 4 Argon on GitLab: Built for long-running agentic work** (2026-10-14)
-  > As AI models take on longer, multi-step work, the challenge is putting that power to use across the software lifecycle without adding risk or cost. Te
-- **Scaling Git for the agentic software factory** (2026-10-13)
-  > AI agents are fundamentally changing the economics of software development. As the cost of producing code falls, the volume of changes moving through 
-- **Make every AI credit count: See, cap, and reduce agent spend** (2026-10-13)
-  > Costs multiply with every task you hand to an agent. Each task consumes tokens and credits, and as agents spread across your teams and automations, co
-- **GitLab's agent orchestration eliminates the wait between development stages** (2026-10-13)
-  > AI coding tools have changed how fast software gets written, but not how fast it ships. As code generation accelerates, the bottleneck moves downstrea
-- **Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions** (N/A)
-- **Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026** (N/A)
 
 ## Connessioni con Pokefinance
 

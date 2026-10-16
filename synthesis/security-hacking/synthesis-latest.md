@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #188
-**Data:** 2026-10-15 | **Ciclo:** 188 | **Articoli analizzati:** 1116
+# Security & Hacking — Sintesi Socratica #189
+**Data:** 2026-10-16 | **Ciclo:** 189 | **Articoli analizzati:** 1122
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **BeyondTrust patches zero-day exploited in attacks since August** (N/A)
+- **Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers** (N/A)
+- **Fake Arch Linux packages push malware with root privileges** (N/A)
+- **Burger King Japan data breach exposes 11 million customer records** (N/A)
+- **Microsoft: October Windows update may break Smart App Control** (N/A)
+- **BAE Systems cyberattack disrupts US federal court operations** (N/A)
 - **Ledger asks sellers across Asia to halt sales after supply-chain attack** (N/A)
 - **Cisco patches new Secure Email Gateway zero-day exploited in attacks** (N/A)
-- **Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads** (N/A)
-- **Is AI pentesting as good as a human pentester?** (N/A)
-- **UK Legal Aid Agency: Hackers stole records dating back to 1978** (N/A)
-- **Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks** (N/A)
-- **Hirudo Android malware replaces banking apps to evade security checks** (N/A)
-- **Microsoft: Recent Windows updates may trigger Remote Desktop failures** (N/A)
 
 ## Connessioni con Pokefinance
 
