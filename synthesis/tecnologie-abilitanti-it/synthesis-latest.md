@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #189
-**Data:** 2026-10-16 | **Ciclo:** 189 | **Articoli analizzati:** 416
+# Tecnologie Abilitanti IT — Sintesi Socratica #190
+**Data:** 2026-10-17 | **Ciclo:** 190 | **Articoli analizzati:** 418
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,8 @@
 
 ## Articoli recenti dai feed
 
+- **Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry** (N/A)
+- **Extending Kubernetes policy enforcement to runtime security for AI workloads** (N/A)
 - **From Containers to Sandboxes: Developer Trust in the Agentic Era** (N/A)
 - **Unblock agentic software delivery with governed code review** (2026-10-15)
   > AI agents have changed how much code a team can produce in a day. Review queues haven’t kept up, and delivery stalls while changes wait for a closer l
@@ -29,8 +31,6 @@
   > The code is written. Now who reviews it?The volume of code has never been greater, but delivery hasn’t kept pace. At Meta, code changes on internal pl
 - **Connect your agents to your software lifecycle with the GitLab MCP server** (2026-10-15)
   > Agents are working across your team's software development lifecycle, but most still operate as separate tools, leaving the context, handoffs, and per
-- **Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp** (N/A)
-- **Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals** (N/A)
 
 ## Connessioni con Pokefinance
 

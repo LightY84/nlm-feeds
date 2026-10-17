@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #189
-**Data:** 2026-10-16 | **Ciclo:** 189 | **Articoli analizzati:** 1122
+# Security & Hacking — Sintesi Socratica #190
+**Data:** 2026-10-17 | **Ciclo:** 190 | **Articoli analizzati:** 1128
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack** (N/A)
+- **Drupal patches critical RCE flaws, warns exploits may emerge soon** (N/A)
+- **Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants** (N/A)
+- **Critical BlockStrap flaw lets hackers run code on Magento servers** (N/A)
+- **Targeted ads installed Candiru spyware in zero-click attacks** (N/A)
+- **MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon** (N/A)
 - **BeyondTrust patches zero-day exploited in attacks since August** (N/A)
 - **Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers** (N/A)
-- **Fake Arch Linux packages push malware with root privileges** (N/A)
-- **Burger King Japan data breach exposes 11 million customer records** (N/A)
-- **Microsoft: October Windows update may break Smart App Control** (N/A)
-- **BAE Systems cyberattack disrupts US federal court operations** (N/A)
-- **Ledger asks sellers across Asia to halt sales after supply-chain attack** (N/A)
-- **Cisco patches new Secure Email Gateway zero-day exploited in attacks** (N/A)
 
 ## Connessioni con Pokefinance
 
