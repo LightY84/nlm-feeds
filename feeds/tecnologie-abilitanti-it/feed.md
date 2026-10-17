@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-17
+
+### [Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry](https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/)
+*Thu, 15 Oc*
+
+At Observability Summit Europe 2026 in Prague, I presented a keynote titled Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry. The talk explored how Software Carbon Intensity (SCI) could become part of cloud-native observability...
+
+---
+### [Extending Kubernetes policy enforcement to runtime security for AI workloads](https://www.cncf.io/blog/2026/10/15/extending-kubernetes-policy-enforcement-to-runtime-security-for-ai-workloads/)
+*Thu, 15 Oc*
+
+Nirmata created Kyverno and donated it to the CNCF in 2020. Kyverno is now a graduated CNCF project and is widely used for enforcing and automating configuration security and best practices.&#160; However, admission control answers one...
+
+---
+
 ## Aggiornamento 2026-10-16
 
 ### [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/)
