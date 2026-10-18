@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #190
-**Data:** 2026-10-17 | **Ciclo:** 190 | **Articoli analizzati:** 1128
+# Security & Hacking — Sintesi Socratica #191
+**Data:** 2026-10-18 | **Ciclo:** 191 | **Articoli analizzati:** 1134
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Hackers exploit SiteGuard WAF flaw to run commands as admins** (N/A)
+- **UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing** (N/A)
+- **China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers** (N/A)
+- **ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants** (N/A)
+- **Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug** (N/A)
+- **Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor** (N/A)
 - **Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack** (N/A)
 - **Drupal patches critical RCE flaws, warns exploits may emerge soon** (N/A)
-- **Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants** (N/A)
-- **Critical BlockStrap flaw lets hackers run code on Magento servers** (N/A)
-- **Targeted ads installed Candiru spyware in zero-click attacks** (N/A)
-- **MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon** (N/A)
-- **BeyondTrust patches zero-day exploited in attacks since August** (N/A)
-- **Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers** (N/A)
 
 ## Connessioni con Pokefinance
 
