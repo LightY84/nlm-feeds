@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-19
+
+### [Three developer tasks worth handing to an agent](https://about.gitlab.com/blog/three-developer-tasks-worth-handing-to-an-agent/)
+*2026-10-19*
+
+You already have an AI assistant. It completes your code, explains code you didn’t write, and maybe even drafts a whole feature while you sip your coffee. An agent on GitLab picks up where your editor stops.The AI in your editor only knows what's open in your editor. It doesn't know tha...
+
+---
+### [Building AI security in the open](https://about.gitlab.com/blog/gitlab-joins-open-secure-ai-alliance/)
+*2026-10-19*
+
+When code becomes abundant trust becomes scarce.That is the argument GitLab CEO Bill Staples made in his recent essay: AI is collapsing the cost of producing software, and everything around production, including c...
+
+---
+### [How AI workloads are reshaping Kubernetes autoscaling](https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/)
+*Mon, 19 Oc*
+
+Kubernetes has quietly run much of the world’s containerized software on a division of labor between two control loops that rarely had to talk to each other. The scheduler places each pod on a node that...
+
+---
+
 ## Aggiornamento 2026-10-17
 
 ### [Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry](https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/)
