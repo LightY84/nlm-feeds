@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #191
-**Data:** 2026-10-18 | **Ciclo:** 191 | **Articoli analizzati:** 1134
+# Security & Hacking — Sintesi Socratica #192
+**Data:** 2026-10-19 | **Ciclo:** 192 | **Articoli analizzati:** 1140
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **OpenCode hack exposes API keys amid AI distillation attacks** (N/A)
+- **Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor** (N/A)
+- **Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor** (N/A)
+- **F5 releases out-of-band patches for critical NGINX vulnerabilities** (N/A)
+- **Microsoft: October Windows Server updates break Exchange sign-in, mail flow** (N/A)
+- **GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories** (N/A)
 - **Hackers exploit SiteGuard WAF flaw to run commands as admins** (N/A)
 - **UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing** (N/A)
-- **China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers** (N/A)
-- **ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants** (N/A)
-- **Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug** (N/A)
-- **Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor** (N/A)
-- **Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack** (N/A)
-- **Drupal patches critical RCE flaws, warns exploits may emerge soon** (N/A)
 
 ## Connessioni con Pokefinance
 

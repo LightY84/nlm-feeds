@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #191
-**Data:** 2026-10-18 | **Ciclo:** 191 | **Articoli analizzati:** 418
+# Tecnologie Abilitanti IT — Sintesi Socratica #192
+**Data:** 2026-10-19 | **Ciclo:** 192 | **Articoli analizzati:** 421
 
 ## Stato attuale della conoscenza
 
@@ -19,18 +19,17 @@
 
 ## Articoli recenti dai feed
 
+- **Three developer tasks worth handing to an agent** (2026-10-19)
+  > You already have an AI assistant. It completes your code, explains code you didn’t write, and maybe even drafts a whole feature while you sip your cof
+- **Building AI security in the open** (2026-10-19)
+  > When code becomes abundant trust becomes scarce.That is the argument GitLab CEO Bill Staples made in his recent essay: AI is collapsing the cost of pr
+- **How AI workloads are reshaping Kubernetes autoscaling** (N/A)
 - **Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry** (N/A)
 - **Extending Kubernetes policy enforcement to runtime security for AI workloads** (N/A)
 - **From Containers to Sandboxes: Developer Trust in the Agentic Era** (N/A)
 - **Unblock agentic software delivery with governed code review** (2026-10-15)
   > AI agents have changed how much code a team can produce in a day. Review queues haven’t kept up, and delivery stalls while changes wait for a closer l
 - **Deploying, maintaining, and migrating production n8n on EKS** (N/A)
-- **GitLab Secrets Manager: Govern secrets like your code** (2026-10-15)
-  > Credentials often start in an engineer's local dev environments, then get copied into unscoped CI/CD variables to keep pipelines running. Stored there
-- **Get every merge request in front of the right reviewer, faster** (2026-10-15)
-  > The code is written. Now who reviews it?The volume of code has never been greater, but delivery hasn’t kept pace. At Meta, code changes on internal pl
-- **Connect your agents to your software lifecycle with the GitLab MCP server** (2026-10-15)
-  > Agents are working across your team's software development lifecycle, but most still operate as separate tools, leaving the context, handoffs, and per
 
 ## Connessioni con Pokefinance
 
