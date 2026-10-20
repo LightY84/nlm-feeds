@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #192
-**Data:** 2026-10-19 | **Ciclo:** 192 | **Articoli analizzati:** 1140
+# Security & Hacking — Sintesi Socratica #193
+**Data:** 2026-10-20 | **Ciclo:** 193 | **Articoli analizzati:** 1146
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Windows Server 2025 gets support for quick machine recovery** (N/A)
+- **OVHcloud CLI releases backdoored on GitHub to steal developer secrets** (N/A)
+- **Ahold Delhaize: Cyberattack affects services across US and Europe** (N/A)
+- **DHS bans DeepSeek products across US federal civilian agencies** (N/A)
+- **CJIS v6.1 Compliance: 5 Practical Priorities for Agencies** (N/A)
+- **Hacker gets 8 years for stealing $3.3 million from taxpayers** (N/A)
 - **OpenCode hack exposes API keys amid AI distillation attacks** (N/A)
 - **Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor** (N/A)
-- **Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor** (N/A)
-- **F5 releases out-of-band patches for critical NGINX vulnerabilities** (N/A)
-- **Microsoft: October Windows Server updates break Exchange sign-in, mail flow** (N/A)
-- **GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories** (N/A)
-- **Hackers exploit SiteGuard WAF flaw to run commands as admins** (N/A)
-- **UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing** (N/A)
 
 ## Connessioni con Pokefinance
 

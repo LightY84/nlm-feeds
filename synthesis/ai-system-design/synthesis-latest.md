@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #192
-**Data:** 2026-10-19 | **Ciclo:** 192 | **Articoli analizzati:** 184
+# AI & System Design — Sintesi Socratica #193
+**Data:** 2026-10-20 | **Ciclo:** 193 | **Articoli analizzati:** 186
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **FairStress: A deeper evaluation of fairness in LLM decision-making** (N/A)
+- **TorchNeuron: running HF models on AWS Trainium is easier than ever** (N/A)
 - **Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline** (N/A)
 - **Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection** (N/A)
 - **Developing Gemini 4 Argon responsibly and safely** (N/A)
 - **Run fast, private agents on-device with LFM2.5-24B-A2B** (N/A)
 - **Gemini 4 Argon for Robotics** (N/A)
 - **Gemini 4 Argon: Built to solve your hardest problems** (N/A)
-- **One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO** (N/A)
-- **EmbeddingGemma 2: an open, lightweight multimodal embedding model** (N/A)
 
 ## Connessioni con Pokefinance
 

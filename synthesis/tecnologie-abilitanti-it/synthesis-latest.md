@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #192
-**Data:** 2026-10-19 | **Ciclo:** 192 | **Articoli analizzati:** 421
+# Tecnologie Abilitanti IT — Sintesi Socratica #193
+**Data:** 2026-10-20 | **Ciclo:** 193 | **Articoli analizzati:** 423
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,10 @@
 
 ## Articoli recenti dai feed
 
+- **Redesign how your team ships software with AI agents** (2026-10-20)
+  > AI agents are sending more and more code into review queues built for human-paced work. A coding assistant can speed up code writing, but it can’t sho
+- **AI Governance: One view of agent activity** (2026-10-20)
+  > AI coding agents are writing and changing code, from GitLab Duo Agent Platform agents to externally connected agents like Claude Code, Cursor, and Cod
 - **Three developer tasks worth handing to an agent** (2026-10-19)
   > You already have an AI assistant. It completes your code, explains code you didn’t write, and maybe even drafts a whole feature while you sip your cof
 - **Building AI security in the open** (2026-10-19)
@@ -27,9 +31,6 @@
 - **Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry** (N/A)
 - **Extending Kubernetes policy enforcement to runtime security for AI workloads** (N/A)
 - **From Containers to Sandboxes: Developer Trust in the Agentic Era** (N/A)
-- **Unblock agentic software delivery with governed code review** (2026-10-15)
-  > AI agents have changed how much code a team can produce in a day. Review queues haven’t kept up, and delivery stalls while changes wait for a closer l
-- **Deploying, maintaining, and migrating production n8n on EKS** (N/A)
 
 ## Connessioni con Pokefinance
 
