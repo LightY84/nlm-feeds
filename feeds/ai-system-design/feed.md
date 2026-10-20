@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-20
 
+### [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress)
+*Tue, 20 Oc*
+
+
+
+---
+
+## Aggiornamento 2026-10-20
+
 ### [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron)
 *Mon, 19 Oc*
 
