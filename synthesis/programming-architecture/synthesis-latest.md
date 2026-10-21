@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #193
-**Data:** 2026-10-20 | **Ciclo:** 193 | **Articoli analizzati:** 49
+# Programming & Architecture — Sintesi Socratica #194
+**Data:** 2026-10-21 | **Ciclo:** 194 | **Articoli analizzati:** 50
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,8 @@
 
 ## Articoli recenti dai feed
 
+- **Fragments: October 21** (2026-10-21)
+  > Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect som
 - **Are Harnesses Worth the Cost?** (2026-10-13)
   > Naresh Jain compares coding agents building the same API service ...
 - **Building resilient systems with Sam Newman** (N/A)
@@ -34,8 +36,6 @@
   > Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn
 - **I don't like LLMs** (2026-09-17)
   > I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in producti
-- **Fragments: September 16** (2026-09-16)
-  > Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willi
 
 ## Connessioni con Pokefinance
 

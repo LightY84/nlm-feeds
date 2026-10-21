@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #193
-**Data:** 2026-10-20 | **Ciclo:** 193 | **Articoli analizzati:** 1146
+# Security & Hacking — Sintesi Socratica #194
+**Data:** 2026-10-21 | **Ciclo:** 194 | **Articoli analizzati:** 1152
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Stolen UpdraftCentral keys used to backdoor WordPress sites** (N/A)
+- **PHP warns admins of two critical flaws, emergency patches coming tomorrow** (N/A)
+- **Zeabur shutting down after second security breach in two months** (N/A)
+- **PHP ships emergency patches for critical PHP2Shell flaws** (N/A)
+- **ClickFix has never been bigger, and AI tools are its most convincing lure yet** (N/A)
+- **CISA: SafePay ransomware hit over 600 critical infrastructure orgs** (N/A)
 - **Windows Server 2025 gets support for quick machine recovery** (N/A)
 - **OVHcloud CLI releases backdoored on GitHub to steal developer secrets** (N/A)
-- **Ahold Delhaize: Cyberattack affects services across US and Europe** (N/A)
-- **DHS bans DeepSeek products across US federal civilian agencies** (N/A)
-- **CJIS v6.1 Compliance: 5 Practical Priorities for Agencies** (N/A)
-- **Hacker gets 8 years for stealing $3.3 million from taxpayers** (N/A)
-- **OpenCode hack exposes API keys amid AI distillation attacks** (N/A)
-- **Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor** (N/A)
 
 ## Connessioni con Pokefinance
 
