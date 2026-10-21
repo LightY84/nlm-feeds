@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-21
+
+### [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
+*Wed, 21 Oc*
+
+
+
+---
+
 ## Aggiornamento 2026-10-20
 
 ### [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress)

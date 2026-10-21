@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-21
+
+### [Uncover the business logic vulnerabilities SAST scanners miss](https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/)
+*2026-10-20*
+
+Broken object-level authorization ranks first on the OWASP API Security Top 10, and OWASP says that traditional static application secu...
+
+---
+### [Before you evaluate an AI SRE, give your existing agent context](https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/)
+*Wed, 21 Oc*
+
+If you&#8217;re evaluating AI SRE products, you probably own most of one already. The coding agent your engineers use, whether that&#8217;s Claude Code, Codex or Cursor, can already investigate a Kubernetes cluster. What it usually lacks...
+
+---
+
 ## Aggiornamento 2026-10-20
 
 ### [Redesign how your team ships software with AI agents](https://about.gitlab.com/blog/redesign-how-your-team-ships-software-with-ai-agents/)

@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-21
+
+### [Fragments: October 21](https://martinfowler.com/fragments/2026-10-21.html)
+*2026-10-21*
+
+Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say:
+
+
+  When I start to suspect some part is AI about someone I don’t know: how can I te...
+
+---
+
 ## Aggiornamento 2026-10-13
 
 ### [Are Harnesses Worth the Cost?](https://martinfowler.com/articles/are-harnesses-worth-the-cost.html)
