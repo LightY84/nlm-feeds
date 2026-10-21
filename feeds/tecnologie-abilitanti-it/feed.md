@@ -3,6 +3,28 @@
 
 ## Aggiornamento 2026-10-21
 
+### [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/)
+*Wed, 21 Oc*
+
+Run AI agents in Docker Sandboxes with BAND AI. Learn how to connect isolated agents, collaborate across environments, and manage access securely.
+
+---
+### [From baseline to Secure Software Factory: securing the systems that build your software](https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/)
+*Wed, 21 Oc*
+
+In July, Docker, Snyk and Keycard published Agent Baseline, an open, vendor-neutral reference architecture that defines security outcomes for running AI agents in the enterprise. It grew out of conversations with industry leaders who want to adopt agents more broadly but need answers to three que...
+
+---
+### [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/)
+*Wed, 21 Oc*
+
+We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.
+The post <a href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-inf...
+
+---
+
+## Aggiornamento 2026-10-21
+
 ### [Uncover the business logic vulnerabilities SAST scanners miss](https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/)
 *2026-10-20*
 

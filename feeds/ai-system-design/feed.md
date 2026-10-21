@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-21
 
+### [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
+*Wed, 21 Oc*
+
+
+
+---
+
+## Aggiornamento 2026-10-21
+
 ### [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast)
 *Wed, 21 Oc*
 
