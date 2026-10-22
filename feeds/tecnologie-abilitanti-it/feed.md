@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-22
+
+### [ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers](https://www.docker.com/blog/docker-activestate-partnership/)
+*Thu, 22 Oc*
+
+Container security spans the image, build, and runtime. See the practical steps that shrink your attack surface and keep vulnerabilities out of production.
+
+---
+
 ## Aggiornamento 2026-10-21
 
 ### [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/)

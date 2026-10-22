@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-22
+
+### [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+*Wed, 21 Oc*
+
+
+
+---
+### [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+*Wed, 21 Oc*
+
+
+
+---
+
 ## Aggiornamento 2026-10-21
 
 ### [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
