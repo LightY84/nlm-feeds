@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #194
-**Data:** 2026-10-21 | **Ciclo:** 194 | **Articoli analizzati:** 428
+# Tecnologie Abilitanti IT — Sintesi Socratica #195
+**Data:** 2026-10-22 | **Ciclo:** 195 | **Articoli analizzati:** 429
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers** (N/A)
 - **Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.** (N/A)
 - **From baseline to Secure Software Factory: securing the systems that build your software** (N/A)
 - **The bridge to agent-scale Git infrastructure** (N/A)
@@ -29,8 +30,6 @@
   > AI agents are sending more and more code into review queues built for human-paced work. A coding assistant can speed up code writing, but it can’t sho
 - **AI Governance: One view of agent activity** (2026-10-20)
   > AI coding agents are writing and changing code, from GitLab Duo Agent Platform agents to externally connected agents like Claude Code, Cursor, and Cod
-- **Three developer tasks worth handing to an agent** (2026-10-19)
-  > You already have an AI assistant. It completes your code, explains code you didn’t write, and maybe even drafts a whole feature while you sip your cof
 
 ## Connessioni con Pokefinance
 

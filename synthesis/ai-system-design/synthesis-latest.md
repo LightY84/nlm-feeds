@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #194
-**Data:** 2026-10-21 | **Ciclo:** 194 | **Articoli analizzati:** 188
+# AI & System Design — Sintesi Socratica #195
+**Data:** 2026-10-22 | **Ciclo:** 195 | **Articoli analizzati:** 191
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **OlmoEarth v1.3: State-of-the-art embeddings for the whole planet** (N/A)
+- **NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required** (N/A)
+- **How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications** (N/A)
 - **Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.** (N/A)
 - **NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability** (N/A)
 - **FairStress: A deeper evaluation of fairness in LLM decision-making** (N/A)
 - **TorchNeuron: running HF models on AWS Trainium is easier than ever** (N/A)
 - **Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline** (N/A)
-- **Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection** (N/A)
-- **Developing Gemini 4 Argon responsibly and safely** (N/A)
-- **Run fast, private agents on-device with LFM2.5-24B-A2B** (N/A)
 
 ## Connessioni con Pokefinance
 

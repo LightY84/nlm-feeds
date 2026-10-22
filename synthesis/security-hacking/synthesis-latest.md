@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #194
-**Data:** 2026-10-21 | **Ciclo:** 194 | **Articoli analizzati:** 1152
+# Security & Hacking — Sintesi Socratica #195
+**Data:** 2026-10-22 | **Ciclo:** 195 | **Articoli analizzati:** 1158
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Arista patches new VeloCloud Orchestrator zero-day exploited in attacks** (N/A)
+- **Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks** (N/A)
+- **Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected** (N/A)
+- **Machine speed attacks require machine speed detection and response** (N/A)
+- **Amazon says PHP2Shell exploitation began 4 days before patches** (N/A)
+- **GitLab warns of new max severity code execution vulnerability** (N/A)
 - **Stolen UpdraftCentral keys used to backdoor WordPress sites** (N/A)
 - **PHP warns admins of two critical flaws, emergency patches coming tomorrow** (N/A)
-- **Zeabur shutting down after second security breach in two months** (N/A)
-- **PHP ships emergency patches for critical PHP2Shell flaws** (N/A)
-- **ClickFix has never been bigger, and AI tools are its most convincing lure yet** (N/A)
-- **CISA: SafePay ransomware hit over 600 critical infrastructure orgs** (N/A)
-- **Windows Server 2025 gets support for quick machine recovery** (N/A)
-- **OVHcloud CLI releases backdoored on GitHub to steal developer secrets** (N/A)
 
 ## Connessioni con Pokefinance
 
