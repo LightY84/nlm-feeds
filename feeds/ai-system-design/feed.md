@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-22
 
+### [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3)
+*Thu, 22 Oc*
+
+
+
+---
+
+## Aggiornamento 2026-10-22
+
 ### [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
 *Wed, 21 Oc*
 
