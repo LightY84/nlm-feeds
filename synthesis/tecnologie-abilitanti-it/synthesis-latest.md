@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #195
-**Data:** 2026-10-22 | **Ciclo:** 195 | **Articoli analizzati:** 429
+# Tecnologie Abilitanti IT — Sintesi Socratica #196
+**Data:** 2026-10-23 | **Ciclo:** 196 | **Articoli analizzati:** 432
 
 ## Stato attuale della conoscenza
 
@@ -19,17 +19,16 @@
 
 ## Articoli recenti dai feed
 
+- **Security Update on PHP2Shell: Impact for Docker Customers** (N/A)
+- **PHP2Shell: GitLab helps find and remediate critical PHP flaws** (2026-10-22)
+  > GitLab is not affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619). The GitLab application is not written in PHP and does not run it to serve w
+- **Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi** (N/A)
 - **ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers** (N/A)
 - **Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.** (N/A)
 - **From baseline to Secure Software Factory: securing the systems that build your software** (N/A)
 - **The bridge to agent-scale Git infrastructure** (N/A)
 - **Uncover the business logic vulnerabilities SAST scanners miss** (2026-10-20)
   > Broken object-level authorization ranks first on the OWASP API Security Top 10, and OWASP says that traditional static application secu...
-- **Before you evaluate an AI SRE, give your existing agent context** (N/A)
-- **Redesign how your team ships software with AI agents** (2026-10-20)
-  > AI agents are sending more and more code into review queues built for human-paced work. A coding assistant can speed up code writing, but it can’t sho
-- **AI Governance: One view of agent activity** (2026-10-20)
-  > AI coding agents are writing and changing code, from GitLab Duo Agent Platform agents to externally connected agents like Claude Code, Cursor, and Cod
 
 ## Connessioni con Pokefinance
 
