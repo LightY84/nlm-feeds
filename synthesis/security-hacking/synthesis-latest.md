@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #196
-**Data:** 2026-10-23 | **Ciclo:** 196 | **Articoli analizzati:** 1161
+# Security & Hacking — Sintesi Socratica #197
+**Data:** 2026-10-24 | **Ciclo:** 197 | **Articoli analizzati:** 1167
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot** (N/A)
+- **PHP shares mitigation for new RCE vulnerability with no patch** (N/A)
+- **LiteLLM release pipeline hacked to distribute info-stealer malware** (N/A)
+- **Abandoned Popcorn Time app exposed millions of devices to RCE attacks** (N/A)
+- **Microsoft: Windows Server 2016 reaches end of support in January** (N/A)
+- **Quest Diagnostics confirms data breach exposed patient records** (N/A)
 - **HPE patches eight max severity RCE and auth bypass AOS flaws** (N/A)
 - **Railway warns devs to rotate secrets after potential breach** (N/A)
-- **Capcom confirms data breach affecting 11.7 million accounts** (N/A)
-- **Arista patches new VeloCloud Orchestrator zero-day exploited in attacks** (N/A)
-- **Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks** (N/A)
-- **Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected** (N/A)
-- **Machine speed attacks require machine speed detection and response** (N/A)
-- **Amazon says PHP2Shell exploitation began 4 days before patches** (N/A)
 
 ## Connessioni con Pokefinance
 
