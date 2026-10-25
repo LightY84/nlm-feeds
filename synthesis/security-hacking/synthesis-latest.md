@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #197
-**Data:** 2026-10-24 | **Ciclo:** 197 | **Articoli analizzati:** 1167
+# Security & Hacking — Sintesi Socratica #198
+**Data:** 2026-10-25 | **Ciclo:** 198 | **Articoli analizzati:** 1173
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet** (N/A)
+- **CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud** (N/A)
+- **BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations** (N/A)
+- **OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication** (N/A)
+- **Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software** (N/A)
+- **Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline** (N/A)
 - **BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot** (N/A)
 - **PHP shares mitigation for new RCE vulnerability with no patch** (N/A)
-- **LiteLLM release pipeline hacked to distribute info-stealer malware** (N/A)
-- **Abandoned Popcorn Time app exposed millions of devices to RCE attacks** (N/A)
-- **Microsoft: Windows Server 2016 reaches end of support in January** (N/A)
-- **Quest Diagnostics confirms data breach exposed patient records** (N/A)
-- **HPE patches eight max severity RCE and auth bypass AOS flaws** (N/A)
-- **Railway warns devs to rotate secrets after potential breach** (N/A)
 
 ## Connessioni con Pokefinance
 
