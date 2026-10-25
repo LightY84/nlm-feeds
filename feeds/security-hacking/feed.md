@@ -1,6 +1,33 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-25
+
+### [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
+*Sun, 25 Oc*
+
+OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.
+
+"Based on the current state of alignment research, monitoring systems, and the security of interne...
+
+---
+### [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
+*Sat, 24 Oc*
+
+A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli.
+
+Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted com...
+
+---
+### [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
+*Sat, 24 Oc*
+
+LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.
+
+"On May 27, 2026, a configuration file was committed to the public Lit...
+
+---
+
 ## Aggiornamento 2026-10-24
 
 ### [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
