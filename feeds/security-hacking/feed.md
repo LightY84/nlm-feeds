@@ -3,6 +3,31 @@
 
 ## Aggiornamento 2026-10-26
 
+### [Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches](https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/)
+*Mon, 26 Oc*
+
+A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]
+
+---
+### [PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw](https://thehackernews.com/2026/10/php-issues-second-windows-security.html)
+*Mon, 26 Oc*
+
+PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.
+
+PHP says the flaw can be reached through the cURL extension when...
+
+---
+### [Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware](https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html)
+*Mon, 26 Oc*
+
+Cybersecurity researchers are calling attention to what they say is a "recurring social engineering pattern" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware.
+
+"A consistent pattern of attacker...
+
+---
+
+## Aggiornamento 2026-10-26
+
 ### [Microsoft releases emergency .NET patches for critical Brotli flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/)
 *Mon, 26 Oc*
 
