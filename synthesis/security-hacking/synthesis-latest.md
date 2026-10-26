@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #198
-**Data:** 2026-10-25 | **Ciclo:** 198 | **Articoli analizzati:** 1173
+# Security & Hacking — Sintesi Socratica #199
+**Data:** 2026-10-26 | **Ciclo:** 199 | **Articoli analizzati:** 1179
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches** (N/A)
+- **PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw** (N/A)
+- **Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware** (N/A)
+- **Microsoft releases emergency .NET patches for critical Brotli flaw** (N/A)
+- **Kali Linux 2026.3 released with 6 new tools, desktop updates** (N/A)
+- **PHP2Shell security flaws now sucessfully exploited in the wild** (N/A)
 - **Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet** (N/A)
 - **CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud** (N/A)
-- **BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations** (N/A)
-- **OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication** (N/A)
-- **Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software** (N/A)
-- **Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline** (N/A)
-- **BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot** (N/A)
-- **PHP shares mitigation for new RCE vulnerability with no patch** (N/A)
 
 ## Connessioni con Pokefinance
 

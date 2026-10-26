@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #198
-**Data:** 2026-10-25 | **Ciclo:** 198 | **Articoli analizzati:** 432
+# Tecnologie Abilitanti IT — Sintesi Socratica #199
+**Data:** 2026-10-26 | **Ciclo:** 199 | **Articoli analizzati:** 433
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **PHP2Shell and eMudhra Patched** (N/A)
 - **Security Update on PHP2Shell: Impact for Docker Customers** (N/A)
 - **PHP2Shell: GitLab helps find and remediate critical PHP flaws** (2026-10-22)
   > GitLab is not affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619). The GitLab application is not written in PHP and does not run it to serve w
@@ -27,8 +28,6 @@
 - **Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.** (N/A)
 - **From baseline to Secure Software Factory: securing the systems that build your software** (N/A)
 - **The bridge to agent-scale Git infrastructure** (N/A)
-- **Uncover the business logic vulnerabilities SAST scanners miss** (2026-10-20)
-  > Broken object-level authorization ranks first on the OWASP API Security Top 10, and OWASP says that traditional static application secu...
 
 ## Connessioni con Pokefinance
 
