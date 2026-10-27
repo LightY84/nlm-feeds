@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-10-27
 
+### [Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery](https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/)
+*Tue, 27 Oc*
+
+Since launching the Kubestronaut program at KubeCon Paris in 2024, the community has grown faster than expected. Today, more than 570 professionals have reached an even higher bar: Golden Kubestronaut status. Becoming a standard Kubestronaut is...
+
+---
+
+## Aggiornamento 2026-10-27
+
 ### [Announcing the Workload Conformance Working Group](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/)
 *Tue, 27 Oc*
 
