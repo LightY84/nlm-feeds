@@ -1,6 +1,28 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-27
+
+### [Announcing the Workload Conformance Working Group](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/)
+*Tue, 27 Oc*
+
+We are excited to announce that the Kubernetes community now has a Workload Conformance Working Group.
+The working group is writing a shared standard for how <a href="https://kubernetes.io/docs/concept...
+
+---
+### [Extend GitLab Duo Agent Platform into your business systems](https://about.gitlab.com/blog/extend-gitlab-duo-agent-platform-into-your-business-systems/)
+*2026-10-27*
+
+Developers mostly use GitLab Duo Agent Platform where they already work: the IDE, merge requests, and issues. But DevSecOps teams also support the business systems the rest of the company runs on, and those systems break too.In Salesforce, for example, when a validation fails, a callout...
+
+---
+### [Pillow CVE-2026-112900: How to find and fix it with GitLab](https://about.gitlab.com/blog/pillow-cve-find-and-fix-with-gitlab/)
+*2026-10-26*
+
+GitLab is not affected by CVE-2026-112900 or the other vulnerabilities fixed in Pillow 13.0.0. GitLab products do not include the Pillow library, and our Security team has found no evidence of impact to GitLab-managed infrastructure. GitLab.com, GitLab Self-Managed, and Git...
+
+---
+
 ## Aggiornamento 2026-10-26
 
 ### [PHP2Shell and eMudhra Patched](https://www.docker.com/blog/php2shell-and-emudhra-patched/)
