@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #199
-**Data:** 2026-10-26 | **Ciclo:** 199 | **Articoli analizzati:** 1179
+# Security & Hacking — Sintesi Socratica #200
+**Data:** 2026-10-27 | **Ciclo:** 200 | **Articoli analizzati:** 1185
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Warp discloses breach exposing AI agent logs, user telemetry data** (N/A)
+- **Energy giant ENGIE discloses data breach affecting customers** (N/A)
+- **CISA confirms PHP2Shell vulnerabilities now exploited in attacks** (N/A)
+- **Tailscale warns of SSH flaws allowing root privilege escalation** (N/A)
+- **The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest** (N/A)
+- **Apple backports CoreGraphics zero-day patches to older iPhones** (N/A)
 - **Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches** (N/A)
 - **PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw** (N/A)
-- **Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware** (N/A)
-- **Microsoft releases emergency .NET patches for critical Brotli flaw** (N/A)
-- **Kali Linux 2026.3 released with 6 new tools, desktop updates** (N/A)
-- **PHP2Shell security flaws now sucessfully exploited in the wild** (N/A)
-- **Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet** (N/A)
-- **CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud** (N/A)
 
 ## Connessioni con Pokefinance
 

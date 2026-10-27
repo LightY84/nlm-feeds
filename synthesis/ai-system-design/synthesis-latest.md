@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #199
-**Data:** 2026-10-26 | **Ciclo:** 199 | **Articoli analizzati:** 193
+# AI & System Design — Sintesi Socratica #200
+**Data:** 2026-10-27 | **Ciclo:** 200 | **Articoli analizzati:** 194
 
 ## Stato attuale della conoscenza
 
@@ -18,6 +18,7 @@
 
 ## Articoli recenti dai feed
 
+- **Can we trust LLMs to judge whether a research idea is novel?** (N/A)
 - **Does Your Model Run on AWS Trainium? Look It Up** (N/A)
 - **Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox** (N/A)
 - **OlmoEarth v1.3: State-of-the-art embeddings for the whole planet** (N/A)
@@ -25,7 +26,6 @@
 - **How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications** (N/A)
 - **Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.** (N/A)
 - **NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability** (N/A)
-- **FairStress: A deeper evaluation of fairness in LLM decision-making** (N/A)
 
 ## Connessioni con Pokefinance
 
