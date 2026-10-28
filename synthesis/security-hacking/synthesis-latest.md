@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #200
-**Data:** 2026-10-27 | **Ciclo:** 200 | **Articoli analizzati:** 1185
+# Security & Hacking — Sintesi Socratica #201
+**Data:** 2026-10-28 | **Ciclo:** 201 | **Articoli analizzati:** 1191
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Sony ISP subsidiary data breach exposes 2.5 million customer records** (N/A)
+- **Even after PHP2Shell, blast radius matters more than a CVSS score** (N/A)
+- **Hackers now scanning systems for recently-patched Oracle flaw** (N/A)
+- **Volt Typhoon hides zero-day attacks using 'Silent Train' framework** (N/A)
+- **Microsoft urges Entra ID admins to migrate users to passkeys** (N/A)
+- **InfraTrust report warns of exploited flaws in critical network infrastructure** (N/A)
 - **Warp discloses breach exposing AI agent logs, user telemetry data** (N/A)
 - **Energy giant ENGIE discloses data breach affecting customers** (N/A)
-- **CISA confirms PHP2Shell vulnerabilities now exploited in attacks** (N/A)
-- **Tailscale warns of SSH flaws allowing root privilege escalation** (N/A)
-- **The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest** (N/A)
-- **Apple backports CoreGraphics zero-day patches to older iPhones** (N/A)
-- **Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches** (N/A)
-- **PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw** (N/A)
 
 ## Connessioni con Pokefinance
 

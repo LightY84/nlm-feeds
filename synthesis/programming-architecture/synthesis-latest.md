@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #200
-**Data:** 2026-10-27 | **Ciclo:** 200 | **Articoli analizzati:** 50
+# Programming & Architecture — Sintesi Socratica #201
+**Data:** 2026-10-28 | **Ciclo:** 201 | **Articoli analizzati:** 51
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,8 @@
 
 ## Articoli recenti dai feed
 
+- **Fragments: October 28** (2026-10-28)
+  > Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they hav
 - **Fragments: October 21** (2026-10-21)
   > Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect som
 - **Are Harnesses Worth the Cost?** (2026-10-13)
@@ -34,8 +36,6 @@
   > A Sensible Default is a practice that, absent some overriding context, should be used when carrying out a certain kind of task. In software developmen
 - **Fragments: September 24** (2026-09-24)
   > Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn
-- **I don't like LLMs** (2026-09-17)
-  > I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in producti
 
 ## Connessioni con Pokefinance
 

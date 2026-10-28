@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #200
-**Data:** 2026-10-27 | **Ciclo:** 200 | **Articoli analizzati:** 437
+# Tecnologie Abilitanti IT — Sintesi Socratica #201
+**Data:** 2026-10-28 | **Ciclo:** 201 | **Articoli analizzati:** 438
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program** (N/A)
 - **Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery** (N/A)
 - **Announcing the Workload Conformance Working Group** (N/A)
 - **Extend GitLab Duo Agent Platform into your business systems** (2026-10-27)
@@ -29,7 +30,6 @@
 - **Security Update on PHP2Shell: Impact for Docker Customers** (N/A)
 - **PHP2Shell: GitLab helps find and remediate critical PHP flaws** (2026-10-22)
   > GitLab is not affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619). The GitLab application is not written in PHP and does not run it to serve w
-- **Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi** (N/A)
 
 ## Connessioni con Pokefinance
 
