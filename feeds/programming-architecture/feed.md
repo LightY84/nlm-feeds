@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-28
+
+### [Fragments: October 28](https://martinfowler.com/fragments/2026-10-28.html)
+*2026-10-28*
+
+Andrej Karpathy sees a widening gap in how people see LLM capabilities.
+
+
+  The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of profess...
+
+---
+
 ## Aggiornamento 2026-10-21
 
 ### [Fragments: October 21](https://martinfowler.com/fragments/2026-10-21.html)
