@@ -1,6 +1,29 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-29
+
+### [From Working Group to SIG Architecture: spotlight on AI Conformance](https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/)
+*Thu, 29 Oc*
+
+In this SIG Architecture spotlight we talked with Janet Kuo (Google)
+and Yuan Tang (Red Hat) about the journey of AI Conformance in
+Kubernetes, from the initial <a href="https://github.com/kubernetes/commu...
+
+---
+### [Coding Agent Horror Stories: The CVE That Did Not Exist](https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/)
+*Thu, 29 Oc*
+
+An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification.
+
+---
+### [GitLab Orbit is GA: Higher agent accuracy, lower token cost](https://about.gitlab.com/blog/gitlab-orbit-ga/)
+*2026-10-29*
+
+An agent’s true cost isn’t only the tokens it burns. It’s the review that calls your code “safe to merge” after seeing the diff, but without any context on the pipeline. We call that artificial confidence, not artificial intelligence. Agents guess because code is all they can see; they can’t s...
+
+---
+
 ## Aggiornamento 2026-10-28
 
 ### [Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program](https://www.docker.com/blog/docker-navigator-partner-program/)

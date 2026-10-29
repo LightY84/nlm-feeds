@@ -1,6 +1,22 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-29
+
+### [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html)
+*2026-10-29*
+
+TL;DRGood developers’ caution about agentic development comes from knowing that built isn’t the same as working in production.
+I’ve been surprised by how many excellent developers have be...
+
+---
+### [Software engineering at Google & CS education with Titus Winters](https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and)
+*Thu, 29 Oc*
+
+Titus Winters shares lessons from engineering at Google&#8217;s scale and explores how AI is reshaping developer productivity and computer science education.
+
+---
+
 ## Aggiornamento 2026-10-28
 
 ### [Fragments: October 28](https://martinfowler.com/fragments/2026-10-28.html)
