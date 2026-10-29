@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #201
-**Data:** 2026-10-28 | **Ciclo:** 201 | **Articoli analizzati:** 438
+# Tecnologie Abilitanti IT — Sintesi Socratica #202
+**Data:** 2026-10-29 | **Ciclo:** 202 | **Articoli analizzati:** 443
 
 ## Stato attuale della conoscenza
 
@@ -19,17 +19,17 @@
 
 ## Articoli recenti dai feed
 
+- **GitLab Orbit: Find vulnerability blast radius without the manual hunt** (2026-10-29)
+  > A critical vulnerability needs a fix and a map. The fix is usually fast. Finding where the vulnerable component lives, who owns it, and whether it's e
+- **What happens when vulnerabilities are discovered faster than you can fix them?** (2026-10-28)
+  > We're entering a new era of application security. Frontier AI models are uncovering complex flaws that traditional tools overlooked, and attackers are
+- **From Working Group to SIG Architecture: spotlight on AI Conformance** (N/A)
+- **Coding Agent Horror Stories: The CVE That Did Not Exist** (N/A)
+- **GitLab Orbit is GA: Higher agent accuracy, lower token cost** (2026-10-29)
+  > An agent’s true cost isn’t only the tokens it burns. It’s the review that calls your code “safe to merge” after seeing the diff, but without any conte
 - **Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program** (N/A)
 - **Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery** (N/A)
 - **Announcing the Workload Conformance Working Group** (N/A)
-- **Extend GitLab Duo Agent Platform into your business systems** (2026-10-27)
-  > Developers mostly use GitLab Duo Agent Platform where they already work: the IDE, merge requests, and issues. But DevSecOps teams also support the bus
-- **Pillow CVE-2026-112900: How to find and fix it with GitLab** (2026-10-26)
-  > GitLab is not affected by CVE-2026-112900 or the other vulnerabilities fixed in Pillow 13.0.0. GitLab products do not include the Pillow library, and 
-- **PHP2Shell and eMudhra Patched** (N/A)
-- **Security Update on PHP2Shell: Impact for Docker Customers** (N/A)
-- **PHP2Shell: GitLab helps find and remediate critical PHP flaws** (2026-10-22)
-  > GitLab is not affected by PHP2Shell (CVE-2026-109618 and CVE-2026-109619). The GitLab application is not written in PHP and does not run it to serve w
 
 ## Connessioni con Pokefinance
 

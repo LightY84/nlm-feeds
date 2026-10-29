@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #201
-**Data:** 2026-10-28 | **Ciclo:** 201 | **Articoli analizzati:** 1191
+# Security & Hacking — Sintesi Socratica #202
+**Data:** 2026-10-29 | **Ciclo:** 202 | **Articoli analizzati:** 1197
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **New Cisco firewall zero-day exploited to crash SSL VPN devices** (N/A)
+- **CISA warns of hackers now exploiting critical Node2Shell flaw** (N/A)
+- **Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions** (N/A)
+- **Microsoft fixes Remote Desktop failures caused by recent Windows updates** (N/A)
+- **3 Ways AI Agents Already Operate in Your Browser** (N/A)
+- **CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks** (N/A)
 - **Sony ISP subsidiary data breach exposes 2.5 million customer records** (N/A)
 - **Even after PHP2Shell, blast radius matters more than a CVSS score** (N/A)
-- **Hackers now scanning systems for recently-patched Oracle flaw** (N/A)
-- **Volt Typhoon hides zero-day attacks using 'Silent Train' framework** (N/A)
-- **Microsoft urges Entra ID admins to migrate users to passkeys** (N/A)
-- **InfraTrust report warns of exploited flaws in critical network infrastructure** (N/A)
-- **Warp discloses breach exposing AI agent logs, user telemetry data** (N/A)
-- **Energy giant ENGIE discloses data breach affecting customers** (N/A)
 
 ## Connessioni con Pokefinance
 

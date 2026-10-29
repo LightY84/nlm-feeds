@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #201
-**Data:** 2026-10-28 | **Ciclo:** 201 | **Articoli analizzati:** 51
+# Programming & Architecture — Sintesi Socratica #202
+**Data:** 2026-10-29 | **Ciclo:** 202 | **Articoli analizzati:** 53
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,9 @@
 
 ## Articoli recenti dai feed
 
+- **Why are good developers so wary of agentic development?** (2026-10-29)
+  > TL;DRGood developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by 
+- **Software engineering at Google & CS education with Titus Winters** (N/A)
 - **Fragments: October 28** (2026-10-28)
   > Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they hav
 - **Fragments: October 21** (2026-10-21)
@@ -32,10 +35,6 @@
   > In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t hav
 - **Principles for effective slides** (2026-09-30)
   > Not every presentation needs slides, but when they earn their place, they work as...
-- **Bliki: Sensible Default** (2026-09-29)
-  > A Sensible Default is a practice that, absent some overriding context, should be used when carrying out a certain kind of task. In software developmen
-- **Fragments: September 24** (2026-09-24)
-  > Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn
 
 ## Connessioni con Pokefinance
 
