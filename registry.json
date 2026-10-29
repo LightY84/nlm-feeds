@@ -1192,7 +1192,10 @@
     "b906bf1acec1",
     "50aadfb48019",
     "f37ba01b6b00",
-    "b20280016145"
+    "b20280016145",
+    "c44cfd18db37",
+    "87aaec07e5bf",
+    "879452bb4332"
   ],
   "programming-architecture": [
     "3f9e47644df7",
@@ -1690,7 +1693,9 @@
     "cf3d18e8e166",
     "be4835c4d729",
     "66efe225e06a",
-    "a56cb5d0abbd"
+    "a56cb5d0abbd",
+    "1d8457e97764",
+    "5fc0767d1a15"
   ],
   "ai-system-design": [
     "aeed5283fa22",

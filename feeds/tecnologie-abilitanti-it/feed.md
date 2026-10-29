@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-10-29
 
+### [GitLab Orbit: Find vulnerability blast radius without the manual hunt](https://about.gitlab.com/blog/find-vulnerability-blast-radius-with-gitlab-orbit/)
+*2026-10-29*
+
+A critical vulnerability needs a fix and a map. The fix is usually fast. Finding where the vulnerable component lives, who owns it, and whether it's exposed to the Internet is what costs you time. Most security teams piece that answer together from scanner reports, spreadsheets, and a Slack th...
+
+---
+### [What happens when vulnerabilities are discovered faster than you can fix them?](https://about.gitlab.com/blog/security-at-machine-speed/)
+*2026-10-28*
+
+We're entering a new era of application security. Frontier AI models are uncovering complex flaws that traditional tools overlooked, and attackers are using the same models to exploit them faster. Remediation isn't keeping pace: Verizon's 2026 Data Breach Investigations Report (DBIR) measures ...
+
+---
+
+## Aggiornamento 2026-10-29
+
 ### [From Working Group to SIG Architecture: spotlight on AI Conformance](https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/)
 *Thu, 29 Oc*
 
