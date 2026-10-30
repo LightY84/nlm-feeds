@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #202
-**Data:** 2026-10-29 | **Ciclo:** 202 | **Articoli analizzati:** 1197
+# Security & Hacking — Sintesi Socratica #203
+**Data:** 2026-10-30 | **Ciclo:** 203 | **Articoli analizzati:** 1203
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Microsoft finally fixes VPN issues caused by September updates** (N/A)
+- **Drupal warns of critical Commerce Core flaw exploited in attacks** (N/A)
+- **Binance probes potential $5.8 billion crypto-theft hack** (N/A)
+- **Malicious Claude Code extension on Cursor planted SSH backdoors** (N/A)
+- **SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone** (N/A)
+- **CISA says max severity GitLab flaw now exploited in the wild** (N/A)
 - **New Cisco firewall zero-day exploited to crash SSL VPN devices** (N/A)
 - **CISA warns of hackers now exploiting critical Node2Shell flaw** (N/A)
-- **Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions** (N/A)
-- **Microsoft fixes Remote Desktop failures caused by recent Windows updates** (N/A)
-- **3 Ways AI Agents Already Operate in Your Browser** (N/A)
-- **CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks** (N/A)
-- **Sony ISP subsidiary data breach exposes 2.5 million customer records** (N/A)
-- **Even after PHP2Shell, blast radius matters more than a CVSS score** (N/A)
 
 ## Connessioni con Pokefinance
 

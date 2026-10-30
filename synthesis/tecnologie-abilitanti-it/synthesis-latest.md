@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #202
-**Data:** 2026-10-29 | **Ciclo:** 202 | **Articoli analizzati:** 443
+# Tecnologie Abilitanti IT — Sintesi Socratica #203
+**Data:** 2026-10-30 | **Ciclo:** 203 | **Articoli analizzati:** 444
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips** (N/A)
 - **GitLab Orbit: Find vulnerability blast radius without the manual hunt** (2026-10-29)
   > A critical vulnerability needs a fix and a map. The fix is usually fast. Finding where the vulnerable component lives, who owns it, and whether it's e
 - **What happens when vulnerabilities are discovered faster than you can fix them?** (2026-10-28)
@@ -29,7 +30,6 @@
   > An agent’s true cost isn’t only the tokens it burns. It’s the review that calls your code “safe to merge” after seeing the diff, but without any conte
 - **Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program** (N/A)
 - **Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery** (N/A)
-- **Announcing the Workload Conformance Working Group** (N/A)
 
 ## Connessioni con Pokefinance
 
