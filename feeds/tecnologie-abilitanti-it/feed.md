@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-30
+
+### [KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips](https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/)
+*Fri, 30 Oc*
+
+KubeCon + CloudNativeCon NA 2026 in Salt Lake City will bring the cloud native community together with projects, vendors and end users in what is one of the largest open source events. In this post, we...
+
+---
+
 ## Aggiornamento 2026-10-29
 
 ### [GitLab Orbit: Find vulnerability blast radius without the manual hunt](https://about.gitlab.com/blog/find-vulnerability-blast-radius-with-gitlab-orbit/)
