@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-10-31
+
+### [OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo](https://www.cncf.io/blog/2026/10/27/opentelemetry-powered-distributed-tracing-and-kubernetes-events-in-openchoreo/)
+*Tue, 27 Oc*
+
+Getting code from a developer’s editor into production means building it, testing it, deploying it, and then understanding how it behaves once it’s running. Internal Developer Platforms (IDPs) promise a “golden path” through all of that,...
+
+---
+### [Distributed tracing for CI pipelines without touching a single workflow file](https://www.cncf.io/blog/2026/10/21/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file-2/)
+*Wed, 21 Oc*
+
+You&#8217;ve probably felt this one: GitHub Actions usage creeps up across your org, and your actual visibility into it doesn&#8217;t keep pace. Which workflows are slow? Which are flaky? How long are jobs sitting queued for...
+
+---
+
 ## Aggiornamento 2026-10-30
 
 ### [KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips](https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/)
