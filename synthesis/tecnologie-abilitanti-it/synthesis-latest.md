@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #203
-**Data:** 2026-10-30 | **Ciclo:** 203 | **Articoli analizzati:** 444
+# Tecnologie Abilitanti IT — Sintesi Socratica #204
+**Data:** 2026-10-31 | **Ciclo:** 204 | **Articoli analizzati:** 446
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,8 @@
 
 ## Articoli recenti dai feed
 
+- **OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo** (N/A)
+- **Distributed tracing for CI pipelines without touching a single workflow file** (N/A)
 - **KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips** (N/A)
 - **GitLab Orbit: Find vulnerability blast radius without the manual hunt** (2026-10-29)
   > A critical vulnerability needs a fix and a map. The fix is usually fast. Finding where the vulnerable component lives, who owns it, and whether it's e
@@ -28,8 +30,6 @@
 - **Coding Agent Horror Stories: The CVE That Did Not Exist** (N/A)
 - **GitLab Orbit is GA: Higher agent accuracy, lower token cost** (2026-10-29)
   > An agent’s true cost isn’t only the tokens it burns. It’s the review that calls your code “safe to merge” after seeing the diff, but without any conte
-- **Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program** (N/A)
-- **Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery** (N/A)
 
 ## Connessioni con Pokefinance
 

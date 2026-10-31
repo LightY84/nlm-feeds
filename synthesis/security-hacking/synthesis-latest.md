@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #203
-**Data:** 2026-10-30 | **Ciclo:** 203 | **Articoli analizzati:** 1203
+# Security & Hacking — Sintesi Socratica #204
+**Data:** 2026-10-31 | **Ciclo:** 204 | **Articoli analizzati:** 1209
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **New Android SMS of Death exploit can remotely crash unpatched phones** (N/A)
+- **Hugging Face malware campaign returns to hijack GPUs for crypto mining** (N/A)
+- **Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data** (N/A)
+- **From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.** (N/A)
+- **Chainalysis discloses data breach from "offensive agentic techniques"** (N/A)
+- **Critical Linux kernel flaw allows remote root attacks on MPTCP servers** (N/A)
 - **Microsoft finally fixes VPN issues caused by September updates** (N/A)
 - **Drupal warns of critical Commerce Core flaw exploited in attacks** (N/A)
-- **Binance probes potential $5.8 billion crypto-theft hack** (N/A)
-- **Malicious Claude Code extension on Cursor planted SSH backdoors** (N/A)
-- **SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone** (N/A)
-- **CISA says max severity GitLab flaw now exploited in the wild** (N/A)
-- **New Cisco firewall zero-day exploited to crash SSL VPN devices** (N/A)
-- **CISA warns of hackers now exploiting critical Node2Shell flaw** (N/A)
 
 ## Connessioni con Pokefinance
 
