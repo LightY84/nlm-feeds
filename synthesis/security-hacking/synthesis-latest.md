@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #204
-**Data:** 2026-10-31 | **Ciclo:** 204 | **Articoli analizzati:** 1209
+# Security & Hacking — Sintesi Socratica #205
+**Data:** 2026-11-01 | **Ciclo:** 205 | **Articoli analizzati:** 1215
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist** (N/A)
+- **NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection** (N/A)
+- **Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access** (N/A)
+- **Alpine Linux rebuilds GitLab after attempted RCE attack** (N/A)
+- **Northflank security breach leads to abuse of customers' AI API keys** (N/A)
+- **CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key** (N/A)
 - **New Android SMS of Death exploit can remotely crash unpatched phones** (N/A)
 - **Hugging Face malware campaign returns to hijack GPUs for crypto mining** (N/A)
-- **Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data** (N/A)
-- **From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.** (N/A)
-- **Chainalysis discloses data breach from "offensive agentic techniques"** (N/A)
-- **Critical Linux kernel flaw allows remote root attacks on MPTCP servers** (N/A)
-- **Microsoft finally fixes VPN issues caused by September updates** (N/A)
-- **Drupal warns of critical Commerce Core flaw exploited in attacks** (N/A)
 
 ## Connessioni con Pokefinance
 

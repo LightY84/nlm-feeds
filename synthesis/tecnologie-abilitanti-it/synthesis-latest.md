@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #204
-**Data:** 2026-10-31 | **Ciclo:** 204 | **Articoli analizzati:** 446
+# Tecnologie Abilitanti IT — Sintesi Socratica #205
+**Data:** 2026-11-01 | **Ciclo:** 205 | **Articoli analizzati:** 446
 
 ## Stato attuale della conoscenza
 
