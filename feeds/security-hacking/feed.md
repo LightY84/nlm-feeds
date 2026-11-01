@@ -3,6 +3,36 @@
 
 ## Aggiornamento 2026-11-01
 
+### [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)
+*Sun, 01 No*
+
+The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.
+
+The FBI, along with the U.S....
+
+---
+### [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)
+*Sun, 01 No*
+
+Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia.
+
+The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia an...
+
+---
+### [Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
+*Sat, 31 Oc*
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-111357 (C...
+
+---
+
+## Aggiornamento 2026-11-01
+
 ### [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
 *Sun, 01 No*
 
