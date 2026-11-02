@@ -1216,7 +1216,10 @@
     "6c360090011b",
     "9ceec0263f89",
     "c001fcb1d6f9",
-    "b374ae2519eb"
+    "b374ae2519eb",
+    "b871ff7a0872",
+    "58e175f74a30",
+    "da37eecbe873"
   ],
   "programming-architecture": [
     "3f9e47644df7",
@@ -1722,7 +1725,8 @@
     "c0cb6f009996",
     "5cb1a5e6125a",
     "86ea5ee38b06",
-    "db6fb930cf5d"
+    "db6fb930cf5d",
+    "ad79ab2082c3"
   ],
   "ai-system-design": [
     "aeed5283fa22",
