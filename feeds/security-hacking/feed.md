@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-02
+
+### [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
+*Mon, 02 No*
+
+Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]
+
+---
+### [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
+*Mon, 02 No*
+
+Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]
+
+---
+### [Your Mobile Carrier Stores Your Call Logs for Years](https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/)
+*Mon, 02 No*
+
+Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleti...
+
+---
+
 ## Aggiornamento 2026-11-01
 
 ### [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)

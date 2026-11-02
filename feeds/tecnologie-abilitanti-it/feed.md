@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-02
+
+### [The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era](https://www.docker.com/blog/docker-blueprint-alliance-agent-baseline/)
+*Mon, 02 No*
+
+Docker is a founding member of the Blueprint Alliance, a 12-company reference architecture for securing AI agents, built around four governance questions.
+
+---
+### [Where should your code live in a Docker Sandbox?](https://www.docker.com/blog/docker-sandbox-code-checkout-workflows/)
+*Mon, 02 No*
+
+Docker Sandboxes support three ways to organize an agent’s code: shared mounts, Git worktrees, and clone mode. Here’s how to choose between them.
+
+---
+### [10 questions to ask any software vendor about sovereignty](https://about.gitlab.com/blog/10-questions-to-ask-any-software-vendor-about-sovereignty/)
+*2026-11-02*
+
+Sovereignty is moving from buzzword to buying criterion. The European Commission’s proposed Cloud and AI Development Act ...
+
+---
+
 ## Aggiornamento 2026-10-31
 
 ### [OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo](https://www.cncf.io/blog/2026/10/27/opentelemetry-powered-distributed-tracing-and-kubernetes-events-in-openchoreo/)

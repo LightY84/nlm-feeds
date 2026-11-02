@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-02
+
+### [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
+*Fri, 30 Oc*
+
+Google DeepMind and UK government work together to reduce planning assessment times
+
+---
+
 ## Aggiornamento 2026-10-29
 
 ### [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
