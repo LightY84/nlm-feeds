@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #206
-**Data:** 2026-11-03 | **Ciclo:** 206 | **Articoli analizzati:** 450
+# Tecnologie Abilitanti IT — Sintesi Socratica #207
+**Data:** 2026-11-03 | **Ciclo:** 207 | **Articoli analizzati:** 451
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation** (N/A)
 - **The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026** (N/A)
 - **The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era** (N/A)
 - **Where should your code live in a Docker Sandbox?** (N/A)
@@ -27,8 +28,6 @@
 - **OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo** (N/A)
 - **Distributed tracing for CI pipelines without touching a single workflow file** (N/A)
 - **KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips** (N/A)
-- **GitLab Orbit: Find vulnerability blast radius without the manual hunt** (2026-10-29)
-  > A critical vulnerability needs a fix and a map. The fix is usually fast. Finding where the vulnerable component lives, who owns it, and whether it's e
 
 ## Connessioni con Pokefinance
 

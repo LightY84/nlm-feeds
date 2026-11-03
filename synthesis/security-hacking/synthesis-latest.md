@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #206
-**Data:** 2026-11-03 | **Ciclo:** 206 | **Articoli analizzati:** 1221
+# Security & Hacking — Sintesi Socratica #207
+**Data:** 2026-11-03 | **Ciclo:** 207 | **Articoli analizzati:** 1227
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Google: LLMjacking attacks rack up $1 million in cloud AI charges** (N/A)
+- **Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs** (N/A)
+- **Harvard University data breach exposed info of 851,000 accounts** (N/A)
+- **Barracuda warns of critical flaws allowing root access to devices** (N/A)
+- **Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028** (N/A)
+- **UK school estate hit by 3AM ransomware in suspected AI-assisted attack** (N/A)
 - **Chinese hackers use ARTEX AI in automated attacks against 200 orgs** (N/A)
 - **Hackers disrupt refrigeration systems at European supermarkets** (N/A)
-- **Microsoft fixes Smart App Control broken by October Windows update** (N/A)
-- **Fintech platform Sageworks taken offline after suspected cyberattack** (N/A)
-- **Google disrupts million-device XCPE Android malware botnet, bans TV box maker** (N/A)
-- **Your Mobile Carrier Stores Your Call Logs for Years** (N/A)
-- **FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist** (N/A)
-- **NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection** (N/A)
 
 ## Connessioni con Pokefinance
 

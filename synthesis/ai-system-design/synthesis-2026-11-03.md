@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #206
-**Data:** 2026-11-03 | **Ciclo:** 206 | **Articoli analizzati:** 197
+# AI & System Design — Sintesi Socratica #207
+**Data:** 2026-11-03 | **Ciclo:** 207 | **Articoli analizzati:** 201
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **StateBench: Testing how language models track state changes over long documents** (N/A)
+- **CWE-bench v2: More coverage, quality, and transparency** (N/A)
+- **Transformers Model Integration Contracts** (N/A)
+- **Agentic cheminformatics with Google Antigravity** (N/A)
 - **Speeding up planning decisions with AI** (N/A)
 - **Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready** (N/A)
 - **Gemini 4 Carbon: Our next frontier model** (N/A)
 - **Can we trust LLMs to judge whether a research idea is novel?** (N/A)
-- **Does Your Model Run on AWS Trainium? Look It Up** (N/A)
-- **Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox** (N/A)
-- **OlmoEarth v1.3: State-of-the-art embeddings for the whole planet** (N/A)
-- **NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required** (N/A)
 
 ## Connessioni con Pokefinance
 
