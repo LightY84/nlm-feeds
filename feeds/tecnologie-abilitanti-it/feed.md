@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-03
+
+### [OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation](https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/)
+*Tue, 03 No*
+
+About OpenKruise Agents OpenKruise Agents is a sub-project of OpenKruise, the CNCF open-source application automation and workload orchestration project. It provides full lifecycle management for Agent Sandboxes running at scale on Kubernetes, together with a complete...
+
+---
+
 ## Aggiornamento 2026-11-02
 
 ### [The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026/)

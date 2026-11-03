@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-03
+
+### [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
+*Tue, 03 No*
+
+
+
+---
+### [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
+*Tue, 03 No*
+
+Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.
+
+---
+
 ## Aggiornamento 2026-11-02
 
 ### [Speeding up planning decisions with AI](https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/)
