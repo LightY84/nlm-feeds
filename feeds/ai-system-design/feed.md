@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-11-03
 
+### [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)
+*Tue, 03 No*
+
+
+
+---
+### [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench)
+*Tue, 03 No*
+
+
+
+---
+
+## Aggiornamento 2026-11-03
+
 ### [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
 *Tue, 03 No*
 
