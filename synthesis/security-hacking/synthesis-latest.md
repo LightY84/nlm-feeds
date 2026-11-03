@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #205
-**Data:** 2026-11-01 | **Ciclo:** 205 | **Articoli analizzati:** 1215
+# Security & Hacking — Sintesi Socratica #206
+**Data:** 2026-11-03 | **Ciclo:** 206 | **Articoli analizzati:** 1221
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Chinese hackers use ARTEX AI in automated attacks against 200 orgs** (N/A)
+- **Hackers disrupt refrigeration systems at European supermarkets** (N/A)
+- **Microsoft fixes Smart App Control broken by October Windows update** (N/A)
+- **Fintech platform Sageworks taken offline after suspected cyberattack** (N/A)
+- **Google disrupts million-device XCPE Android malware botnet, bans TV box maker** (N/A)
+- **Your Mobile Carrier Stores Your Call Logs for Years** (N/A)
 - **FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist** (N/A)
 - **NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection** (N/A)
-- **Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access** (N/A)
-- **Alpine Linux rebuilds GitLab after attempted RCE attack** (N/A)
-- **Northflank security breach leads to abuse of customers' AI API keys** (N/A)
-- **CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key** (N/A)
-- **New Android SMS of Death exploit can remotely crash unpatched phones** (N/A)
-- **Hugging Face malware campaign returns to hijack GPUs for crypto mining** (N/A)
 
 ## Connessioni con Pokefinance
 

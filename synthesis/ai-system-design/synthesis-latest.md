@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #205
-**Data:** 2026-11-01 | **Ciclo:** 205 | **Articoli analizzati:** 196
+# AI & System Design — Sintesi Socratica #206
+**Data:** 2026-11-03 | **Ciclo:** 206 | **Articoli analizzati:** 197
 
 ## Stato attuale della conoscenza
 
@@ -18,6 +18,7 @@
 
 ## Articoli recenti dai feed
 
+- **Speeding up planning decisions with AI** (N/A)
 - **Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready** (N/A)
 - **Gemini 4 Carbon: Our next frontier model** (N/A)
 - **Can we trust LLMs to judge whether a research idea is novel?** (N/A)
@@ -25,7 +26,6 @@
 - **Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox** (N/A)
 - **OlmoEarth v1.3: State-of-the-art embeddings for the whole planet** (N/A)
 - **NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required** (N/A)
-- **How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications** (N/A)
 
 ## Connessioni con Pokefinance
 

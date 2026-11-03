@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #205
-**Data:** 2026-11-01 | **Ciclo:** 205 | **Articoli analizzati:** 446
+# Tecnologie Abilitanti IT — Sintesi Socratica #206
+**Data:** 2026-11-03 | **Ciclo:** 206 | **Articoli analizzati:** 450
 
 ## Stato attuale della conoscenza
 
@@ -19,17 +19,16 @@
 
 ## Articoli recenti dai feed
 
+- **The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026** (N/A)
+- **The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era** (N/A)
+- **Where should your code live in a Docker Sandbox?** (N/A)
+- **10 questions to ask any software vendor about sovereignty** (2026-11-02)
+  > Sovereignty is moving from buzzword to buying criterion. The European Commission’s proposed Cloud and AI Development Act ...
 - **OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo** (N/A)
 - **Distributed tracing for CI pipelines without touching a single workflow file** (N/A)
 - **KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips** (N/A)
 - **GitLab Orbit: Find vulnerability blast radius without the manual hunt** (2026-10-29)
   > A critical vulnerability needs a fix and a map. The fix is usually fast. Finding where the vulnerable component lives, who owns it, and whether it's e
-- **What happens when vulnerabilities are discovered faster than you can fix them?** (2026-10-28)
-  > We're entering a new era of application security. Frontier AI models are uncovering complex flaws that traditional tools overlooked, and attackers are
-- **From Working Group to SIG Architecture: spotlight on AI Conformance** (N/A)
-- **Coding Agent Horror Stories: The CVE That Did Not Exist** (N/A)
-- **GitLab Orbit is GA: Higher agent accuracy, lower token cost** (2026-10-29)
-  > An agent’s true cost isn’t only the tokens it burns. It’s the review that calls your code “safe to merge” after seeing the diff, but without any conte
 
 ## Connessioni con Pokefinance
 
