@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-04
+
+### [NIKKE PC game launcher hacked to spread remote access, data-stealing malware](https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/)
+*Wed, 04 No*
+
+The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]
+
+---
+### [mSecure password manager hack prompts password reset warnings](https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/)
+*Wed, 04 No*
+
+mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]
+
+---
+### [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
+*Wed, 04 No*
+
+A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains use...
+
+---
+
 ## Aggiornamento 2026-11-03
 
 ### [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)

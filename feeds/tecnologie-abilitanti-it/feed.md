@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-04
+
+### [OpenShell on Kubernetes: A guide for platform engineers](https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers/)
+*Wed, 04 No*
+
+What OpenShell is AI agents do more than call APIs. They run shells, install packages, read files, and open network connections. Often they act on text they pulled from the internet a minute earlier. So every...
+
+---
+
 ## Aggiornamento 2026-11-03
 
 ### [OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation](https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/)
