@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-05
+
+### [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/)
+*Thu, 05 No*
+
+
+
+---
+
 ## Aggiornamento 2026-11-03
 
 ### [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)

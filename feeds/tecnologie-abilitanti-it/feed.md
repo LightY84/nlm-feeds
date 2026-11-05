@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-05
+
+### [Docker + ActiveState Extending Secure Defaults to the Packages Developers Install](https://www.docker.com/blog/docker-activestate-trusted-content/)
+*Thu, 05 No*
+
+Docker partners with ActiveState to continue to provide one standard for trusted content across everything you and your teams build on.
+
+---
+### [CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program](https://www.docker.com/blog/cncf-score-project-improved-its-security-posture-by-joining-the-docker-sponsored-open-source-program/)
+*Thu, 05 No*
+
+See how CNCF Score improved container security with Docker Scout, Hardened Images, and the Docker-Sponsored Open Source Program.
+
+---
+
 ## Aggiornamento 2026-11-04
 
 ### [OpenShell on Kubernetes: A guide for platform engineers](https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers/)
