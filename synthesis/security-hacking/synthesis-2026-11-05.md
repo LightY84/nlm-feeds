@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #208
-**Data:** 2026-11-05 | **Ciclo:** 208 | **Articoli analizzati:** 1233
+# Security & Hacking — Sintesi Socratica #209
+**Data:** 2026-11-05 | **Ciclo:** 209 | **Articoli analizzati:** 1239
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **OpenSSH flaw lets attackers log into password-disabled Linux accounts** (N/A)
+- **GhostMap Android flaw lets malicious app trigger persistent boot loop** (N/A)
+- **Vercel rolls out new protection against stolen session cookie attacks** (N/A)
+- **Hackers backdoor Linux servers using trojanized CWP web server** (N/A)
+- **DigiCert data breach exposes customer information, identity documents** (N/A)
+- **Closing the Identity Gap at the Service Desk** (N/A)
 - **DreamHost confirms data breach exposed FTP logins and webmail sessions** (N/A)
 - **Cyberattack disrupts blood storage refrigeration systems in France** (N/A)
-- **SonicWall warns of unpatched flaws in end-of-life GMS software** (N/A)
-- **NIKKE PC game launcher hacked to spread remote access, data-stealing malware** (N/A)
-- **mSecure password manager hack prompts password reset warnings** (N/A)
-- **Google Calendar phishing campaign hijacks sessions, bypasses MFA** (N/A)
-- **Google: LLMjacking attacks rack up $1 million in cloud AI charges** (N/A)
-- **Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs** (N/A)
 
 ## Connessioni con Pokefinance
 

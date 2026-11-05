@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #208
-**Data:** 2026-11-05 | **Ciclo:** 208 | **Articoli analizzati:** 201
+# AI & System Design — Sintesi Socratica #209
+**Data:** 2026-11-05 | **Ciclo:** 209 | **Articoli analizzati:** 202
 
 ## Stato attuale della conoscenza
 
@@ -18,6 +18,7 @@
 
 ## Articoli recenti dai feed
 
+- **Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips** (N/A)
 - **StateBench: Testing how language models track state changes over long documents** (N/A)
 - **CWE-bench v2: More coverage, quality, and transparency** (N/A)
 - **Transformers Model Integration Contracts** (N/A)
@@ -25,7 +26,6 @@
 - **Speeding up planning decisions with AI** (N/A)
 - **Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready** (N/A)
 - **Gemini 4 Carbon: Our next frontier model** (N/A)
-- **Can we trust LLMs to judge whether a research idea is novel?** (N/A)
 
 ## Connessioni con Pokefinance
 

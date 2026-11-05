@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #208
-**Data:** 2026-11-05 | **Ciclo:** 208 | **Articoli analizzati:** 452
+# Tecnologie Abilitanti IT — Sintesi Socratica #209
+**Data:** 2026-11-05 | **Ciclo:** 209 | **Articoli analizzati:** 454
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,8 @@
 
 ## Articoli recenti dai feed
 
+- **Docker + ActiveState Extending Secure Defaults to the Packages Developers Install** (N/A)
+- **CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program** (N/A)
 - **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
 - **OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation** (N/A)
 - **The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026** (N/A)
@@ -26,8 +28,6 @@
 - **Where should your code live in a Docker Sandbox?** (N/A)
 - **10 questions to ask any software vendor about sovereignty** (2026-11-02)
   > Sovereignty is moving from buzzword to buying criterion. The European Commission’s proposed Cloud and AI Development Act ...
-- **OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo** (N/A)
-- **Distributed tracing for CI pipelines without touching a single workflow file** (N/A)
 
 ## Connessioni con Pokefinance
 
