@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #207
-**Data:** 2026-11-03 | **Ciclo:** 207 | **Articoli analizzati:** 1227
+# Security & Hacking — Sintesi Socratica #208
+**Data:** 2026-11-05 | **Ciclo:** 208 | **Articoli analizzati:** 1233
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **DreamHost confirms data breach exposed FTP logins and webmail sessions** (N/A)
+- **Cyberattack disrupts blood storage refrigeration systems in France** (N/A)
+- **SonicWall warns of unpatched flaws in end-of-life GMS software** (N/A)
+- **NIKKE PC game launcher hacked to spread remote access, data-stealing malware** (N/A)
+- **mSecure password manager hack prompts password reset warnings** (N/A)
+- **Google Calendar phishing campaign hijacks sessions, bypasses MFA** (N/A)
 - **Google: LLMjacking attacks rack up $1 million in cloud AI charges** (N/A)
 - **Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs** (N/A)
-- **Harvard University data breach exposed info of 851,000 accounts** (N/A)
-- **Barracuda warns of critical flaws allowing root access to devices** (N/A)
-- **Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028** (N/A)
-- **UK school estate hit by 3AM ransomware in suspected AI-assisted attack** (N/A)
-- **Chinese hackers use ARTEX AI in automated attacks against 200 orgs** (N/A)
-- **Hackers disrupt refrigeration systems at European supermarkets** (N/A)
 
 ## Connessioni con Pokefinance
 

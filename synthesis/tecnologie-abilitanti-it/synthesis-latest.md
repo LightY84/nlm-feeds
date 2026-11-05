@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #207
-**Data:** 2026-11-03 | **Ciclo:** 207 | **Articoli analizzati:** 451
+# Tecnologie Abilitanti IT — Sintesi Socratica #208
+**Data:** 2026-11-05 | **Ciclo:** 208 | **Articoli analizzati:** 452
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
 - **OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation** (N/A)
 - **The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026** (N/A)
 - **The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era** (N/A)
@@ -27,7 +28,6 @@
   > Sovereignty is moving from buzzword to buying criterion. The European Commission’s proposed Cloud and AI Development Act ...
 - **OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo** (N/A)
 - **Distributed tracing for CI pipelines without touching a single workflow file** (N/A)
-- **KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips** (N/A)
 
 ## Connessioni con Pokefinance
 
