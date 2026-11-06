@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #209
-**Data:** 2026-11-05 | **Ciclo:** 209 | **Articoli analizzati:** 454
+# Tecnologie Abilitanti IT — Sintesi Socratica #210
+**Data:** 2026-11-06 | **Ciclo:** 210 | **Articoli analizzati:** 456
 
 ## Stato attuale della conoscenza
 
@@ -19,15 +19,15 @@
 
 ## Articoli recenti dai feed
 
+- **Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents** (N/A)
+- **The Pentagon wants to know who checks code when AI writes it** (2026-11-06)
+  > The Department of War now treats AI-generated code as unverified until it’s proven otherwise. DoW Instruction 8430.01, “Accelerated Mission Software,”
 - **Docker + ActiveState Extending Secure Defaults to the Packages Developers Install** (N/A)
 - **CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program** (N/A)
 - **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
 - **OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation** (N/A)
 - **The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026** (N/A)
 - **The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era** (N/A)
-- **Where should your code live in a Docker Sandbox?** (N/A)
-- **10 questions to ask any software vendor about sovereignty** (2026-11-02)
-  > Sovereignty is moving from buzzword to buying criterion. The European Commission’s proposed Cloud and AI Development Act ...
 
 ## Connessioni con Pokefinance
 

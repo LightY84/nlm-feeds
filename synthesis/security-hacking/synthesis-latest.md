@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #209
-**Data:** 2026-11-05 | **Ciclo:** 209 | **Articoli analizzati:** 1239
+# Security & Hacking — Sintesi Socratica #210
+**Data:** 2026-11-06 | **Ciclo:** 210 | **Articoli analizzati:** 1245
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Fake security tools on GitHub push backdoors and infostealers** (N/A)
+- **QNAP says hackers breaching NAS devices in Plex2Shell attacks** (N/A)
+- **MetaMask says recent attack didn't affect wallet infrastructure** (N/A)
+- **IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It** (N/A)
+- **Chainalysis says breach exposed credentials for all customers** (N/A)
+- **D-Link warns of multiple zero-days in DGS-3130 Series switches** (N/A)
 - **OpenSSH flaw lets attackers log into password-disabled Linux accounts** (N/A)
 - **GhostMap Android flaw lets malicious app trigger persistent boot loop** (N/A)
-- **Vercel rolls out new protection against stolen session cookie attacks** (N/A)
-- **Hackers backdoor Linux servers using trojanized CWP web server** (N/A)
-- **DigiCert data breach exposes customer information, identity documents** (N/A)
-- **Closing the Identity Gap at the Service Desk** (N/A)
-- **DreamHost confirms data breach exposed FTP logins and webmail sessions** (N/A)
-- **Cyberattack disrupts blood storage refrigeration systems in France** (N/A)
 
 ## Connessioni con Pokefinance
 
