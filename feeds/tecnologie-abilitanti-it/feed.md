@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-06
+
+### [Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents](https://www.docker.com/blog/docker-sandboxes-vs-containers/)
+*Fri, 06 No*
+
+A container shares the host kernel. Docker Sandboxes are microVMs with their own kernel and private Docker Engine. See how they differ and when to use each.
+
+---
+### [The Pentagon wants to know who checks code when AI writes it](https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/)
+*2026-11-06*
+
+The Department of War now treats AI-generated code as unverified until it’s proven otherwise. DoW Instruction 8430.01, “Accelerated Mission Software,” took effect September 8, 2026, and is the depar...
+
+---
+
 ## Aggiornamento 2026-11-05
 
 ### [Docker + ActiveState Extending Secure Defaults to the Packages Developers Install](https://www.docker.com/blog/docker-activestate-trusted-content/)
