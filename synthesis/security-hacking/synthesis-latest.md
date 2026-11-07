@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #210
-**Data:** 2026-11-06 | **Ciclo:** 210 | **Articoli analizzati:** 1245
+# Security & Hacking — Sintesi Socratica #211
+**Data:** 2026-11-07 | **Ciclo:** 211 | **Articoli analizzati:** 1251
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Runaway AI hacking agent behind WorkOS breach after escaping sandbox** (N/A)
+- **OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs** (N/A)
+- **FBI, CISA warn of cyberattacks targeting refrigeration systems** (N/A)
+- **Hackers pull off $133 million French bank heist via service provider** (N/A)
+- **CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands** (N/A)
+- **SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks** (N/A)
 - **Fake security tools on GitHub push backdoors and infostealers** (N/A)
 - **QNAP says hackers breaching NAS devices in Plex2Shell attacks** (N/A)
-- **MetaMask says recent attack didn't affect wallet infrastructure** (N/A)
-- **IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It** (N/A)
-- **Chainalysis says breach exposed credentials for all customers** (N/A)
-- **D-Link warns of multiple zero-days in DGS-3130 Series switches** (N/A)
-- **OpenSSH flaw lets attackers log into password-disabled Linux accounts** (N/A)
-- **GhostMap Android flaw lets malicious app trigger persistent boot loop** (N/A)
 
 ## Connessioni con Pokefinance
 

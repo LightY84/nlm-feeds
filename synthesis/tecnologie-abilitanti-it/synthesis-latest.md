@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #210
-**Data:** 2026-11-06 | **Ciclo:** 210 | **Articoli analizzati:** 456
+# Tecnologie Abilitanti IT — Sintesi Socratica #211
+**Data:** 2026-11-07 | **Ciclo:** 211 | **Articoli analizzati:** 457
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **We organized Sustainability Month. Here’s what we learned. 🌱** (N/A)
 - **Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents** (N/A)
 - **The Pentagon wants to know who checks code when AI writes it** (2026-11-06)
   > The Department of War now treats AI-generated code as unverified until it’s proven otherwise. DoW Instruction 8430.01, “Accelerated Mission Software,”
@@ -27,7 +28,6 @@
 - **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
 - **OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation** (N/A)
 - **The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026** (N/A)
-- **The Ecosystem is the Answer: Docker, the Blueprint Alliance, and the Importance of Collaboration in the Agentic Era** (N/A)
 
 ## Connessioni con Pokefinance
 
