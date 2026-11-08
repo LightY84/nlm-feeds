@@ -1,6 +1,27 @@
 # Security & Hacking — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-08
+
+### [Iris Ohyama data cloud breach exposes info of 7.7 million customers](https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/)
+*Sun, 08 No*
+
+Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]
+
+---
+### [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
+*Thu, 05 No*
+
+Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]
+
+---
+### [Daily OT Security News: November 08, 2026](https://securityboulevard.com/2026/11/daily-ot-security-news-november-08-2026/)
+*Sun, 08 No*
+
+Daily OT Security News: November 08, 2026 Five source-verified OT, connected-device and physical-security developments and follow-up reports published or updated during the November 7–8 briefing window. Several cover earlier disclosures or incidents; those dates are identified below. 1. Synolo...
+
+---
+
 ## Aggiornamento 2026-11-07
 
 ### [Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)
