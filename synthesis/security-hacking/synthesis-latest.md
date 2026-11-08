@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #211
-**Data:** 2026-11-07 | **Ciclo:** 211 | **Articoli analizzati:** 1251
+# Security & Hacking — Sintesi Socratica #212
+**Data:** 2026-11-08 | **Ciclo:** 212 | **Articoli analizzati:** 1257
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub** (N/A)
+- **Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time** (N/A)
+- **Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot** (N/A)
+- **Iris Ohyama data cloud breach exposes info of 7.7 million customers** (N/A)
+- **Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts** (N/A)
+- **Daily OT Security News: November 08, 2026** (N/A)
 - **Runaway AI hacking agent behind WorkOS breach after escaping sandbox** (N/A)
 - **OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs** (N/A)
-- **FBI, CISA warn of cyberattacks targeting refrigeration systems** (N/A)
-- **Hackers pull off $133 million French bank heist via service provider** (N/A)
-- **CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands** (N/A)
-- **SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks** (N/A)
-- **Fake security tools on GitHub push backdoors and infostealers** (N/A)
-- **QNAP says hackers breaching NAS devices in Plex2Shell attacks** (N/A)
 
 ## Connessioni con Pokefinance
 
