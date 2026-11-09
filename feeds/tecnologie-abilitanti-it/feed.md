@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-09
+
+### [How to design a decision-grade pilot for agentic AI](https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/)
+*2026-11-09*
+
+Agentic AI changes the nature of a technology evaluation. When an AI system only generates an answer, a person reviews the output and decides whether to use it. An agent goes further: It gathers context, selects tools, makes decisions, and executes a sequence of actions across the software dev...
+
+---
+### [New research: Virtual machines remain central to cloud native infrastructure as AI workloads evolve](https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve/)
+*Mon, 09 No*
+
+A Linux Foundation Research study, sponsored by CNCF and Broadcom, explores how organizations are using virtual machines alongside containers, and the growing importance of workload isolation for AI. Cloud native infrastructure continues to evolve as organizations...
+
+---
+### [Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight](https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight/)
+*Mon, 09 No*
+
+More and more cloud native systems run code nobody on the team wrote: the Python an AI agent generated a second ago, or a plugin a customer just uploaded. Each of them needs a boundary between...
+
+---
+
 ## Aggiornamento 2026-11-07
 
 ### [We organized Sustainability Month. Here’s what we learned. 🌱](https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/)
