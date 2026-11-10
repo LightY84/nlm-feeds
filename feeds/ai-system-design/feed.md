@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-10
+
+### [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
+*Tue, 10 No*
+
+
+
+---
+### [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
+*Tue, 10 No*
+
+AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.
+
+---
+### [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
+*Mon, 09 No*
+
+Our most capable vision-language-action model enhances robot dexterity, reliability, and safety
+
+---
+
 ## Aggiornamento 2026-11-09
 
 ### [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/)

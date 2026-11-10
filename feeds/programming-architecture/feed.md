@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-10
+
+### [Fragments: November 10](https://martinfowler.com/fragments/2026-11-10.html)
+*2026-11-10*
+
+It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that our teams have used in the field, and pulled together a summary of what’s popped up in the last s...
+
+---
+
 ## Aggiornamento 2026-10-29
 
 ### [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html)

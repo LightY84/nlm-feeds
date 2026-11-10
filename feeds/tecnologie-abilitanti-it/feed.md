@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-10
+
+### [CNCF Welcomes Twelve New Members as Organizations Look to Run AI Agents on Open, Sovereign Infrastructure](https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-twelve-new-members-as-organizations-look-to-run-ai-agents-on-open-sovereign-infrastructure/)
+*Tue, 10 No*
+
+Organizations join the cloud native community to strengthen security, visibility, and control for production AI Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 10, 2026 – The Cloud Native Computing Foundation® (CNCF®),...
+
+---
+### [CNCF Welcomes CoreWeave as a Platinum Member to Further Open Source AI Infrastructure](https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-coreweave-as-a-platinum-member-to-further-open-source-ai-infrastructure/)
+*Tue, 10 No*
+
+Investment underscores CoreWeave&#8217;s continued push to build open, cloud native infrastructure for production AI at scale Key Highlights SAN FRANCISCO — November 10, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...
+
+---
+### [Open Cluster Management (OCM) becomes a CNCF Incubating Project](https://www.cncf.io/blog/2026/11/10/open-cluster-management-ocm-becomes-a-cncf-incubating-project/)
+*Tue, 10 No*
+
+The CNCF Technical Oversight Committee (TOC) voted to accept Open Cluster Management as a CNCF incubating project. Open Cluster Management is an open source project that simplifies the management of Kubernetes clusters across cloud, on-premises, and...
+
+---
+
 ## Aggiornamento 2026-11-09
 
 ### [How to design a decision-grade pilot for agentic AI](https://about.gitlab.com/blog/how-to-develop-a-decision-grade-ai-pilot/)
