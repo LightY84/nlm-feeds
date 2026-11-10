@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #213
-**Data:** 2026-11-10 | **Ciclo:** 213 | **Articoli analizzati:** 1263
+# Security & Hacking — Sintesi Socratica #214
+**Data:** 2026-11-10 | **Ciclo:** 214 | **Articoli analizzati:** 1269
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Hackers exploit trusted AWS access to breach multiple cloud environments** (N/A)
+- **Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day** (N/A)
+- **Windows 11 KB5132061 & KB5131087 cumulative updates released** (N/A)
+- **Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers** (N/A)
+- **Binance warns of iOS flaw that could leak crypto wallet secrets** (N/A)
+- **SAP patches ICM2SHELL and PROXYGATE maximum severity flaws** (N/A)
 - **SEGA newsletter data breach exposes 2.2 million email addresses** (N/A)
 - **N-able takes cloud platform offline after 30+ "zero-days" published** (N/A)
-- **York University breach exposed personal information dating to 2007** (N/A)
-- **France blames Iranian hackers for supermarket attacks that sparked fires** (N/A)
-- **Russian cloud firm Beget rebuilds from scratch after data wiper attack** (N/A)
-- **Binance denies data breach after alleged ShinyHunters claims** (N/A)
-- **Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub** (N/A)
-- **Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time** (N/A)
 
 ## Connessioni con Pokefinance
 

@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #213
-**Data:** 2026-11-10 | **Ciclo:** 213 | **Articoli analizzati:** 53
+# Programming & Architecture — Sintesi Socratica #214
+**Data:** 2026-11-10 | **Ciclo:** 214 | **Articoli analizzati:** 54
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,8 @@
 
 ## Articoli recenti dai feed
 
+- **Fragments: November 10** (2026-11-10)
+  > It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that ou
 - **Why are good developers so wary of agentic development?** (2026-10-29)
   > TL;DRGood developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by 
 - **Software engineering at Google & CS education with Titus Winters** (N/A)
@@ -33,8 +35,6 @@
 - **Building resilient systems with Sam Newman** (N/A)
 - **Fragments: October  4** (2026-10-04)
   > In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t hav
-- **Principles for effective slides** (2026-09-30)
-  > Not every presentation needs slides, but when they earn their place, they work as...
 
 ## Connessioni con Pokefinance
 

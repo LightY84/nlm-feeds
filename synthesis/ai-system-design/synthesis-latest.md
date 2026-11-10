@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #213
-**Data:** 2026-11-10 | **Ciclo:** 213 | **Articoli analizzati:** 203
+# AI & System Design — Sintesi Socratica #214
+**Data:** 2026-11-10 | **Ciclo:** 214 | **Articoli analizzati:** 206
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **Gemini 4 Carbon is now available** (N/A)
+- **Introducing AlphaProof Code: a breakthrough in verifying complex software at depth** (N/A)
+- **Gemini Robotics 2.5 accelerates real-world general dexterity** (N/A)
 - **BAIR at CoRL 2026** (N/A)
 - **Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips** (N/A)
 - **StateBench: Testing how language models track state changes over long documents** (N/A)
 - **CWE-bench v2: More coverage, quality, and transparency** (N/A)
 - **Transformers Model Integration Contracts** (N/A)
-- **Agentic cheminformatics with Google Antigravity** (N/A)
-- **Speeding up planning decisions with AI** (N/A)
-- **Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready** (N/A)
 
 ## Connessioni con Pokefinance
 
