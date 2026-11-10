@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #212
-**Data:** 2026-11-08 | **Ciclo:** 212 | **Articoli analizzati:** 457
+# Tecnologie Abilitanti IT — Sintesi Socratica #213
+**Data:** 2026-11-10 | **Ciclo:** 213 | **Articoli analizzati:** 460
 
 ## Stato attuale della conoscenza
 
@@ -19,15 +19,16 @@
 
 ## Articoli recenti dai feed
 
+- **How to design a decision-grade pilot for agentic AI** (2026-11-09)
+  > Agentic AI changes the nature of a technology evaluation. When an AI system only generates an answer, a person reviews the output and decides whether 
+- **New research: Virtual machines remain central to cloud native infrastructure as AI workloads evolve** (N/A)
+- **Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight** (N/A)
 - **We organized Sustainability Month. Here’s what we learned. 🌱** (N/A)
 - **Docker Sandboxes vs. Containers: Choosing the Right Isolation for AI Agents** (N/A)
 - **The Pentagon wants to know who checks code when AI writes it** (2026-11-06)
   > The Department of War now treats AI-generated code as unverified until it’s proven otherwise. DoW Instruction 8430.01, “Accelerated Mission Software,”
 - **Docker + ActiveState Extending Secure Defaults to the Packages Developers Install** (N/A)
 - **CNCF Score project improved its security posture by joining the Docker-Sponsored Open Source Program** (N/A)
-- **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
-- **OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation** (N/A)
-- **The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026** (N/A)
 
 ## Connessioni con Pokefinance
 

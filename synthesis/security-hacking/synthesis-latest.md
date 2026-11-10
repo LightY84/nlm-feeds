@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #212
-**Data:** 2026-11-08 | **Ciclo:** 212 | **Articoli analizzati:** 1257
+# Security & Hacking — Sintesi Socratica #213
+**Data:** 2026-11-10 | **Ciclo:** 213 | **Articoli analizzati:** 1263
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **SEGA newsletter data breach exposes 2.2 million email addresses** (N/A)
+- **N-able takes cloud platform offline after 30+ "zero-days" published** (N/A)
+- **York University breach exposed personal information dating to 2007** (N/A)
+- **France blames Iranian hackers for supermarket attacks that sparked fires** (N/A)
+- **Russian cloud firm Beget rebuilds from scratch after data wiper attack** (N/A)
+- **Binance denies data breach after alleged ShinyHunters claims** (N/A)
 - **Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub** (N/A)
 - **Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time** (N/A)
-- **Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot** (N/A)
-- **Iris Ohyama data cloud breach exposes info of 7.7 million customers** (N/A)
-- **Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts** (N/A)
-- **Daily OT Security News: November 08, 2026** (N/A)
-- **Runaway AI hacking agent behind WorkOS breach after escaping sandbox** (N/A)
-- **OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs** (N/A)
 
 ## Connessioni con Pokefinance
 
