@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-11
+
+### [Introducing CNCF User Groups: Long-lived homes for End User collaboration](https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration/)
+*Wed, 11 No*
+
+The CNCF End User Community is launching its User Group Program at KubeCon + CloudNativeCon North America. These are long-lived groups, each built around an industry vertical or problem domain, that serves the common need of...
+
+---
+### [Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes](https://www.cncf.io/announcements/2026/11/11/meta-wins-cncf-end-user-case-study-contest-for-accelerating-ai-infrastructure-deployments-from-hours-to-minutes/)
+*Wed, 11 No*
+
+Using Argo CD and Kargo, Meta is building a GitOps platform to streamline application delivery across 100 Kubernetes clusters supporting AI research and inference Key Highlights SALT LAKE CITY – KubeCon + CloudNativeCon North America 2026...
+
+---
+### [CNCF Welcomes Adyen as Platinum End User Member to Advance Open Source Financial Infrastructure](https://www.cncf.io/announcements/2026/11/11/cncf-welcomes-adyen-as-platinum-end-user-member-to-advance-open-source-financial-infrastructure/)
+*Wed, 11 No*
+
+Operating over 100 Kubernetes clusters across €1.39T in volume, Adyen brings production-scale fintech expertise to CNCF governance and open source projects Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 11, 2026 –...
+
+---
+
 ## Aggiornamento 2026-11-10
 
 ### [CNCF Welcomes Vultr as a Platinum Member to Advance Open and Sovereign Cloud Infrastructure for AI](https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-vultr-as-a-platinum-member-to-advance-open-and-sovereign-cloud-infrastructure-for-ai/)

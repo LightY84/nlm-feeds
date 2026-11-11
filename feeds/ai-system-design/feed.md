@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-11
+
+### [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
+*Wed, 11 No*
+
+
+
+---
+### [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling)
+*Wed, 11 No*
+
+
+
+---
+
 ## Aggiornamento 2026-11-10
 
 ### [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
