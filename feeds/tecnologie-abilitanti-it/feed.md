@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-11
 
+### [How to prevent leaks from Claude Code's 'Don't ask again' file](https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/)
+*2026-11-11*
+
+This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We’ve confirmed that GitLab’s own infrastructure secrets are protected.In Claude Code, Anthropic’s coding agent, a...
+
+---
+### [OpenShell on Kubernetes: A guide for platform engineers](https://www.cncf.io/blog/2026/11/11/openshell-on-kubernetes-a-guide-for-platform-engineers/)
+*Wed, 11 No*
+
+What OpenShell is AI agents do more than call APIs. They run shells, install packages, read files, and open network connections. Often they act on text they pulled from the internet a minute earlier. So every...
+
+---
+### [CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption](https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-platform-engineering-strategies-are-shaping-ai-infrastructure-adoption/)
+*Tue, 10 No*
+
+Latest research finds 54% of developers with independently managed tooling use hybrid approaches for AI workflows, compared to just 5% at organizations building custom internal platforms Key Highlights: SALT LAKE CITY – KubeCon + CloudNativeCon North...
+
+---
+
+## Aggiornamento 2026-11-11
+
 ### [Introducing CNCF User Groups: Long-lived homes for End User collaboration](https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration/)
 *Wed, 11 No*
 
