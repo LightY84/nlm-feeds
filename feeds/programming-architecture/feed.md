@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-12
+
+### [Bliki: Generated Glossary](https://martinfowler.com/bliki/GeneratedGlossary.html)
+*2026-11-12*
+
+When we use LLMs in a specialized domain, such as the operations of any
+  reasonably-large organization, there is a lot of specialized vocabulary. Such
+  words and specialized meanings will be foreign to an LLM because they aren't
+  in its training set, making it harder for the LLM to be effec...
+
+---
+
 ## Aggiornamento 2026-11-10
 
 ### [Fragments: November 10](https://martinfowler.com/fragments/2026-11-10.html)

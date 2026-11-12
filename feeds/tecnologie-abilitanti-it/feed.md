@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-12
+
+### [Turn Jira tickets into GitLab merge requests with Duo Agent Platform](https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/)
+*2026-11-12*
+
+Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into an agent for implementation, and report the merge request back.This tutorial shows you how to remove that handoff. You add a Jira agent to...
+
+---
+### [CNCF Recognizes Cloud Native Champions in 2026 Community Awards](https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/)
+*Thu, 12 No*
+
+Annual awards honor leaders, maintainers, and documentarians building open source infrastructure Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 12, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...
+
+---
+### [Gang scheduling and topology-aware placement for AI training in Kubernetes](https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/)
+*Thu, 12 No*
+
+Distributed AI training workloads impose complex scheduling requirements that Kubernetes&#8217;s built-in scheduler can&#8217;t meet. Kubernetes schedules pods individually and independently, but distributed training introduces two requirements that break this model: Pods must land on hardware wi...
+
+---
+
 ## Aggiornamento 2026-11-11
 
 ### [How to prevent leaks from Claude Code's 'Don't ask again' file](https://about.gitlab.com/blog/prevent-leaks-from-claude-code-dont-ask-again-file/)
