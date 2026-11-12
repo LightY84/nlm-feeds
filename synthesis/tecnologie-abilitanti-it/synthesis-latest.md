@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #214
-**Data:** 2026-11-10 | **Ciclo:** 214 | **Articoli analizzati:** 466
+# Tecnologie Abilitanti IT — Sintesi Socratica #215
+**Data:** 2026-11-12 | **Ciclo:** 215 | **Articoli analizzati:** 472
 
 ## Stato attuale della conoscenza
 
@@ -19,15 +19,15 @@
 
 ## Articoli recenti dai feed
 
+- **How to prevent leaks from Claude Code's 'Don't ask again' file** (2026-11-11)
+  > This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We’ve confirmed tha
+- **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
+- **CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption** (N/A)
+- **Introducing CNCF User Groups: Long-lived homes for End User collaboration** (N/A)
+- **Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes** (N/A)
+- **CNCF Welcomes Adyen as Platinum End User Member to Advance Open Source Financial Infrastructure** (N/A)
 - **CNCF Welcomes Vultr as a Platinum Member to Advance Open and Sovereign Cloud Infrastructure for AI** (N/A)
 - **CNCF and SlashData Report Finds Cloud Native Developers Are More AI-Ready, Global Population Surpasses 21 Million** (N/A)
-- **CNCF Welcomes Qualcomm Upgrade to Gold Membership to Advance AI Infrastructure Across the Edge-to-Cloud Continuum** (N/A)
-- **CNCF Welcomes Twelve New Members as Organizations Look to Run AI Agents on Open, Sovereign Infrastructure** (N/A)
-- **CNCF Welcomes CoreWeave as a Platinum Member to Further Open Source AI Infrastructure** (N/A)
-- **Open Cluster Management (OCM) becomes a CNCF Incubating Project** (N/A)
-- **How to design a decision-grade pilot for agentic AI** (2026-11-09)
-  > Agentic AI changes the nature of a technology evaluation. When an AI system only generates an answer, a person reviews the output and decides whether 
-- **New research: Virtual machines remain central to cloud native infrastructure as AI workloads evolve** (N/A)
 
 ## Connessioni con Pokefinance
 

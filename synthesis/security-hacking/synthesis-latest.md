@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #214
-**Data:** 2026-11-10 | **Ciclo:** 214 | **Articoli analizzati:** 1269
+# Security & Hacking — Sintesi Socratica #215
+**Data:** 2026-11-12 | **Ciclo:** 215 | **Articoli analizzati:** 1275
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **N-able releases security hotfixes for zero-day vulnerabilities** (N/A)
+- **Microsoft fixes audio issues caused by September security updates** (N/A)
+- **CISA flags Cisco BroadWorks flaw as actively exploited in attacks** (N/A)
+- **Maersk confirms data breach as WhiteArmor ransomware demands $5 million** (N/A)
+- **Hackers use AntiFox AI agents in AWS credential-theft attacks** (N/A)
+- **eBPF Rootkits: Why Underground Actors Are Taking Notice** (N/A)
 - **Hackers exploit trusted AWS access to breach multiple cloud environments** (N/A)
 - **Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day** (N/A)
-- **Windows 11 KB5132061 & KB5131087 cumulative updates released** (N/A)
-- **Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers** (N/A)
-- **Binance warns of iOS flaw that could leak crypto wallet secrets** (N/A)
-- **SAP patches ICM2SHELL and PROXYGATE maximum severity flaws** (N/A)
-- **SEGA newsletter data breach exposes 2.2 million email addresses** (N/A)
-- **N-able takes cloud platform offline after 30+ "zero-days" published** (N/A)
 
 ## Connessioni con Pokefinance
 
