@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-11-12
 
+### [Donating KubeRay to CNCF](https://www.cncf.io/blog/2026/11/10/donating-kuberay-to-cncf/)
+*Tue, 10 No*
+
+The PARK stack (PyTorch, AI models, Ray, and Kubernetes) is emerging as the de facto open source standard for production AI. Within that stack, KubeRay has become the bridge connecting scalable AI applications built on Ray...
+
+---
+### [CNCF Hits Major Milestones with Global Community Growth, Record Industry Investment and a New Generation of Projects to Build AI Systems in Production](https://www.cncf.io/announcements/2026/11/10/cncf-hits-major-milestones-with-global-community-growth-record-industry-investment-and-a-new-generation-of-projects-to-build-ai-systems-in-production/)
+*Tue, 10 No*
+
+New Sandbox projects, including Agent Substrate and OpenShell, expand CNCF’s portfolio to 231 projects as the community adds over 5.5 million cloud native developers in 12 months, welcomes eight Platinum memberships and brings together 82,000 attendees...
+
+---
+
+## Aggiornamento 2026-11-12
+
 ### [Turn Jira tickets into GitLab merge requests with Duo Agent Platform](https://about.gitlab.com/blog/jira-ticket-to-gitlab-mr-with-duo-agent-platform/)
 *2026-11-12*
 

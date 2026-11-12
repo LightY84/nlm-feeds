@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-11-12
 
+### [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+*Thu, 12 No*
+
+
+
+---
+### [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
+*Thu, 12 No*
+
+
+
+---
+
+## Aggiornamento 2026-11-12
+
 ### [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)
 *Thu, 12 No*
 
