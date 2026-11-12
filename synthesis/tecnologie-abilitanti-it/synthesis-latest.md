@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #215
-**Data:** 2026-11-12 | **Ciclo:** 215 | **Articoli analizzati:** 472
+# Tecnologie Abilitanti IT — Sintesi Socratica #216
+**Data:** 2026-11-12 | **Ciclo:** 216 | **Articoli analizzati:** 477
 
 ## Stato attuale della conoscenza
 
@@ -19,15 +19,16 @@
 
 ## Articoli recenti dai feed
 
+- **Donating KubeRay to CNCF** (N/A)
+- **CNCF Hits Major Milestones with Global Community Growth, Record Industry Investment and a New Generation of Projects to Build AI Systems in Production** (N/A)
+- **Turn Jira tickets into GitLab merge requests with Duo Agent Platform** (2026-11-12)
+  > Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into a
+- **CNCF Recognizes Cloud Native Champions in 2026 Community Awards** (N/A)
+- **Gang scheduling and topology-aware placement for AI training in Kubernetes** (N/A)
 - **How to prevent leaks from Claude Code's 'Don't ask again' file** (2026-11-11)
   > This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We’ve confirmed tha
 - **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
 - **CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption** (N/A)
-- **Introducing CNCF User Groups: Long-lived homes for End User collaboration** (N/A)
-- **Meta Wins CNCF End User Case Study Contest for Accelerating AI Infrastructure Deployments From Hours to Minutes** (N/A)
-- **CNCF Welcomes Adyen as Platinum End User Member to Advance Open Source Financial Infrastructure** (N/A)
-- **CNCF Welcomes Vultr as a Platinum Member to Advance Open and Sovereign Cloud Infrastructure for AI** (N/A)
-- **CNCF and SlashData Report Finds Cloud Native Developers Are More AI-Ready, Global Population Surpasses 21 Million** (N/A)
 
 ## Connessioni con Pokefinance
 

@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #215
-**Data:** 2026-11-12 | **Ciclo:** 215 | **Articoli analizzati:** 54
+# Programming & Architecture — Sintesi Socratica #216
+**Data:** 2026-11-12 | **Ciclo:** 216 | **Articoli analizzati:** 55
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,8 @@
 
 ## Articoli recenti dai feed
 
+- **Bliki: Generated Glossary** (2026-11-12)
+  > When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. Such 
 - **Fragments: November 10** (2026-11-10)
   > It’s that time of the year when the November Thoughtworks Technology Radar appears. Again my colleagues have taken a sweep of the technologies that ou
 - **Why are good developers so wary of agentic development?** (2026-10-29)
@@ -33,8 +35,6 @@
 - **Are Harnesses Worth the Cost?** (2026-10-13)
   > Naresh Jain compares coding agents building the same API service ...
 - **Building resilient systems with Sam Newman** (N/A)
-- **Fragments: October  4** (2026-10-04)
-  > In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t hav
 
 ## Connessioni con Pokefinance
 

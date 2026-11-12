@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #215
-**Data:** 2026-11-12 | **Ciclo:** 215 | **Articoli analizzati:** 1275
+# Security & Hacking — Sintesi Socratica #216
+**Data:** 2026-11-12 | **Ciclo:** 216 | **Articoli analizzati:** 1281
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **New N-able "4EverAble2Shell" zero-day exploited hours after PoC released** (N/A)
+- **Apache HTTP Server patches critical HTTP/2 remote code execution flaw** (N/A)
+- **Apify rotates API tokens, prompts 2FA resets after breach** (N/A)
+- **New Windows SignDrop zero-day gives hackers SYSTEM privileges** (N/A)
+- **Police dismantle Gootloader, CastleRAT, StealC malware infrastructure** (N/A)
+- **Your Endpoint Management Platform Could Be Your Biggest Security Risk** (N/A)
 - **N-able releases security hotfixes for zero-day vulnerabilities** (N/A)
 - **Microsoft fixes audio issues caused by September security updates** (N/A)
-- **CISA flags Cisco BroadWorks flaw as actively exploited in attacks** (N/A)
-- **Maersk confirms data breach as WhiteArmor ransomware demands $5 million** (N/A)
-- **Hackers use AntiFox AI agents in AWS credential-theft attacks** (N/A)
-- **eBPF Rootkits: Why Underground Actors Are Taking Notice** (N/A)
-- **Hackers exploit trusted AWS access to breach multiple cloud environments** (N/A)
-- **Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day** (N/A)
 
 ## Connessioni con Pokefinance
 
