@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-13
+
+### [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+*Fri, 13 No*
+
+
+
+---
+### [Opening the datasets behind our AI weather models](https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/)
+*Tue, 10 No*
+
+Foundational precipitation and geostationary satellite datasets to observe the planet clearly.
+
+---
+
 ## Aggiornamento 2026-11-12
 
 ### [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
