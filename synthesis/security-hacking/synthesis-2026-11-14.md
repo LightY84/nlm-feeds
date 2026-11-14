@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #217
-**Data:** 2026-11-14 | **Ciclo:** 217 | **Articoli analizzati:** 1287
+# Security & Hacking — Sintesi Socratica #218
+**Data:** 2026-11-14 | **Ciclo:** 218 | **Articoli analizzati:** 1293
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Cursor confirms security breach led to malicious Claude Code extension** (N/A)
+- **Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection** (N/A)
+- **PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE** (N/A)
+- **Microsoft confirms Windows activation failures after November updates** (N/A)
+- **New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks** (N/A)
+- **Hackers compromise 4,800 GitHub accounts to steal cloud credentials** (N/A)
 - **Trezor confirms crypto-stealing implants in three wallets, releases fix** (N/A)
 - **German military drone operations disrupted by cyberattack** (N/A)
-- **Check Point warns of zero-day flaw exploited for root access** (N/A)
-- **Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper** (N/A)
-- **How one AI agent exposed five critical enterprise security gaps** (N/A)
-- **Microsoft says November security updates cause printing issues** (N/A)
-- **New N-able "4EverAble2Shell" zero-day exploited hours after PoC released** (N/A)
-- **Apache HTTP Server patches critical HTTP/2 remote code execution flaw** (N/A)
 
 ## Connessioni con Pokefinance
 
