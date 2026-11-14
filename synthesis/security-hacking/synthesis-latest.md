@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #216
-**Data:** 2026-11-12 | **Ciclo:** 216 | **Articoli analizzati:** 1281
+# Security & Hacking — Sintesi Socratica #217
+**Data:** 2026-11-14 | **Ciclo:** 217 | **Articoli analizzati:** 1287
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Trezor confirms crypto-stealing implants in three wallets, releases fix** (N/A)
+- **German military drone operations disrupted by cyberattack** (N/A)
+- **Check Point warns of zero-day flaw exploited for root access** (N/A)
+- **Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper** (N/A)
+- **How one AI agent exposed five critical enterprise security gaps** (N/A)
+- **Microsoft says November security updates cause printing issues** (N/A)
 - **New N-able "4EverAble2Shell" zero-day exploited hours after PoC released** (N/A)
 - **Apache HTTP Server patches critical HTTP/2 remote code execution flaw** (N/A)
-- **Apify rotates API tokens, prompts 2FA resets after breach** (N/A)
-- **New Windows SignDrop zero-day gives hackers SYSTEM privileges** (N/A)
-- **Police dismantle Gootloader, CastleRAT, StealC malware infrastructure** (N/A)
-- **Your Endpoint Management Platform Could Be Your Biggest Security Risk** (N/A)
-- **N-able releases security hotfixes for zero-day vulnerabilities** (N/A)
-- **Microsoft fixes audio issues caused by September security updates** (N/A)
 
 ## Connessioni con Pokefinance
 

@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #216
-**Data:** 2026-11-12 | **Ciclo:** 216 | **Articoli analizzati:** 211
+# AI & System Design — Sintesi Socratica #217
+**Data:** 2026-11-14 | **Ciclo:** 217 | **Articoli analizzati:** 213
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem** (N/A)
+- **Opening the datasets behind our AI weather models** (N/A)
 - **LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B** (N/A)
 - **Introducing Gemini 4 Hydrogen** (N/A)
 - **The Definitive Fine-Tuning Guide for 3D Generation Models** (N/A)
 - **BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model** (N/A)
 - **Token Pooling-Aware Training for Multi-Vector Embedding Models** (N/A)
 - **Gemini 4 Carbon is now available** (N/A)
-- **Introducing AlphaProof Code: a breakthrough in verifying complex software at depth** (N/A)
-- **Gemini Robotics 2.5 accelerates real-world general dexterity** (N/A)
 
 ## Connessioni con Pokefinance
 
