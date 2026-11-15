@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-15
 
+### [FBI warns ARTEX AI hacking tool is powering global cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)
+*Sun, 15 No*
+
+The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]
+
+---
+### [America.gov Will Take First-Time Passport Applications Online. The Identity Problem Isn’t Solved Yet](https://securityboulevard.com/2026/11/america-gov-will-take-first-time-passport-applications-online-the-identity-problem-isnt-solved-yet/)
+*Sun, 15 No*
+
+Starting in 2027, Americans will be able to apply for their first passport entir...
+
+---
+### [What Is Cloud-Native Security? How to Secure Modern Cloud Environments](https://securityboulevard.com/2026/11/what-is-cloud-native-security-how-to-secure-modern-cloud-environments/)
+*Sun, 15 No*
+
+Cloud-native security is a set of practices and tools designed to protect applic...
+
+---
+
+## Aggiornamento 2026-11-15
+
 ### [TSMC employee data breach linked to cloud provider](https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/)
 *Sun, 15 No*
 
