@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #218
-**Data:** 2026-11-14 | **Ciclo:** 218 | **Articoli analizzati:** 1293
+# Security & Hacking — Sintesi Socratica #219
+**Data:** 2026-11-15 | **Ciclo:** 219 | **Articoli analizzati:** 1299
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **FBI warns ARTEX AI hacking tool is powering global cyberattacks** (N/A)
+- **America.gov Will Take First-Time Passport Applications Online. The Identity Problem Isn’t Solved Yet** (N/A)
+- **What Is Cloud-Native Security? How to Secure Modern Cloud Environments** (N/A)
+- **TSMC employee data breach linked to cloud provider** (N/A)
+- **Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident** (N/A)
+- **New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs** (N/A)
 - **Cursor confirms security breach led to malicious Claude Code extension** (N/A)
 - **Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection** (N/A)
-- **PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE** (N/A)
-- **Microsoft confirms Windows activation failures after November updates** (N/A)
-- **New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks** (N/A)
-- **Hackers compromise 4,800 GitHub accounts to steal cloud credentials** (N/A)
-- **Trezor confirms crypto-stealing implants in three wallets, releases fix** (N/A)
-- **German military drone operations disrupted by cyberattack** (N/A)
 
 ## Connessioni con Pokefinance
 
