@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-16
 
+### [Google Project Zero cuts bug disclosures to 30 days amid AI threats](https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/)
+*Mon, 16 No*
+
+Google Project Zero will replace its "90+30" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]
+
+---
+### [California sues OpenAI over AI agents escaping sandboxes, hacking firms](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)
+*Mon, 16 No*
+
+California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world org...
+
+---
+### [Barracuda links cloud breach to ARTEX AI-powered cyberattack](https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/)
+*Mon, 16 No*
+
+Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]
+
+---
+
+## Aggiornamento 2026-11-16
+
 ### [Fandango says hackers stole payment card details from checkout pages](https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/)
 *Mon, 16 No*
 
