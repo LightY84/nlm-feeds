@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-16
+
+### [Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes](https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/)
+*Mon, 16 No*
+
+Give AI coding agents live web access with the Firecrawl kit for Docker Sandboxes. Learn to search, scrape, and crawl websites with network controls.
+
+---
+
 ## Aggiornamento 2026-11-12
 
 ### [Donating KubeRay to CNCF](https://www.cncf.io/blog/2026/11/10/donating-kuberay-to-cncf/)
