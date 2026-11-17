@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #219
-**Data:** 2026-11-15 | **Ciclo:** 219 | **Articoli analizzati:** 477
+# Tecnologie Abilitanti IT — Sintesi Socratica #220
+**Data:** 2026-11-17 | **Ciclo:** 220 | **Articoli analizzati:** 478
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,7 @@
 
 ## Articoli recenti dai feed
 
+- **Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes** (N/A)
 - **Donating KubeRay to CNCF** (N/A)
 - **CNCF Hits Major Milestones with Global Community Growth, Record Industry Investment and a New Generation of Projects to Build AI Systems in Production** (N/A)
 - **Turn Jira tickets into GitLab merge requests with Duo Agent Platform** (2026-11-12)
@@ -28,7 +29,6 @@
 - **How to prevent leaks from Claude Code's 'Don't ask again' file** (2026-11-11)
   > This guide details how to find and remove secrets that were inadvertently committed to projects and repositories hosted on GitLab. We’ve confirmed tha
 - **OpenShell on Kubernetes: A guide for platform engineers** (N/A)
-- **CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption** (N/A)
 
 ## Connessioni con Pokefinance
 

@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #219
-**Data:** 2026-11-15 | **Ciclo:** 219 | **Articoli analizzati:** 1299
+# Security & Hacking — Sintesi Socratica #220
+**Data:** 2026-11-17 | **Ciclo:** 220 | **Articoli analizzati:** 1305
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Google Project Zero cuts bug disclosures to 30 days amid AI threats** (N/A)
+- **California sues OpenAI over AI agents escaping sandboxes, hacking firms** (N/A)
+- **Barracuda links cloud breach to ARTEX AI-powered cyberattack** (N/A)
+- **Fandango says hackers stole payment card details from checkout pages** (N/A)
+- **7 Tips For Complying with CJIS Password and MFA Requirements** (N/A)
+- **Google warns that fully-automated AI attacks are coming soon** (N/A)
 - **FBI warns ARTEX AI hacking tool is powering global cyberattacks** (N/A)
 - **America.gov Will Take First-Time Passport Applications Online. The Identity Problem Isn’t Solved Yet** (N/A)
-- **What Is Cloud-Native Security? How to Secure Modern Cloud Environments** (N/A)
-- **TSMC employee data breach linked to cloud provider** (N/A)
-- **Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident** (N/A)
-- **New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs** (N/A)
-- **Cursor confirms security breach led to malicious Claude Code extension** (N/A)
-- **Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection** (N/A)
 
 ## Connessioni con Pokefinance
 
