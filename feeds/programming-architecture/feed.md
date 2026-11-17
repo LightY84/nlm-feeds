@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-17
+
+### [Inference engineering for software engineers](https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers)
+*Tue, 17 No*
+
+When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive
+
+---
+
 ## Aggiornamento 2026-11-12
 
 ### [Bliki: Generated Glossary](https://martinfowler.com/bliki/GeneratedGlossary.html)

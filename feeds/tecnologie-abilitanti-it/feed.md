@@ -1,6 +1,32 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-17
+
+### [Scheduling the removal of the kube-proxy IPVS backend](https://kubernetes.io/blog/2026/11/16/ipvs-removal/)
+*Mon, 16 No*
+
+The ipvs backend for kube-proxy was an experiment in providing a
+service proxy implementation with better performance than the
+iptables backend. While it succeeded in that goal, the kernel IPVS
+API has turned out to be a bad match for the Kubernetes Services API,
+and ...
+
+---
+### [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)
+*Tue, 17 No*
+
+Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.
+The post Bu...
+
+---
+### [What CISA’s new cyber strategy means for how you ship software](https://about.gitlab.com/blog/cisa-2030-cyber-strategy/)
+*2026-11-17*
+
+On October 26, 2026, the Cybersecurity and Infrastructure Security Agency released CISA 2030: Defend, Harden, Prevail, three pillars of a four-year strategy for securing the nation’s critical infrastructure. The focus is on operational t...
+
+---
+
 ## Aggiornamento 2026-11-16
 
 ### [Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes](https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/)
