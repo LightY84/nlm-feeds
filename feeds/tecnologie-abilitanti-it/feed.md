@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-11-17
 
+### [Is your OpenTelemetry pipeline becoming a performance bottleneck?](https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/)
+*Tue, 17 No*
+
+At Cloud Native Days Austria 2026, I presented a talk called How to Defeat OTel’s Silent Killer: The Performance Overhead, exploring a problem that is easy to overlook when building observability pipelines: the cost of collecting...
+
+---
+
+## Aggiornamento 2026-11-17
+
 ### [Scheduling the removal of the kube-proxy IPVS backend](https://kubernetes.io/blog/2026/11/16/ipvs-removal/)
 *Mon, 16 No*
 
