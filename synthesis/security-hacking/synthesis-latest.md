@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #220
-**Data:** 2026-11-17 | **Ciclo:** 220 | **Articoli analizzati:** 1305
+# Security & Hacking — Sintesi Socratica #221
+**Data:** 2026-11-18 | **Ciclo:** 221 | **Articoli analizzati:** 1311
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Japan takes Fugaku supercomputer offlline after cyberattack** (N/A)
+- **Ransomware affiliate suspect extradited to US, faces 27 years in prison** (N/A)
+- **Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware** (N/A)
+- **Tor releases emergency update amid ongoing DDoS attack** (N/A)
+- **Court clears brothers of $25 million Ethereum crypto heist charges** (N/A)
+- **Uber notifies drivers of data breach affecting nearly 150,000 people** (N/A)
 - **Google Project Zero cuts bug disclosures to 30 days amid AI threats** (N/A)
 - **California sues OpenAI over AI agents escaping sandboxes, hacking firms** (N/A)
-- **Barracuda links cloud breach to ARTEX AI-powered cyberattack** (N/A)
-- **Fandango says hackers stole payment card details from checkout pages** (N/A)
-- **7 Tips For Complying with CJIS Password and MFA Requirements** (N/A)
-- **Google warns that fully-automated AI attacks are coming soon** (N/A)
-- **FBI warns ARTEX AI hacking tool is powering global cyberattacks** (N/A)
-- **America.gov Will Take First-Time Passport Applications Online. The Identity Problem Isn’t Solved Yet** (N/A)
 
 ## Connessioni con Pokefinance
 

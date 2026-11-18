@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #220
-**Data:** 2026-11-17 | **Ciclo:** 220 | **Articoli analizzati:** 55
+# Programming & Architecture — Sintesi Socratica #221
+**Data:** 2026-11-18 | **Ciclo:** 221 | **Articoli analizzati:** 56
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,7 @@
 
 ## Articoli recenti dai feed
 
+- **Inference engineering for software engineers** (N/A)
 - **Bliki: Generated Glossary** (2026-11-12)
   > When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. Such 
 - **Fragments: November 10** (2026-11-10)
@@ -34,7 +35,6 @@
   > Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect som
 - **Are Harnesses Worth the Cost?** (2026-10-13)
   > Naresh Jain compares coding agents building the same API service ...
-- **Building resilient systems with Sam Newman** (N/A)
 
 ## Connessioni con Pokefinance
 

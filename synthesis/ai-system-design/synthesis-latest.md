@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #220
-**Data:** 2026-11-17 | **Ciclo:** 220 | **Articoli analizzati:** 213
+# AI & System Design — Sintesi Socratica #221
+**Data:** 2026-11-18 | **Ciclo:** 221 | **Articoli analizzati:** 213
 
 ## Stato attuale della conoscenza
 
