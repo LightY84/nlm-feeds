@@ -3,6 +3,21 @@
 
 ## Aggiornamento 2026-11-18
 
+### [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+*Wed, 18 No*
+
+
+
+---
+### [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+*Wed, 18 No*
+
+
+
+---
+
+## Aggiornamento 2026-11-18
+
 ### [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)
 *Wed, 18 No*
 
