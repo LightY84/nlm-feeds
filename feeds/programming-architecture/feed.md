@@ -1,6 +1,16 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-18
+
+### [Data Contracts](https://martinfowler.com/articles/data-contracts.html)
+*2026-11-18*
+
+Data contracts are a way to describe the contents and guarantees of
+     datasets. Simon Ha...
+
+---
+
 ## Aggiornamento 2026-11-17
 
 ### [Inference engineering for software engineers](https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers)

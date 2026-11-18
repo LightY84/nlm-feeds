@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-18
+
+### [The Trust Layer: Securing Agentic AI with Docker AI Governance](https://www.docker.com/blog/agentic-ai-security-docker-governance/)
+*Wed, 18 No*
+
+Learn how Docker AI Governance secures agentic AI with sandbox policies, MCP tool governance, and audit visibility to support controlled AI agent workflows.
+
+---
+### [GitLab Transcend Hackathon: Meet the 'Life After Code' winners](https://about.gitlab.com/blog/gitlab-transcend-hackathon-life-after-code/)
+*2026-11-18*
+
+Code generation is the easy part now. The hard part is everything that comes after it: getting software from a working change to running in production. That’s the problem we put to the community in the Transcend Hackathon: “Life after code, the path to production at the speed of imagination”.<...
+
+---
+### [Optimizing Kubernetes admission control: Where Kyverno’s CEL admission cost actually goes](https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes/)
+*Wed, 18 No*
+
+Kyverno&#8217;s CEL (Common Expression Language)-based engines exist to evaluate policy expressions. So when we profiled the admission path, we expected to find the bulk of the cost in CEL evaluation. It was not there. About 86%...
+
+---
+
 ## Aggiornamento 2026-11-17
 
 ### [Is your OpenTelemetry pipeline becoming a performance bottleneck?](https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/)

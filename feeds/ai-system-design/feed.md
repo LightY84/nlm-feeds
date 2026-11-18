@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-18
+
+### [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)
+*Wed, 18 No*
+
+
+
+---
+### [Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)
+*Wed, 18 No*
+
+
+
+---
+
 ## Aggiornamento 2026-11-13
 
 ### [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
