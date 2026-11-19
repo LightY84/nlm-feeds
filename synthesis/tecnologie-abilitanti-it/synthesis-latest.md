@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #221
-**Data:** 2026-11-18 | **Ciclo:** 221 | **Articoli analizzati:** 482
+# Tecnologie Abilitanti IT — Sintesi Socratica #222
+**Data:** 2026-11-19 | **Ciclo:** 222 | **Articoli analizzati:** 485
 
 ## Stato attuale della conoscenza
 
@@ -19,16 +19,16 @@
 
 ## Articoli recenti dai feed
 
+- **The Trust Layer: Securing Agentic AI with Docker AI Governance** (N/A)
+- **GitLab Transcend Hackathon: Meet the 'Life After Code' winners** (2026-11-18)
+  > Code generation is the easy part now. The hard part is everything that comes after it: getting software from a working change to running in production
+- **Optimizing Kubernetes admission control: Where Kyverno’s CEL admission cost actually goes** (N/A)
 - **Is your OpenTelemetry pipeline becoming a performance bottleneck?** (N/A)
 - **Scheduling the removal of the kube-proxy IPVS backend** (N/A)
 - **Building the Agent Host Protocol for sessions that continue across devices** (N/A)
 - **What CISA’s new cyber strategy means for how you ship software** (2026-11-17)
   > On October 26, 2026, the Cybersecurity and Infrastructure Security Agency released CISA 2030: Defend, Harden, Prevail, three pillars of a four-year st
 - **Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes** (N/A)
-- **Donating KubeRay to CNCF** (N/A)
-- **CNCF Hits Major Milestones with Global Community Growth, Record Industry Investment and a New Generation of Projects to Build AI Systems in Production** (N/A)
-- **Turn Jira tickets into GitLab merge requests with Duo Agent Platform** (2026-11-12)
-  > Many teams plan in Jira and ship in GitLab. Even if you already use GitLab Duo Agent Platform, you still open Jira to read each ticket, copy it into a
 
 ## Connessioni con Pokefinance
 

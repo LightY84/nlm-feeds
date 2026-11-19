@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #221
-**Data:** 2026-11-18 | **Ciclo:** 221 | **Articoli analizzati:** 1311
+# Security & Hacking — Sintesi Socratica #222
+**Data:** 2026-11-19 | **Ciclo:** 222 | **Articoli analizzati:** 1317
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Data breach impacts 40 Irish credit unions in reported IT provider hack** (N/A)
+- **Critical Java4Shell flaw allows RCE attacks on major Java applications** (N/A)
+- **Cloud keys leaked in Docker Hub images are stolen within seconds** (N/A)
+- **From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters** (N/A)
+- **Apache warns of Roller RCE vulnerability exploited in attacks** (N/A)
+- **Microsoft announces Windows Server 2028 with hardened security** (N/A)
 - **Japan takes Fugaku supercomputer offlline after cyberattack** (N/A)
 - **Ransomware affiliate suspect extradited to US, faces 27 years in prison** (N/A)
-- **Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware** (N/A)
-- **Tor releases emergency update amid ongoing DDoS attack** (N/A)
-- **Court clears brothers of $25 million Ethereum crypto heist charges** (N/A)
-- **Uber notifies drivers of data breach affecting nearly 150,000 people** (N/A)
-- **Google Project Zero cuts bug disclosures to 30 days amid AI threats** (N/A)
-- **California sues OpenAI over AI agents escaping sandboxes, hacking firms** (N/A)
 
 ## Connessioni con Pokefinance
 

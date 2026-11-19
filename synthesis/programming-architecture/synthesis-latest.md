@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #221
-**Data:** 2026-11-18 | **Ciclo:** 221 | **Articoli analizzati:** 56
+# Programming & Architecture — Sintesi Socratica #222
+**Data:** 2026-11-19 | **Ciclo:** 222 | **Articoli analizzati:** 57
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,8 @@
 
 ## Articoli recenti dai feed
 
+- **Data Contracts** (2026-11-18)
+  > Data contracts are a way to describe the contents and guarantees of datasets. Simon Ha...
 - **Inference engineering for software engineers** (N/A)
 - **Bliki: Generated Glossary** (2026-11-12)
   > When we use LLMs in a specialized domain, such as the operations of any reasonably-large organization, there is a lot of specialized vocabulary. Such 
@@ -33,8 +35,6 @@
   > Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they hav
 - **Fragments: October 21** (2026-10-21)
   > Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect som
-- **Are Harnesses Worth the Cost?** (2026-10-13)
-  > Naresh Jain compares coding agents building the same API service ...
 
 ## Connessioni con Pokefinance
 

@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #221
-**Data:** 2026-11-18 | **Ciclo:** 221 | **Articoli analizzati:** 213
+# AI & System Design — Sintesi Socratica #222
+**Data:** 2026-11-19 | **Ciclo:** 222 | **Articoli analizzati:** 217
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency** (N/A)
+- **Why your fine-tuning job takes longer than the FLOPs say** (N/A)
+- **180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers** (N/A)
+- **Genie 4 is now available** (N/A)
 - **llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem** (N/A)
 - **Opening the datasets behind our AI weather models** (N/A)
 - **LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B** (N/A)
 - **Introducing Gemini 4 Hydrogen** (N/A)
-- **The Definitive Fine-Tuning Guide for 3D Generation Models** (N/A)
-- **BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model** (N/A)
-- **Token Pooling-Aware Training for Multi-Vector Embedding Models** (N/A)
-- **Gemini 4 Carbon is now available** (N/A)
 
 ## Connessioni con Pokefinance
 
