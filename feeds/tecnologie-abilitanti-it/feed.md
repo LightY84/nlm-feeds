@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-19
 
+### [Rotate a leaked GitLab token and let GitLab Duo fix the code](https://about.gitlab.com/blog/secret-detection-token-rotate-and-fix/)
+*2026-11-19*
+
+Secret detection alerts you when an active personal access token (PAT) is exposed in your default branch. Acting on that finding is harder: revoking the token breaks dependent pipelines, and replacing it safely takes several manual steps. While the finding waits in your vulnerability report, t...
+
+---
+### [Turn Slack conversations into trusted software, faster](https://about.gitlab.com/blog/gitlab-slack-integration-for-software-factory/)
+*2026-11-19*
+
+Most software starts as a conversation: a customer requests a new capability, a product manager weighs it against the roadmap, an engineer checks feasibility, and a security lead asks what it touches.Then someone has to turn it into work. They reread the thread, retype the decisions int...
+
+---
+### [Keep recurring work moving with scheduled automations](https://about.gitlab.com/blog/gitlab-scheduled-automations/)
+*2026-11-19*
+
+Every engineering team has work that needs regular attention, like triaging new issues or investigating incidents. Among DevSecOps professionals using AI tools, 43% say automating repetitive tasks has created the most efficiency, according to GitLab’s <a href="https://about.gitlab.com/resource...
+
+---
+
+## Aggiornamento 2026-11-19
+
 ### [Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images](https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/)
 *Thu, 19 No*
 
