@@ -1,6 +1,15 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-19
+
+### [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)
+*Wed, 18 No*
+
+
+
+---
+
 ## Aggiornamento 2026-11-18
 
 ### [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)

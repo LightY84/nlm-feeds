@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-19
+
+### [Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images](https://www.docker.com/blog/docker-patches-java4shell-and-the-nginx-http-2-with-docker-hardened-images/)
+*Thu, 19 No*
+
+Docker publishes fixed images for both Java4Shell and the NGINX HTTP/2 in the Docker Hardened Images (DHI) catalog.
+
+---
+### [Meet the New Docker: Built to Run on Trust](https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/)
+*Thu, 19 No*
+
+Docker launches a new brand built on trust. Learn why Docker is evolving for AI agents, what stays the same, and how to run agents securely with Docker.
+
+---
+### [The recommended GitLab configuration for agentic engineering](https://about.gitlab.com/blog/recommended-config-for-agentic-engineering/)
+*2026-11-18*
+
+Agents keep getting better at more than drafting code. Teams already use them to move work through review, repair pipelines, and push changes toward merge. That speed only helps if every change is based on the software lifecycle context that lives in a unified platform and still passes the sam...
+
+---
+
 ## Aggiornamento 2026-11-18
 
 ### [The Trust Layer: Securing Agentic AI with Docker AI Governance](https://www.docker.com/blog/agentic-ai-security-docker-governance/)
