@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-20
+
+### [Cut your vulnerability backlog with agentic remediation](https://about.gitlab.com/blog/gitlab-agentic-remediation/)
+*2026-11-19*
+
+Vulnerability backlogs are growing faster than teams can clear them. AI writes more code and finds more flaws, while fixes still move at human speed. NIST’s National Vulnerability Database has already published twice as many CVEs in 2026 as in all of 2025, and ceased enriching most CVEs this p...
+
+---
+### [Duo Agent Platform now does up to 2x more per GitLab Credit](https://about.gitlab.com/blog/duo-agent-platform-does-more-per-gitlab-credit/)
+*2026-11-19*
+
+GitLab Duo Agent Platform has become more efficient in how it uses the underlying models offered through GitLab. That includes all the latest models from Anthropic, OpenAI, Google, and GitLab-hosted open-weight models.And, we’re passing the savings to you.Each task you give to ag...
+
+---
+### [The best way to use your coding agents with GitLab](https://about.gitlab.com/blog/coding-agents-with-gitlab/)
+*2026-11-19*
+
+Say you and your team already use Claude Code, Codex, Cursor, Devin, or OpenCode to write code. Maybe even more than one of them.What happens next depends on everyone’s personal setup.Some have their agent review changes, watch CI pipelines and security checks, with a different a...
+
+---
+
 ## Aggiornamento 2026-11-19
 
 ### [Rotate a leaked GitLab token and let GitLab Duo fix the code](https://about.gitlab.com/blog/secret-detection-token-rotate-and-fix/)
