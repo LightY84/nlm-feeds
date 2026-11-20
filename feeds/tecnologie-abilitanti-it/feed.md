@@ -3,6 +3,15 @@
 
 ## Aggiornamento 2026-11-20
 
+### [Agentic engineering with GitLab and your local agent: A walkthrough](https://about.gitlab.com/blog/agentic-engineering-walkthrough/)
+*2026-11-18*
+
+You can build an agentic engineering environment to drive greater automation throughout your workflow. How? Start in the harness you already use and connect to GitLab Duo Agent Platform once with a skill. Longer, rep...
+
+---
+
+## Aggiornamento 2026-11-20
+
 ### [Cut your vulnerability backlog with agentic remediation](https://about.gitlab.com/blog/gitlab-agentic-remediation/)
 *2026-11-19*
 

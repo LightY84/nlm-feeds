@@ -1,6 +1,18 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-20
+
+### [Fragments: November 20](https://martinfowler.com/fragments/2026-11-20.html)
+*2026-11-20*
+
+Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review.
+
+
+  Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7),...
+
+---
+
 ## Aggiornamento 2026-11-18
 
 ### [Data Contracts](https://martinfowler.com/articles/data-contracts.html)
