@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #222
-**Data:** 2026-11-19 | **Ciclo:** 222 | **Articoli analizzati:** 485
+# Tecnologie Abilitanti IT — Sintesi Socratica #223
+**Data:** 2026-11-20 | **Ciclo:** 223 | **Articoli analizzati:** 491
 
 ## Stato attuale della conoscenza
 
@@ -19,16 +19,19 @@
 
 ## Articoli recenti dai feed
 
+- **Rotate a leaked GitLab token and let GitLab Duo fix the code** (2026-11-19)
+  > Secret detection alerts you when an active personal access token (PAT) is exposed in your default branch. Acting on that finding is harder: revoking t
+- **Turn Slack conversations into trusted software, faster** (2026-11-19)
+  > Most software starts as a conversation: a customer requests a new capability, a product manager weighs it against the roadmap, an engineer checks feas
+- **Keep recurring work moving with scheduled automations** (2026-11-19)
+  > Every engineering team has work that needs regular attention, like triaging new issues or investigating incidents. Among DevSecOps professionals using
+- **Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images** (N/A)
+- **Meet the New Docker: Built to Run on Trust** (N/A)
+- **The recommended GitLab configuration for agentic engineering** (2026-11-18)
+  > Agents keep getting better at more than drafting code. Teams already use them to move work through review, repair pipelines, and push changes toward m
 - **The Trust Layer: Securing Agentic AI with Docker AI Governance** (N/A)
 - **GitLab Transcend Hackathon: Meet the 'Life After Code' winners** (2026-11-18)
   > Code generation is the easy part now. The hard part is everything that comes after it: getting software from a working change to running in production
-- **Optimizing Kubernetes admission control: Where Kyverno’s CEL admission cost actually goes** (N/A)
-- **Is your OpenTelemetry pipeline becoming a performance bottleneck?** (N/A)
-- **Scheduling the removal of the kube-proxy IPVS backend** (N/A)
-- **Building the Agent Host Protocol for sessions that continue across devices** (N/A)
-- **What CISA’s new cyber strategy means for how you ship software** (2026-11-17)
-  > On October 26, 2026, the Cybersecurity and Infrastructure Security Agency released CISA 2030: Defend, Harden, Prevail, three pillars of a four-year st
-- **Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes** (N/A)
 
 ## Connessioni con Pokefinance
 
