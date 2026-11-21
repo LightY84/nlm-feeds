@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #224
-**Data:** 2026-11-21 | **Ciclo:** 224 | **Articoli analizzati:** 1329
+# Security & Hacking — Sintesi Socratica #225
+**Data:** 2026-11-21 | **Ciclo:** 225 | **Articoli analizzati:** 1335
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Microsoft Entra Connect Health flaw exploited to steal tenant data** (N/A)
+- **Hackers steal data of 1.6 million SBC Medical Group customers** (N/A)
+- **ASUS warns of critical hard-coded key flaw in Control Center Express** (N/A)
+- **BADBOX botnet returns with record-breaking 40 billion daily ad requests** (N/A)
+- **FBI reportedly hacked again, this time targeting nationwide police database** (N/A)
+- **VMware patches vCenter zero-day exploited in attacks since September** (N/A)
 - **Bell Canada says 'agentic' hacker stole enterprise customer data** (N/A)
 - **N-able says recent security breach led to major service outage** (N/A)
-- **F5 releases emergency patches for critical BIG-IP RCE flaws** (N/A)
-- **Hackers use autonomous AI tool Cairn to find zero-day, take over server** (N/A)
-- **Vendor data breach exposes Chase, Visa, Mastercard customer info** (N/A)
-- **Still tracking company passwords in spreadsheets? You’re flying blind.** (N/A)
-- **Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers** (N/A)
-- **Drupal patches critical RCE flaw, warns exploits may surface quickly** (N/A)
 
 ## Connessioni con Pokefinance
 

@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #224
-**Data:** 2026-11-21 | **Ciclo:** 224 | **Articoli analizzati:** 58
+# Programming & Architecture — Sintesi Socratica #225
+**Data:** 2026-11-21 | **Ciclo:** 225 | **Articoli analizzati:** 58
 
 ## Stato attuale della conoscenza
 

@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #224
-**Data:** 2026-11-21 | **Ciclo:** 224 | **Articoli analizzati:** 495
+# Tecnologie Abilitanti IT — Sintesi Socratica #225
+**Data:** 2026-11-21 | **Ciclo:** 225 | **Articoli analizzati:** 498
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,10 @@
 
 ## Articoli recenti dai feed
 
+- **Java4Shell: GitLab helps find and remediate a critical Java flaw** (2026-11-20)
+  > GitLab has internally assessed the impact of Java4Shell, and concluded it is not exploitable in GitLab-managed infrastructure. Exploitation requires a
+- **How to support your app on Kubernetes environments you don’t control** (N/A)
+- **Your runtime security tool is not your baseline: Silos dressed as autonomy in cloud native teams** (N/A)
 - **Agentic engineering with GitLab and your local agent: A walkthrough** (2026-11-18)
   > You can build an agentic engineering environment to drive greater automation throughout your workflow. How? Start in the harness you already use and c
 - **Cut your vulnerability backlog with agentic remediation** (2026-11-19)
@@ -29,11 +33,6 @@
   > Say you and your team already use Claude Code, Codex, Cursor, Devin, or OpenCode to write code. Maybe even more than one of them.What happens next dep
 - **Rotate a leaked GitLab token and let GitLab Duo fix the code** (2026-11-19)
   > Secret detection alerts you when an active personal access token (PAT) is exposed in your default branch. Acting on that finding is harder: revoking t
-- **Turn Slack conversations into trusted software, faster** (2026-11-19)
-  > Most software starts as a conversation: a customer requests a new capability, a product manager weighs it against the roadmap, an engineer checks feas
-- **Keep recurring work moving with scheduled automations** (2026-11-19)
-  > Every engineering team has work that needs regular attention, like triaging new issues or investigating incidents. Among DevSecOps professionals using
-- **Docker patches Java4Shell and the NGINX HTTP/2 with Docker Hardened Images** (N/A)
 
 ## Connessioni con Pokefinance
 
