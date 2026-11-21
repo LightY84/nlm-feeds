@@ -1,6 +1,27 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-21
+
+### [Java4Shell: GitLab helps find and remediate a critical Java flaw](https://about.gitlab.com/blog/java4shell-critical-java-flaw-how-gitlab-helps/)
+*2026-11-20*
+
+GitLab has internally assessed the impact of Java4Shell, and concluded it is not exploitable in GitLab-managed infrastructure. Exploitation requires a specific combination of conditions, which we confirmed are not present in our production environment. A single component was found ...
+
+---
+### [How to support your app on Kubernetes environments you don’t control](https://www.cncf.io/blog/2026/11/19/how-to-support-your-app-on-kubernetes-environments-you-dont-control/)
+*Thu, 19 No*
+
+Running an application in Kubernetes is one thing, but supporting that application in Kubernetes environments your customers run is something else entirely. You don’t control the cluster configuration, its upgrade schedule, the surrounding tooling, or the...
+
+---
+### [Your runtime security tool is not your baseline: Silos dressed as autonomy in cloud native teams](https://www.cncf.io/blog/2026/11/16/your-runtime-security-tool-is-not-your-baseline-silos-dressed-as-autonomy-in-cloud-native-teams/)
+*Tue, 17 No*
+
+A deadline creates pressure, and a team decides to solve its part of the problem directly. I once saw this play out in a Kubernetes security initiative. The team had capable engineers, a clear objective and...
+
+---
+
 ## Aggiornamento 2026-11-20
 
 ### [Agentic engineering with GitLab and your local agent: A walkthrough](https://about.gitlab.com/blog/agentic-engineering-walkthrough/)
