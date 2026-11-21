@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #223
-**Data:** 2026-11-20 | **Ciclo:** 223 | **Articoli analizzati:** 57
+# Programming & Architecture — Sintesi Socratica #224
+**Data:** 2026-11-21 | **Ciclo:** 224 | **Articoli analizzati:** 58
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,8 @@
 
 ## Articoli recenti dai feed
 
+- **Fragments: November 20** (2026-11-20)
+  > Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review. Between a typical unhealthy pull request (CodeHeal
 - **Data Contracts** (2026-11-18)
   > Data contracts are a way to describe the contents and guarantees of datasets. Simon Ha...
 - **Inference engineering for software engineers** (N/A)
@@ -33,8 +35,6 @@
 - **Software engineering at Google & CS education with Titus Winters** (N/A)
 - **Fragments: October 28** (2026-10-28)
   > Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they hav
-- **Fragments: October 21** (2026-10-21)
-  > Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect som
 
 ## Connessioni con Pokefinance
 

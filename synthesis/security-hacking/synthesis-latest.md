@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #223
-**Data:** 2026-11-20 | **Ciclo:** 223 | **Articoli analizzati:** 1323
+# Security & Hacking — Sintesi Socratica #224
+**Data:** 2026-11-21 | **Ciclo:** 224 | **Articoli analizzati:** 1329
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Bell Canada says 'agentic' hacker stole enterprise customer data** (N/A)
+- **N-able says recent security breach led to major service outage** (N/A)
+- **F5 releases emergency patches for critical BIG-IP RCE flaws** (N/A)
+- **Hackers use autonomous AI tool Cairn to find zero-day, take over server** (N/A)
+- **Vendor data breach exposes Chase, Visa, Mastercard customer info** (N/A)
+- **Still tracking company passwords in spreadsheets? You’re flying blind.** (N/A)
 - **Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers** (N/A)
 - **Drupal patches critical RCE flaw, warns exploits may surface quickly** (N/A)
-- **Microsoft tests new Edge Lockdown Mode that disables GPU APIs** (N/A)
-- **Transport for London breach exposes 265,000 Oyster card users' data** (N/A)
-- **PHP security updates fix 18 flaws, including critical RCE bugs** (N/A)
-- **Five warning signs of ransomware breach before encryption or data theft** (N/A)
-- **Data breach impacts 40 Irish credit unions in reported IT provider hack** (N/A)
-- **Critical Java4Shell flaw allows RCE attacks on major Java applications** (N/A)
 
 ## Connessioni con Pokefinance
 
