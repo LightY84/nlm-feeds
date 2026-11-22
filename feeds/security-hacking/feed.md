@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-22
 
+### [Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)
+*Sun, 22 No*
+
+GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]
+
+---
+### [The CIAM Buyer’s Handbook: What It Covers and How to Use It in a Vendor Evaluation](https://securityboulevard.com/2026/11/the-ciam-buyers-handbook-what-it-covers-and-how-to-use-it-in-a-vendor-evaluation/)
+*Sun, 22 No*
+
+The CIAM Buyer's Handbook is a free, seven-chapter ebook for the people who pick...
+
+---
+### [Daily OT Security News: November 22, 2026](https://securityboulevard.com/2026/11/daily-ot-security-news-november-22-2026/)
+*Sun, 22 No*
+
+Daily OT Security News: November 22, 2026 Today’s briefing covers five developme...
+
+---
+
+## Aggiornamento 2026-11-22
+
 ### [Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)
 *Sun, 22 No*
 
