@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #225
-**Data:** 2026-11-21 | **Ciclo:** 225 | **Articoli analizzati:** 1335
+# Security & Hacking — Sintesi Socratica #226
+**Data:** 2026-11-22 | **Ciclo:** 226 | **Articoli analizzati:** 1341
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices** (N/A)
+- **The CIAM Buyer’s Handbook: What It Covers and How to Use It in a Vendor Evaluation** (N/A)
+- **Daily OT Security News: November 22, 2026** (N/A)
+- **Cleverbridge warns hackers stole credit card numbers, CVVs in data breach** (N/A)
+- **Rackspace Spot breach let hackers access customer Kubernetes secrets** (N/A)
+- **What AI Exposure Looks Like in Model Output | Kovrr** (N/A)
 - **Microsoft Entra Connect Health flaw exploited to steal tenant data** (N/A)
 - **Hackers steal data of 1.6 million SBC Medical Group customers** (N/A)
-- **ASUS warns of critical hard-coded key flaw in Control Center Express** (N/A)
-- **BADBOX botnet returns with record-breaking 40 billion daily ad requests** (N/A)
-- **FBI reportedly hacked again, this time targeting nationwide police database** (N/A)
-- **VMware patches vCenter zero-day exploited in attacks since September** (N/A)
-- **Bell Canada says 'agentic' hacker stole enterprise customer data** (N/A)
-- **N-able says recent security breach led to major service outage** (N/A)
 
 ## Connessioni con Pokefinance
 
