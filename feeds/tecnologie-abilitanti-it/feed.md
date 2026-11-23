@@ -1,6 +1,18 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-23
+
+### [Kubernetes v1.38 Sneak Peek](https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/)
+*Mon, 23 No*
+
+As we get closer to the release date for Kubernetes v1.38, the project develops and matures,
+features may be deprecated, removed, or replaced with better ones for the project's overall health.
+This blog post outlines some of the planned changes for the Kubernetes v1.38 release that the
+release...
+
+---
+
 ## Aggiornamento 2026-11-21
 
 ### [Java4Shell: GitLab helps find and remediate a critical Java flaw](https://about.gitlab.com/blog/java4shell-critical-java-flaw-how-gitlab-helps/)

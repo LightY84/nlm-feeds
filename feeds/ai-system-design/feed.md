@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-23
+
+### [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals)
+*Mon, 23 No*
+
+
+
+---
+### [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
+*Mon, 23 No*
+
+Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.
+
+---
+
 ## Aggiornamento 2026-11-19
 
 ### [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)
