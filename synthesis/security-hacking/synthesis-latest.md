@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #226
-**Data:** 2026-11-22 | **Ciclo:** 226 | **Articoli analizzati:** 1341
+# Security & Hacking — Sintesi Socratica #227
+**Data:** 2026-11-24 | **Ciclo:** 227 | **Articoli analizzati:** 1347
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **GlobeTopper loses $2.5 million after hackers steal $70k in gift cards** (N/A)
+- **AI Agents Are Creating a Shared Responsibility Gap** (N/A)
+- **CISA flags critical Cisco RCE flaw as actively exploited in attacks** (N/A)
+- **South Korea’s power giant KEPCO confirms data breach impacting 1.5 million** (N/A)
+- **Microsoft Azure flaw exploited to steal customers' API credentials** (N/A)
+- **Spanish LaLiga confirms hackers stole soccer fans’ personal data** (N/A)
 - **Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices** (N/A)
 - **The CIAM Buyer’s Handbook: What It Covers and How to Use It in a Vendor Evaluation** (N/A)
-- **Daily OT Security News: November 22, 2026** (N/A)
-- **Cleverbridge warns hackers stole credit card numbers, CVVs in data breach** (N/A)
-- **Rackspace Spot breach let hackers access customer Kubernetes secrets** (N/A)
-- **What AI Exposure Looks Like in Model Output | Kovrr** (N/A)
-- **Microsoft Entra Connect Health flaw exploited to steal tenant data** (N/A)
-- **Hackers steal data of 1.6 million SBC Medical Group customers** (N/A)
 
 ## Connessioni con Pokefinance
 

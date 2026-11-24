@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #226
-**Data:** 2026-11-22 | **Ciclo:** 226 | **Articoli analizzati:** 218
+# AI & System Design — Sintesi Socratica #227
+**Data:** 2026-11-24 | **Ciclo:** 227 | **Articoli analizzati:** 220
 
 ## Stato attuale della conoscenza
 
@@ -18,14 +18,14 @@
 
 ## Articoli recenti dai feed
 
+- **How to build and maintain an agentic evaluation** (N/A)
+- **Finding faster quantum algorithms with agents and formal verification** (N/A)
 - **Introducing Gemini 4 Neon** (N/A)
 - **DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency** (N/A)
 - **Why your fine-tuning job takes longer than the FLOPs say** (N/A)
 - **180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers** (N/A)
 - **Genie 4 is now available** (N/A)
 - **llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem** (N/A)
-- **Opening the datasets behind our AI weather models** (N/A)
-- **LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B** (N/A)
 
 ## Connessioni con Pokefinance
 
