@@ -1,6 +1,15 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-24
+
+### [GitLab Dedicated: A go-live guide](https://about.gitlab.com/blog/gitlab-dedicated-a-go-live-guide/)
+*2026-11-24*
+
+GitLab Dedicated is a single-tenant SaaS solution that is fully isolated, deployed in your preferred AWS cloud region, and hosted and maintained by GitLab. GitLab Dedicated and compliance covers why regulated organ...
+
+---
+
 ## Aggiornamento 2026-11-23
 
 ### [Kubernetes v1.38 Sneak Peek](https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/)
