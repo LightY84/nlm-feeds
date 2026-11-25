@@ -1,6 +1,15 @@
 # Programming & Architecture — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-25
+
+### [How Anthropic builds software in 2026 with Katelyn Lesse](https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in)
+*Wed, 25 No*
+
+Katelyn Lesse explains how Anthropic rewrote Claude&#8217;s API in Rust and how AI agents are changing engineering at the company.
+
+---
+
 ## Aggiornamento 2026-11-20
 
 ### [Fragments: November 20](https://martinfowler.com/fragments/2026-11-20.html)

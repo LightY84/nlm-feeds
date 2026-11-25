@@ -1,6 +1,27 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-25
+
+### [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
+*Wed, 25 No*
+
+
+
+---
+### [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
+*Wed, 25 No*
+
+
+
+---
+### [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
+*Wed, 25 No*
+
+
+
+---
+
 ## Aggiornamento 2026-11-23
 
 ### [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals)

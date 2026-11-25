@@ -1,6 +1,21 @@
 # Tecnologie Abilitanti IT — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-25
+
+### [Prove your AI agent guardrails work](https://www.docker.com/blog/prove-your-ai-agent-guardrails-work/)
+*Wed, 25 No*
+
+Coding agents can reach more than their task needs. See how Docker AI Governance controls network, filesystem, credential, and MCP access, then test it.
+
+---
+### [🚀 The story behind “Drone 2”: My KubeCon + CloudNativeCon North America 2026 keynote](https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote/)
+*Wed, 25 No*
+
+An open source adventure featuring Kubernetes, agent-substrate, kagent, AI agents, drones, and more! Just 30 seconds before going live for the KubeCon + CloudNativeCon NA 2026 closing keynote, “Cloud Native Without Limits: What Can AI Agents...
+
+---
+
 ## Aggiornamento 2026-11-24
 
 ### [GitLab Dedicated: A go-live guide](https://about.gitlab.com/blog/gitlab-dedicated-a-go-live-guide/)
