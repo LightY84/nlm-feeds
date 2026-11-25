@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #227
-**Data:** 2026-11-24 | **Ciclo:** 227 | **Articoli analizzati:** 1347
+# Security & Hacking — Sintesi Socratica #228
+**Data:** 2026-11-25 | **Ciclo:** 228 | **Articoli analizzati:** 1353
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **Rackspace shuts down Spot cloud platform after security breach** (N/A)
+- **Hackers compromise Check Point Servers in 22 organizations** (N/A)
+- **From Vulnerability Noise to Resilience: Rethinking Security in the AI Era** (N/A)
+- **Turnitin discloses cyberattack affecting customer-facing systems** (N/A)
+- **Radware discloses breach exposing customer cloud access keys** (N/A)
+- **European Commission confirms data theft in EU Academy breach** (N/A)
 - **GlobeTopper loses $2.5 million after hackers steal $70k in gift cards** (N/A)
 - **AI Agents Are Creating a Shared Responsibility Gap** (N/A)
-- **CISA flags critical Cisco RCE flaw as actively exploited in attacks** (N/A)
-- **South Korea’s power giant KEPCO confirms data breach impacting 1.5 million** (N/A)
-- **Microsoft Azure flaw exploited to steal customers' API credentials** (N/A)
-- **Spanish LaLiga confirms hackers stole soccer fans’ personal data** (N/A)
-- **Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices** (N/A)
-- **The CIAM Buyer’s Handbook: What It Covers and How to Use It in a Vendor Evaluation** (N/A)
 
 ## Connessioni con Pokefinance
 

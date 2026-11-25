@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #227
-**Data:** 2026-11-24 | **Ciclo:** 227 | **Articoli analizzati:** 499
+# Tecnologie Abilitanti IT — Sintesi Socratica #228
+**Data:** 2026-11-25 | **Ciclo:** 228 | **Articoli analizzati:** 500
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,8 @@
 
 ## Articoli recenti dai feed
 
+- **GitLab Dedicated: A go-live guide** (2026-11-24)
+  > GitLab Dedicated is a single-tenant SaaS solution that is fully isolated, deployed in your preferred AWS cloud region, and hosted and maintained by Gi
 - **Kubernetes v1.38 Sneak Peek** (N/A)
 - **Java4Shell: GitLab helps find and remediate a critical Java flaw** (2026-11-20)
   > GitLab has internally assessed the impact of Java4Shell, and concluded it is not exploitable in GitLab-managed infrastructure. Exploitation requires a
@@ -30,8 +32,6 @@
   > Vulnerability backlogs are growing faster than teams can clear them. AI writes more code and finds more flaws, while fixes still move at human speed. 
 - **Duo Agent Platform now does up to 2x more per GitLab Credit** (2026-11-19)
   > GitLab Duo Agent Platform has become more efficient in how it uses the underlying models offered through GitLab. That includes all the latest models f
-- **The best way to use your coding agents with GitLab** (2026-11-19)
-  > Say you and your team already use Claude Code, Codex, Cursor, Devin, or OpenCode to write code. Maybe even more than one of them.What happens next dep
 
 ## Connessioni con Pokefinance
 
