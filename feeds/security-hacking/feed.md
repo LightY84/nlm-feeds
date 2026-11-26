@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-26
 
+### [Microsoft confirms authentication issues after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/)
+*Wed, 25 No*
+
+Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]
+
+---
+### [Hackers reportedly breached CIA intelligence analysis system](https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/)
+*Wed, 25 No*
+
+Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]
+
+---
+### [Thanksgiving: Grateful for the People Behind Every Bet](https://securityboulevard.com/2026/11/thanksgiving-grateful-for-the-people-behind-every-bet/)
+*Thu, 26 No*
+
+Today is Thanksgiving, and I want to use this space for something other than ide...
+
+---
+
+## Aggiornamento 2026-11-26
+
 ### [Remus malware steals Gmail messages via fake Google Sheets extension](https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/)
 *Thu, 26 No*
 
