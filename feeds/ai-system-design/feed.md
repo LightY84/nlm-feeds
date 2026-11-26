@@ -1,6 +1,21 @@
 # AI & System Design — Feed Automatico NLM
 
 
+## Aggiornamento 2026-11-26
+
+### [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)
+*Thu, 26 No*
+
+
+
+---
+### [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
+*Thu, 26 No*
+
+
+
+---
+
 ## Aggiornamento 2026-11-25
 
 ### [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
