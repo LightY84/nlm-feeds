@@ -1,5 +1,5 @@
-# Programming & Architecture — Sintesi Socratica #228
-**Data:** 2026-11-25 | **Ciclo:** 228 | **Articoli analizzati:** 58
+# Programming & Architecture — Sintesi Socratica #229
+**Data:** 2026-11-26 | **Ciclo:** 229 | **Articoli analizzati:** 59
 
 ## Stato attuale della conoscenza
 
@@ -21,6 +21,7 @@
 
 ## Articoli recenti dai feed
 
+- **How Anthropic builds software in 2026 with Katelyn Lesse** (N/A)
 - **Fragments: November 20** (2026-11-20)
   > Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review. Between a typical unhealthy pull request (CodeHeal
 - **Data Contracts** (2026-11-18)
@@ -33,8 +34,6 @@
 - **Why are good developers so wary of agentic development?** (2026-10-29)
   > TL;DRGood developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by 
 - **Software engineering at Google & CS education with Titus Winters** (N/A)
-- **Fragments: October 28** (2026-10-28)
-  > Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they hav
 
 ## Connessioni con Pokefinance
 

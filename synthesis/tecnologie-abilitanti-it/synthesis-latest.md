@@ -1,5 +1,5 @@
-# Tecnologie Abilitanti IT — Sintesi Socratica #228
-**Data:** 2026-11-25 | **Ciclo:** 228 | **Articoli analizzati:** 500
+# Tecnologie Abilitanti IT — Sintesi Socratica #229
+**Data:** 2026-11-26 | **Ciclo:** 229 | **Articoli analizzati:** 502
 
 ## Stato attuale della conoscenza
 
@@ -19,6 +19,8 @@
 
 ## Articoli recenti dai feed
 
+- **Prove your AI agent guardrails work** (N/A)
+- **🚀 The story behind “Drone 2”: My KubeCon + CloudNativeCon North America 2026 keynote** (N/A)
 - **GitLab Dedicated: A go-live guide** (2026-11-24)
   > GitLab Dedicated is a single-tenant SaaS solution that is fully isolated, deployed in your preferred AWS cloud region, and hosted and maintained by Gi
 - **Kubernetes v1.38 Sneak Peek** (N/A)
@@ -28,10 +30,6 @@
 - **Your runtime security tool is not your baseline: Silos dressed as autonomy in cloud native teams** (N/A)
 - **Agentic engineering with GitLab and your local agent: A walkthrough** (2026-11-18)
   > You can build an agentic engineering environment to drive greater automation throughout your workflow. How? Start in the harness you already use and c
-- **Cut your vulnerability backlog with agentic remediation** (2026-11-19)
-  > Vulnerability backlogs are growing faster than teams can clear them. AI writes more code and finds more flaws, while fixes still move at human speed. 
-- **Duo Agent Platform now does up to 2x more per GitLab Credit** (2026-11-19)
-  > GitLab Duo Agent Platform has become more efficient in how it uses the underlying models offered through GitLab. That includes all the latest models f
 
 ## Connessioni con Pokefinance
 
