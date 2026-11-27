@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-27
 
+### [pCloud confirms password manager hack after suspicious login alerts](https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/)
+*Fri, 27 No*
+
+The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]
+
+---
+### [Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs](https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/)
+*Fri, 27 No*
+
+Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these risks. [...]
+
+---
+### [Malwarebytes Antivirus: Get 50% off during Black Friday 2026](https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/)
+*Fri, 27 No*
+
+Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]
+
+---
+
+## Aggiornamento 2026-11-27
+
 ### [New Boston Scientific data breach exposes personal, medical info](https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/)
 *Fri, 27 No*
 
