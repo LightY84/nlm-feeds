@@ -3,6 +3,27 @@
 
 ## Aggiornamento 2026-11-28
 
+### [College Board confirms data breach after unauthorized password changes](https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/)
+*Sat, 28 No*
+
+College Board has confirmed it suffered a data breach after students reported unexpected password changes on Thanksgiving, and the organization said threat actors gained access to its account registration and financial aid application systems. [...]
+
+---
+### [Microsoft pushes emergency hotpatch to fix Windows Server crashes](https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/)
+*Fri, 27 No*
+
+Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]
+
+---
+### [New NFS2ROOT Linux flaw can let attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/)
+*Fri, 27 No*
+
+​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]
+
+---
+
+## Aggiornamento 2026-11-28
+
 ### [Q-Dir and DesktopOK Windows utilities compromised to push Python RAT](https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/)
 *Sat, 28 No*
 
