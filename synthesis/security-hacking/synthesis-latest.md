@@ -1,5 +1,5 @@
-# Security & Hacking — Sintesi Socratica #230
-**Data:** 2026-11-27 | **Ciclo:** 230 | **Articoli analizzati:** 1365
+# Security & Hacking — Sintesi Socratica #231
+**Data:** 2026-11-28 | **Ciclo:** 231 | **Articoli analizzati:** 1371
 
 ## Stato attuale della conoscenza
 
@@ -20,14 +20,14 @@
 
 ## Articoli recenti dai feed
 
+- **pCloud confirms password manager hack after suspicious login alerts** (N/A)
+- **Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs** (N/A)
+- **Malwarebytes Antivirus: Get 50% off during Black Friday 2026** (N/A)
+- **New Boston Scientific data breach exposes personal, medical info** (N/A)
+- **Unpatched Cacti zero-day with public PoC gives remote code execution** (N/A)
+- **US Air Force cloud platform reportedly hacked in latest federal breach** (N/A)
 - **Microsoft confirms authentication issues after November updates** (N/A)
 - **Hackers reportedly breached CIA intelligence analysis system** (N/A)
-- **Thanksgiving: Grateful for the People Behind Every Bet** (N/A)
-- **Remus malware steals Gmail messages via fake Google Sheets extension** (N/A)
-- **SYS010 malware abuses browser management to spy on Gmail, Outlook** (N/A)
-- **Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks** (N/A)
-- **1Password customer data stolen after employee GitHub account breach** (N/A)
-- **Italy and Switzerland warn of autonomous AI-driven cyberattacks** (N/A)
 
 ## Connessioni con Pokefinance
 

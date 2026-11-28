@@ -1,5 +1,5 @@
-# AI & System Design — Sintesi Socratica #230
-**Data:** 2026-11-27 | **Ciclo:** 230 | **Articoli analizzati:** 225
+# AI & System Design — Sintesi Socratica #231
+**Data:** 2026-11-28 | **Ciclo:** 231 | **Articoli analizzati:** 226
 
 ## Stato attuale della conoscenza
 
@@ -18,6 +18,7 @@
 
 ## Articoli recenti dai feed
 
+- **Taking Trainium3 to the Track: Generating Videos with LTX-2.5** (N/A)
 - **Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference** (N/A)
 - **Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems** (N/A)
 - **Where scientists draw the line on AI agents** (N/A)
@@ -25,7 +26,6 @@
 - **Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000** (N/A)
 - **How to build and maintain an agentic evaluation** (N/A)
 - **Finding faster quantum algorithms with agents and formal verification** (N/A)
-- **Introducing Gemini 4 Neon** (N/A)
 
 ## Connessioni con Pokefinance
 
